@@ -1,0 +1,314 @@
+<h2>Rules & Instructions</h2>
+<p>These are the official rules and submission instructions for SAT-Race 2015. If you have
+any questions please contact us by sending an email to satrace2015@googlegroups.com.</p>
+<p>Table of Contents:</p>
+<ol>
+<li><a href="#general">General Rules</a></li>
+<li><a href="#main">Main Track Rules</a></li>
+<li><a href="#parallel">Parallel Track Rules</a></li>
+<li><a href="#api">Incremental Library Track Rules</a></li>
+</ol>
+
+<hr>
+<h3>
+  <a name="general">General Rules</a>
+</h3>
+<h4>Participants</h4>
+<p>
+Each participant of the SAT-Race 2015 must submit a short (1-2 pages pdf-file) description of his system(s).
+This should include a list of all authors of the system and their present institutional affiliations.
+It should also describe any algorithms or data structures that are not standardly used in such systems.
+See system descriptions from <a href="previous.html">
+previous competitions</a> for examples. System descriptions will be posted on the SAT-Race 2015 website.
+</p>
+<p>
+Submitters are encouraged to be physically present at the SAT'15 conference.
+This is, however, not a requirement to participate or win.
+</p>
+<p>
+There will be three tracks (see below) where participants can submit their solvers independently.
+</p>
+
+<h4>Important Dates</h4>
+<p>The following dates apply for each track.</p>
+<table>
+  <tr>
+    <td>Solver/Benchmark Submission from:</td>
+    <td class="date">Already Available</td>
+  </tr>
+  <tr>
+    <td>Solver Registration* Deadline:</td>
+    <td class="date">15th July 2015</td>
+  </tr>
+  <tr>
+    <td>Solver Submission Deadline (final version):</td>
+    <td class="date">6th August 2015</td>
+  </tr>
+  <tr>
+    <td>Benchmark Submission Deadline:</td> 
+    <td class="date">1st July 2015</td>
+  </tr>
+  <tr>
+    <td>Announcement of Results:</td> 
+    <td>At <a href="http://www.cs.utexas.edu/~marijn/sat15/">SAT'15 Conference</a></td>
+  </tr>
+</table>
+<p>*By registration we mean creating a StarExec account and sending an email (to satrace2015@googlegroups.com) with the list of tracks you want to participate in.</p>
+
+<h4>Benchmark Selection</h4>
+<p>
+The benchmark problems for the Main and Parallel tracks will be selected from 
+problems used in previous competitions and newly submitted benchmarks (see the
+<a href="#main">next section</a> for more information on submitting benchmarks).
+The following selection method will be applied:
+</p>
+<ol>
+<li>We randomly select 3 out of the top 7 solvers from the previous competition 
+(<a href="http://satcompetition.org/edacc/sc14/experiment/20/ranking/">
+Sequential, Application SAT+UNSAT track of SAT Competition 2014</a>).</li>
+<li>We run the selected solvers on all the benchmarks with a 1 hour time limit.</li>
+<li>We define the hardness of an instance as the total time the
+three solvers spent on it (maximum is 3 hours in the case that none of the solvers
+could solve the instance within the time limit).</li>
+<li>Using the hardness, we randomly select 300 instances based on a 
+<a href="http://www.wolframalpha.com/input/?i=plot+normal+distribution+sigma%3D1+mu%3D1.5">
+normal distribution with mean 1.5 and standard deviation 1</a>.</li>
+<li>Those 300 instances will be used for the Main Track.</li>
+<li>The top 100 hardest instances out of the 300 will be used for the Parallel Track.</li>
+</ol>
+<p>
+The benchmarks for the Incremental Library Track are applications using a SAT solver in an
+incremental fashion. See the <a href="#api">Incremental Library Track Rules</a> section for more information.
+</p>
+
+
+<h4>Evaluation and Prizes</h4>
+<p>
+The solvers will be compared based on the number of problem instances they can solve within
+the time limit of one hour. For each track there will be four prizes.
+</p>
+<ul>
+<li>
+The first three prizes will be given based on the number of solved instances 
+within a given time limit. The top three solvers that solve the highest number of instances will receive
+these prizes. Ties will be broken based on total runtime.
+</li>
+<li>
+There will be a fourth (special) prize per
+track for the "most innovative" solver by a ranking method that uses the number of
+solved instances not solved by the top three solvers of the track (determined by the ranking above).
+Each solver will get:
+<ul>
+<li>4 points for each solved instance that was not solved by any of the top three solvers</li>
+<li>2 points for each solved instance that was solved by exactly one of the top three solvers</li>
+<li>1 point for each solved instance that was solved by exactly two of the top three solvers</li>
+<li>0 points for each solved instance that was solved by all of the top three solvers</li>
+</ul>
+The special prize will be awarded to the the solver receiving the highest number of points.
+Ties will be broken based on total runtime.
+</ul>
+
+<h4><a name="Portfolios">Portfolios</a></h4>
+<p>
+Portfolio SAT solvers (consisting of different core SAT solvers) may participate in the Race.
+Before including a SAT solver in your portfolio please consult the license/author of the given
+SAT solver whether such usage is allowed.
+</p>
+<h4><a name="Restrictions">Restrictions</a></h4>
+<p>
+We reserve the right to not accept more than two solvers from one submitter per track.
+</p>
+
+<hr>
+<h3><a name="main">Main Track Rules</a></h3>
+
+<h4>Submission and Execution Environment</h4>
+<p>
+The Main track will be run on the <a href="https://www.starexec.org/starexec/public/about.jsp">
+StarExec-cluster</a>. In order to participate you must:
+</p>
+<ol>
+<li><a href="https://www.starexec.org/starexec/public/registration.jsp">
+Register</a> for an account in the <b>SAT community</b> (unless you are already registered).</li>
+<li>Wait until one of the SAT community leaders approves your request (should not take more than 24h).</li>
+<li>Upload your solver binary into the subspace called "SatRace2015" (root/SAT/SatRace2015).
+<ul>
+<li>The uploaded file must have a special format (see the 
+<a href="https://wiki.uiowa.edu/display/stardev/User+Guide#UserGuide-Uploading">
+StarExec User Guide</a> for details, here is an <a href="downloads/minisat220.zip">example with minisat</a>).
+</li>
+<li>The binaries should be statically linked in order to avoid problems with missing libraries.</li>
+<li>The binaries must be compatible with the 
+<a href="https://www.starexec.org/starexec/public/machine-specs.txt">StarExec machine specifications</a>.</li>
+<li>We recommend to select "run test job = yes" with "setting profile = SAT" when uploading a solver. This creates a test job that
+runs the newly upladed solver on a random 3SAT formula with 100 variables (10 seconds time limit). If the test job fails
+your solver binary is probably not compatible with starexec.</li>
+<li>This <a href="https://www.starexec.org/vmimage/">virtual machine image</a> that matches StarExec
+can be useful for compiling the proper binary.</li>
+</ul>
+</li>
+<li>Send an email to satrace2015@googlegroups.com with your system description (see <a href="#general">general rules</a>) 
+and (optionally) your source code.</li>
+</ol>
+
+<h4>Input and Output Format</h4>
+<p>
+The <a href="http://www.satcompetition.org/2004/format-solvers2004.html">input
+and output format requirements</a> are the same as those used for the SAT Competitions.
+</p>
+
+<h4>Benchmark Submission</h4>
+<p>
+The benchmarks are submitted using the <a href="https://www.starexec.org/starexec/public/about.jsp">StarExec</a> system.
+The instructions for submitting a benchmark set are:
+</p>
+<ol>
+<li><a href="https://www.starexec.org/starexec/public/registration.jsp">
+Register</a> for an account in the <b>SAT community</b> (unless you are already registered).</li>
+<li>Wait until one of the SAT community leaders approves your request (should not take more than 24h).</li>
+<li>Create a new subspace in the subspace called "SatRace2015Benchmarks" (root/SAT/SatRace2015Benchmarks).</li>
+<li>Upload your benchmarks into the subspace you created.
+<ul>
+<li>Upload a zipped file containing cnf files (that are not zipped separately).</li>
+<li>Select "place all benchmarks in ..." as the "upload method"</li>
+<li>Select "cnf" as the "benchmark type"</li>
+<li>For more information about uploading benchmarks see the <a href="https://wiki.uiowa.edu/display/stardev/User+Guide">StarExec manual</a></li>
+</ul>
+</li>
+<li>Send an email to satrace2015@googlegroups.com to informs us about your submission, please include a short description of the
+submitted benchmark set(s).</li>
+</ol>
+
+<hr>
+<h3><a name="parallel">Parallel Track Rules</a></h3>
+
+<h4>Execution Environment</h4>
+<p>
+For the Parallel Track we have two stages, the first stage with 8 core computers and the
+second stage with 64 core computers. Due to resource constraints only the best 8 solvers 
+from the first stage (based on the highest number of solved instances) will participate in the second stage.
+The winners (all four prizes) will be selected from the solvers participating in the second stage.
+</p>
+<ul>
+<li>The First Stage will be run on 8 core machines. The configuration of the used computers is the following:<br>
+CPU: 2x Intel Xeon E5430, 2.66 GHz (8 physical cores).<br>
+Memory: 32 GB (24 GB memory limit for solver processes enforced).<br>
+</li>
+<li>
+The Second Stage will be run on 64 core machines with the following configuration:<br>
+CPU: 4x Intel Xeon E5-4640, 2.4 GHz (32 physical + 32 hyper-threading cores).<br>
+Memory: 512 GB
+</li>
+</ul>
+<p>
+The participating solvers will receive a second command line argument indicating the number
+of available cores (8 or 64), the first argument is the cnf input file as usual.
+</p>
+
+<h4>Submission</h4>
+In order to participate in the Parallel Track please send a zip archive to satrace2015@googlegroups.com containing:
+<ul>
+<li>The source code of the solver with a makefile
+<ul>
+<li>Running "make" should result in creating an executable file "solver" in the same directory</li>
+<li>The executable "solver" takes two parameters: the input file and the number of cores (see below)</li>
+</ul>
+</li>
+<li>The system description of the solver (see <a href="#general">general rules</a>)</li>
+</ul>
+
+<h4>Input and Output Format</h4>
+<p>
+The <a href="http://www.satcompetition.org/2004/format-solvers2004.html">input
+and output format requirements</a> are the same as those used for the SAT Competitions except
+for a special second argument indicating the number of available cores.<br>
+Example: <code> "./solver dimacs.cnf 64" </code> runs a solver named "solver" on a cnf file
+named "dimacs.cnf" on a machine with 64 cores.
+</p>
+
+
+<hr>
+<h3><a name="api">Incremental Library Track Rules</a></h3>
+
+<h4>Motivation</h4>
+<p>
+Many applications of SAT are based on solving a sequence of incrementally generated SAT instances.
+In such scenarios the SAT solver is invoked multiple times on the same formula under different assumptions.
+Also the formula is extended by adding new clauses and variables between the invocations. It is possible
+to solve such problem by solving the incrementally generated instances independently, however this might be
+very inefficient compared to an incremental SAT solver, which can reuse knowledge acquired while solving the previous
+instances (for example the learned clauses).
+</p>
+<p>
+There are several SAT solvers that support incremental SAT solving, however each has its own interface, which
+differs from the others. That makes comparing them difficult. Our goal is to have a single interface implemented by
+many different solvers. Users who want to use incremental SAT solvers in their applications would also benefit
+from such an interface. Applications could be written without selecting the concrete incremental SAT solver
+in advance and migrating to a different solver would be just a matter of updating linking parameters.
+</p>
+
+<h4>The Proposed Interface - IPASIR</h4>
+<p>
+The name of the proposed interface is IPASIR, which is the reversed acronym for "Re-entrant Incremental Satisfiability Application Program Interface".
+With an additional space and question mark it can also serve as an expression for offering a brewed beverage to a gentleman.
+</p>
+<p>
+The interface was designed to have the following properties:
+</p>
+<ul>
+<li>Easy to implement, so that SAT solver developers would be willing to support it.</li>
+<li>Easy to use, so that anyone can easily build SAT based applications (can be used for educational purposes).</li>
+<li>Universal and powerful, so that it can be used for a broad range of industrial and research applications.</li>
+</ul>
+<p>
+The interface consists of only 9 functions which are inspired by the incremental interfaces of <a href="http://fmv.jku.at/picosat/">PicoSAT</a>
+and <a href="http://fmv.jku.at/lingeling/">Lingeling</a>. It is defined in the form of a C language header file <a href="downloads/ipasir.h">ipasir.h</a>.
+Please refer to the comments in the header file for more information about the specifications of the interface.
+</p>
+<p>
+We have prepared a package (<a href="downloads/ipasir.zip">ipasir.zip</a>) containing three SAT solvers adapted to IPASIR and a few simple IPASIR based applications.
+One of the adapted SAT solvers in the package is <a href="http://www.sat4j.org/">Sat4j</a> which demonstrates that
+not only solvers written in C/C++ can implement IPASIR. The package also contains a simple Java binding and Java application to
+show how any IPASIR compatible SAT solver can be used in a Java application.
+</p>
+
+<h4>Solver Submission</h4>
+<p>
+In order to participate in the Incremental Library Track please follow these steps:
+</p>
+<ol>
+<li>Implement all the functions defined in the <a href="downloads/ipasir.h">ipasir.h</a> header file.</li>
+<li>Create a directory with your code and makefile following the style of the three example solvers in
+the <a href="downloads/ipasir.zip">ipasir.zip</a> package. Placing your directory in the "ipasir/sat/" directory and
+issuing "make" in the "ipasir/" directory should result in a successful build of all the example
+applications with your solver (and the original example solvers). See the README files located in the package
+for more information.</li>
+<li>Add the system description of your solver (see <a href="#general">general rules</a>) into the directory.</li>
+<li>Pack your directory into a zip file and send it to satrace2015@googlegroups.com</li>
+</ol>
+
+<h4>Benchmark Submission</h4>
+<p>
+The benchmarks for the Incremental Library Track are command line applications that solve
+a problem specified by an input file given as a parameter to the application.
+Please take a look at the example applications in the <a href="downloads/ipasir.zip">ipasir.zip</a> package.
+To create your own benchmark applications follow the style of the  directories in the "ipasir/app/" directory.
+</p>
+<p>
+Prepare your application directory in such a way that placing it in the "ipasir/app/" directory and
+issuing "make" in the "ipasir/" directory results in a successful build of your application (along with the original example applications)
+with all the solvers in the package. Follow the instruction in the README files found in the <a href="downloads/ipasir.zip">ipasir.zip</a> package.
+As the last step add a short text document that describes your application into
+your directory, pack it into a zip file and send it to satrace2015@googlegroups.com.
+</p>
+
+<h4>Benchmark Selection and Evaluation of Solvers</h4>
+<p>
+The benchmarks used for the competition will be selected by the organizers. The solvers will be evaluated by
+the number of problem instances (application + input pairs) solved within a given time limit.
+</p>
+
+
+
+
+

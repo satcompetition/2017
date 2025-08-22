@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Results - SAT Competition</title>
+<link rel="stylesheet" href="main.css" type="text/css">
+<link rel="icon" type="image/x-icon" href="doge2.ico">
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<style>a#results { color:#c20114; }</style>
+</head>
+<body>
+<div class="main">
+  <div class="navigation" w3-include-html="navigation.html"></div>
+  <script>w3.includeHTML();</script>
+  <div class="content">
+<script src="sorttable.js"></script>
+<h2>Results</h2>
+<a href="results/medals.jpg"><img width="600" height="275" src="results/medals-small.jpg"/></a>
+<p>
+The <a href="downloads/satcomp17slides.pdf">slides</a> used at the <a href="http://sat2017.gitlab.io/">2017 SAT Conference</a>.
+</p>
+<p>
+The <a href="http://hdl.handle.net/10138/224324">Proceedings of the SAT Competition 2017: Solver and Benchmark Descriptions</a> is now available.
+</p>
+
+<h3>Parallel Track</h3>
+<p>Full Ranking: (click on the table header to sort by another column)</p>
+<table class="sortable">
+<tr><th>Score</th><th>Total Solved</th><th>SAT Solved</th><th>UNSAT Solved</th><th>Solver Name</th><th>Note</th></tr>
+<tr><td>1229297.26</td><td>237</td><td>113</td><td>124</td><td>syrup24</td><td></td></tr>
+<tr><td>1242909.39</td><td>236</td><td>127</td><td>109</td><td>cbpenelope</td><td>hors concours*</td></tr>
+<tr><td>1266163.50</td><td>239</td><td>110</td><td>129</td><td>plingeling</td><td></td></tr>
+<tr><td>1290273.04</td><td>231</td><td>122</td><td>109</td><td>ccspenelope</td><td>hors concours*</td></tr>
+<tr><td>1334230.98</td><td>227</td><td>112</td><td>115</td><td>syrup48</td><td></td></tr>
+<tr><td>1361020.21</td><td>228</td><td>127</td><td>101</td><td>scalope36</td><td>hors concours*</td></tr>
+<tr><td>1368420.42</td><td>223</td><td>114</td><td>109</td><td>painless</td><td></td></tr>
+<tr><td>1474168.46</td><td>216</td><td>125</td><td>91</td><td>scalope48</td><td>hors concours*</td></tr>
+<tr><td>1562606.67</td><td>208</td><td>103</td><td>105</td><td>abcdsat</td><td>disqualified+</td></tr>
+<tr><td>1564363.11</td><td>209</td><td>98</td><td>111</td><td>treengeling</td><td></td></tr>
+<tr><td>1808778.80</td><td>173</td><td>97</td><td>76</td><td>ddc-submit</td><td></td></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/parallel.csv">here</a>.</p>
+<p>* These solvers produced incorrect answers during the initial execution of the parallel track. 
+The incorrect answers originated from a combination of writing non-unique files to the same network 
+directory and solving benchmarks concurrently. After analyzing the results, the organizers 
+fixed the solvers, all penelope hacks, by changing the code to store files locally. 
+We label them "hors concours" due to requiring a fix by the organizers.
+<p>+ This solver produced incorrect answers.</p>
+
+<h3>Main Track</h3>
+<p>Full Ranking: (click on the table header to sort by another column)</p>
+<table class="sortable">
+<tr><th>Score</th><th>Total Solved</th><th>SAT Solved</th><th>UNSAT Solved</th><th>Solver Name</th></tr>
+<tr><td>1610934.19936</td><td>208</td><td>102</td><td>106</td><td>Maple_LCM_Dist,default</td></tr>
+<tr><td>1640696.51549</td><td>206</td><td>100</td><td>106</td><td>Maple_LCM,default</td></tr>
+<tr><td>1654244.83466</td><td>204</td><td>96</td><td>108</td><td>MapleLRB_LCMoccRestart,default</td></tr>
+<tr><td>1676517.64800</td><td>198</td><td>94</td><td>104</td><td>MapleLRB_LCM,default</td></tr>
+<tr><td>1780711.47396</td><td>188</td><td>93</td><td>95</td><td>MapleCOMSPS_LRB_VSIDS_2_drup,LRB_VSIDS_2_drup</td></tr>
+<tr><td>1798300.37516</td><td>188</td><td>89</td><td>99</td><td>COMiniSatPS_Pulsar_drup,drup</td></tr>
+<tr><td>1805445.41397</td><td>185</td><td>96</td><td>89</td><td>MapleCOMSPS_LRB_VSIDS_drup,LRB_VSIDS_drup</td></tr>
+<tr><td>1825427.456278</td><td>185</td><td>83</td><td>102</td><td>cadical-sc17-proof,default</td></tr>
+<tr><td>1866002.046356</td><td>179</td><td>90</td><td>89</td><td>MapleCOMSPS_CHB_VSIDS_drup,CHB_VSIDS_drup</td></tr>
+<tr><td>1890486.936384</td><td>179</td><td>80</td><td>99</td><td>tch_glucose3,default</td></tr>
+<tr><td>1893632.700389</td><td>180</td><td>85</td><td>95</td><td>glucose-4.1,default</td></tr>
+<tr><td>1898402.228997</td><td>179</td><td>97</td><td>82</td><td>cadical-sc17-agile-proof,default</td></tr>
+<tr><td>1909310.272728</td><td>176</td><td>86</td><td>90</td><td>GHackCOMSPS_drup,ghack_drup</td></tr>
+<tr><td>1917700.082077</td><td>179</td><td>82</td><td>97</td><td>bs_glucose,default</td></tr>
+<tr><td>1958463.892502</td><td>174</td><td>77</td><td>97</td><td>glu_vc,default</td></tr>
+<tr><td>2051828.510509</td><td>161</td><td>82</td><td>79</td><td>tch_glucose2,default</td></tr>
+<tr><td>2057715.184748</td><td>162</td><td>72</td><td>90</td><td>tch_glucose1,default</td></tr>
+<tr><td>2059608.447912</td><td>160</td><td>70</td><td>90</td><td>glucose-3.0+width,default</td></tr>
+<tr><td>2071505.753371</td><td>162</td><td>72</td><td>90</td><td>Riss7,BVE_DRAT</td></tr>
+<tr><td>2124070.48960</td><td>154</td><td>66</td><td>88</td><td>lingeling-bbe,default</td></tr>
+<tr><td>2152106.935935</td><td>150</td><td>75</td><td>75</td><td>Riss7,noPP_DRAT</td></tr>
+<tr><td>2176799.16899</td><td>147</td><td>73</td><td>74</td><td>satUZK-seq,sge</td></tr>
+<tr><td>2187064.479217</td><td>146</td><td>73</td><td>73</td><td>abcdsat_r17,default</td></tr>
+<tr><td>2210323.17325</td><td>144</td><td>70</td><td>74</td><td>satUZK-seq,ge</td></tr>
+<tr><td>2370968.14664</td><td>122</td><td>72</td><td>50</td><td>candy,rsilv</td></tr>
+<tr><td>2379124.15318</td><td>121</td><td>72</td><td>49</td><td>candy,rsili</td></tr>
+<tr><td>2379582.07394</td><td>125</td><td>75</td><td>50</td><td>satUZK-seq,sme</td></tr>
+<tr><td>2384006.56947</td><td>124</td><td>73</td><td>51</td><td>satUZK-seq,me</td></tr>
+<tr><td>2414486.85600</td><td>118</td><td>70</td><td>48</td><td>Candy,default</td></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/main.csv">here</a>.</p>
+
+<h3>NoLimit Track</h3>
+<p>Full Ranking: (click on the table header to sort by another column)</p>
+<table class="sortable">
+<tr><th>Score</th><th>Total Solved</th><th>SAT Solved</th><th>UNSAT Solved</th><th>Solver Name</th></tr>
+<tr><td>1758011.46306</td><td>191</td><td>87</td><td>104</td><td>COMiniSatPS_Pulsar_no_drup,11842,no_drup</td></tr>
+<tr><td>1758801.49709</td><td>191</td><td>93</td><td>98</td><td>MapleCOMSPS_LRB_VSIDS_2_no_drup,11844,LRB_VSIDS_2_no_drup</td></tr>
+<tr><td>1789914.81143</td><td>187</td><td>91</td><td>96</td><td>MapleCOMSPS_LRB_VSIDS_no_drup,11845,LRB_VSIDS_no_drup</td></tr>
+<tr><td>1841142.366584</td><td>183</td><td>82</td><td>101</td><td>cadical-sc17-noproof,11736,default</td></tr>
+<tr><td>1866617.385218</td><td>182</td><td>81</td><td>101</td><td>tch_glucose3,11501,default</td></tr>
+<tr><td>1886016.05001</td><td>178</td><td>84</td><td>94</td><td>MapleCOMSPS_CHB_VSIDS_no_drup,11843,CHB_VSIDS_no_drup</td></tr>
+<tr><td>1896019.748728</td><td>182</td><td>84</td><td>98</td><td>bs_glucose,11498,default</td></tr>
+<tr><td>1906346.216621</td><td>177</td><td>85</td><td>92</td><td>GHackCOMSPS_no_drup,11562,ghack_no_drup</td></tr>
+<tr><td>1908135.631533</td><td>178</td><td>95</td><td>83</td><td>cadical-sc17-agile,11808,default</td></tr>
+<tr><td>1937649.419435</td><td>177</td><td>78</td><td>99</td><td>glu_vc,11430,default</td></tr>
+<tr><td>1953137.918773</td><td>172</td><td>72</td><td>100</td><td>abcdSAT_n17,11383,default</td></tr>
+<tr><td>2018319.205367</td><td>163</td><td>71</td><td>92</td><td>Riss7,11379,default</td></tr>
+<tr><td>2034518.52136</td><td>167</td><td>73</td><td>94</td><td>lingeling-bbe,11703,default</td></tr>
+<tr><td>2038502.142127</td><td>166</td><td>73</td><td>93</td><td>tch_glucose1,11499,default</td></tr>
+<tr><td>2057599.750507</td><td>160</td><td>82</td><td>78</td><td>tch_glucose2,11500,default</td></tr>
+<tr><td>2081416.498327</td><td>159</td><td>71</td><td>88</td><td>Riss7,11379,BVE</td></tr>
+<tr><td>2110551.014322</td><td>155</td><td>67</td><td>88</td><td>abcdsat_r17,11464,default</td></tr>
+<tr><td>2156688.126075</td><td>149</td><td>74</td><td>75</td><td>Riss7,11379,noPP</td></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/nolimit.csv">here</a>.</p>
+
+
+<h3>Random Track</h3>
+<p>Full Ranking: (click on the table header to sort by another column)</p>
+<table class="sortable">
+<tr><th>Score</th><th>Total Solved</th><th>SAT Solved</th><th>UNSAT Solved</th><th>Solver Name</th></tr>
+<tr><td>1794277.02948944</td><td>124</td><td>124</td><td>0</td><td>yalsat,12214,default</td></tr>
+<tr><td>1894840.6841278</td><td>113</td><td>113</td><td>0</td><td>tch_glucose3,11502,default</td></tr>
+<tr><td>2075884.2326014</td><td>97</td><td>97</td><td>0</td><td>Score2SAT,11458,default</td></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/random.csv">here</a>.</p>
+
+
+<h3>Agile Track</h3>
+<p>Full Ranking: (click on the table header to sort by another column)</p>
+<table class="sortable">
+<tr><th>Score</th><th>Total Solved</th><th>SAT Solved</th><th>UNSAT Solved</th><th>Solver Name</th></tr>
+<tr><td>240983.14802533</td><td>3287</td><td>937</td><td>2350</td><td>cadical-agile,12575,default</td></tr>
+<tr><td>248613.04953200</td><td>3129</td><td>704</td><td>2425</td><td>cadical-noproof,12576,default</td></tr>
+<tr><td>257997.93005213</td><td>3162</td><td>825</td><td>2337</td><td>glu_vc,11429,default</td></tr>
+<tr><td>263772.21208122</td><td>3100</td><td>770</td><td>2330</td><td>glucose-4.1,11823,default</td></tr>
+<tr><td>265194.38287133</td><td>3067</td><td>735</td><td>2332</td><td>bs_glucose,11488,default</td></tr>
+<tr><td>267793.43658392</td><td>3058</td><td>720</td><td>2338</td><td>tch_glucose1,11489,default</td></tr>
+<tr><td>268285.43919926</td><td>3057</td><td>724</td><td>2333</td><td>tch_glucose3,11491,default</td></tr>
+<tr><td>276918.67718935</td><td>2986</td><td>665</td><td>2321</td><td>abcdsat_a17,11401,default</td></tr>
+<tr><td>278807.19863166</td><td>2968</td><td>655</td><td>2313</td><td>abcdsat_r17,11463,default</td></tr>
+<tr><td>283825.4259952</td><td>3041</td><td>793</td><td>2248</td><td>Candy,11816,default</td></tr>
+<tr><td>285859.43036240</td><td>2848</td><td>567</td><td>2281</td><td>Riss7,11381,noPP_DRAT</td></tr>
+<tr><td>291201.35945958</td><td>2998</td><td>691</td><td>2307</td><td>Riss7,11381,BVE_DRAT</td></tr>
+<tr><td>297109.93360125</td><td>2837</td><td>565</td><td>2272</td><td>tch_glucose2,11490,default</td></tr>
+<tr><td>353870.82924094</td><td>2395</td><td>139</td><td>2256</td><td>lingeling-bbe,12577,default</td></tr>
+<tr><td>599642.3715939</td><td>3</td><td>0</td><td>3</td><td>yalsat-03s,12578,default</td></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/agile.csv">here</a>.</p>
+
+<h3>Incremental Track</h3>
+<p>Number of solved instances and rank per application:</p>
+<table>
+<tr><th>Solver Name ></th><th colspan="2">abcdSAT</th><th colspan="2">Glucose</th><th colspan="2">Riss</th></tr>
+<tr><th>Application v</th><th>Solved</th><th>Rank</th><th>Solved</th><th>Rank</th><th>Solved</th><th>Rank</th></tr>
+<tr><td>Essential variables</td><td>42</td><td>2.</td><td>45</td><td>1.</td><td>40</td><td>3.</td></tr>
+<tr><td>Longest Simple Path</td><td>95</td><td>1.</td><td>82</td><td>2.</td><td>0</td><td>3.</td></tr>
+<tr><td>Partial MaxSAT</td><td>57</td><td>1.</td><td>56</td><td>2.</td><td>55</td><td>3.</td></tr>
+<tr><td>Pidgeon Hole Principle</td><td>12</td><td>3.</td><td>15</td><td>1.</td><td>15</td><td>1.</td></tr>
+<tr><td>Automated Planning</td><td>63</td><td>1.</td><td>2</td><td>2.</td><td>0</td><td>3.</td></tr>
+<tr><td>ijtihad - QBF Solver</td><td>48</td><td>2.</td><td>1</td><td>3.</td><td>56</td><td>1.</td></tr>
+<tr><td>cbmc - program verification</td><td>60</td><td>3.</td><td>61</td><td>2.</td><td>63</td><td>1.</td></tr>
+<tr><td>satpin - axiom pinpointing</td><td>38</td><td>2.</td><td>0</td><td>3.</td><td>40</td><td>1.</td></tr>
+<tr><th>Average Rank</th><th></th><th>1.875</th><th></th><th>2.0</th><th></th><th>2.0</th></tr>
+</table>
+<p>Detailed results and benchmarks avaliable <a href="results/incremental.zip">here</a>.</p>
+  </div>
+</div>
+</body>
+</html>

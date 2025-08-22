@@ -1,0 +1,3850 @@
+abcdsat,21.0.cnf,SATISFIABLE,139.30
+abcdsat,21.1.cnf,SATISFIABLE,213.08
+abcdsat,21.2.cnf,SATISFIABLE,76.08
+abcdsat,21.3.cnf,SATISFIABLE,196.12
+abcdsat,21.4.cnf,SATISFIABLE,354.42
+abcdsat,21.5.cnf,SATISFIABLE,61.79
+abcdsat,21.6.cnf,SATISFIABLE,205.32
+abcdsat,21.7.cnf,SATISFIABLE,135.23
+abcdsat,21.8.cnf,SATISFIABLE,87.00
+abcdsat,21.9.cnf,SATISFIABLE,95.84
+abcdsat 22.0.cnf UNSOLVED 
+abcdsat 22.1.cnf UNSOLVED 
+abcdsat 22.2.cnf UNSOLVED 
+abcdsat 22.3.cnf UNSOLVED 
+abcdsat 22.4.cnf UNSOLVED 
+abcdsat 22.5.cnf UNSOLVED 
+abcdsat 22.6.cnf UNSOLVED 
+abcdsat 22.7.cnf UNSOLVED 
+abcdsat 22.8.cnf UNSOLVED 
+abcdsat 22.9.cnf UNSOLVED 
+abcdsat 23.0.cnf UNSOLVED 
+abcdsat 23.1.cnf UNSOLVED 
+abcdsat 23.2.cnf UNSOLVED 
+abcdsat 23.3.cnf UNSOLVED 
+abcdsat 23.4.cnf UNSOLVED 
+abcdsat 23.5.cnf UNSOLVED 
+abcdsat 23.6.cnf UNSOLVED 
+abcdsat 23.7.cnf UNSOLVED 
+abcdsat 23.8.cnf UNSOLVED 
+abcdsat 24.0.cnf UNSOLVED 
+abcdsat 24.1.cnf UNSOLVED 
+abcdsat 24.2.cnf UNSOLVED 
+abcdsat 24.3.cnf UNSOLVED 
+abcdsat 24.4.cnf UNSOLVED 
+abcdsat 24.5.cnf UNSOLVED 
+abcdsat 24.6.cnf UNSOLVED 
+abcdsat 24.7.cnf UNSOLVED 
+abcdsat 24.8.cnf UNSOLVED 
+abcdsat 24.9.cnf UNSOLVED 
+abcdsat,9_11.cnf,SATISFIABLE,0.58
+abcdsat,9_12.cnf,SATISFIABLE,31.53
+abcdsat,9_14.cnf,SATISFIABLE,21.01
+abcdsat,9_19.cnf,SATISFIABLE,180.25
+abcdsat,9_1.cnf,SATISFIABLE,1.86
+abcdsat 9_21.cnf UNSOLVED 
+abcdsat 9_22.cnf UNSOLVED 
+abcdsat,9_24.cnf,SATISFIABLE,923.42
+abcdsat 9_25.cnf UNSOLVED 
+abcdsat,9_27.cnf,SATISFIABLE,0.39
+abcdsat,9_29.cnf,SATISFIABLE,50.73
+abcdsat,9_31.cnf,SATISFIABLE,136.12
+abcdsat,9_34.cnf,SATISFIABLE,515.23
+abcdsat 9_38.cnf INCORRECT 
+abcdsat,9_3.cnf,SATISFIABLE,3.29
+abcdsat,9_44.cnf,SATISFIABLE,56.42
+abcdsat,9_49.cnf,SATISFIABLE,76.19
+abcdsat 9_4.cnf UNSOLVED 
+abcdsat,9_50.cnf,SATISFIABLE,24.56
+abcdsat,9_9.cnf,SATISFIABLE,33.40
+abcdsat,ACG-15-10p1.cnf,SATISFIABLE,441.80
+abcdsat,ACG-20-10p1.cnf,SATISFIABLE,1468.62
+abcdsat,ACG-20-5p1.cnf,SATISFIABLE,483.78
+abcdsat,ak128astepbg1btisc.cnf,SATISFIABLE,16.70
+abcdsat,ak128astepbg2asisc.cnf,SATISFIABLE,241.11
+abcdsat ak128astepbg2msaig.cnf UNSOLVED 
+abcdsat,ak128astepbg2msisc.cnf,SATISFIABLE,2011.82
+abcdsat ak128astepmodasaig.cnf UNSOLVED 
+abcdsat ak128astepmodbtisc.cnf UNSOLVED 
+abcdsat,ak128boothbg1btisc.cnf,SATISFIABLE,29.15
+abcdsat,ak128boothbg2asisc.cnf,SATISFIABLE,1056.68
+abcdsat ak128boothbg2msaig.cnf UNSOLVED 
+abcdsat ak128boothbg2msisc.cnf UNSOLVED 
+abcdsat ak128boothboothisc.cnf UNSOLVED 
+abcdsat ak128boothdiagoaig.cnf UNSOLVED 
+abcdsat ak128boothmodasaig.cnf UNSOLVED 
+abcdsat,ak128diagobg1btaig.cnf,SATISFIABLE,22.37
+abcdsat ak128diagobg2asaig.cnf UNSOLVED 
+abcdsat ak128diagodiagoisc.cnf UNSOLVED 
+abcdsat,ak128modasbg1msisc.cnf,SATISFIABLE,27.78
+abcdsat,ak128modasbg1sbisc.cnf,SATISFIABLE,19.27
+abcdsat ak128modasmodasisc.cnf UNSOLVED 
+abcdsat,ak128modbtbg1asaig.cnf,SATISFIABLE,22.49
+abcdsat,ak128modbtbg1asisc.cnf,SATISFIABLE,17.34
+abcdsat,ak128modbtbg1btaig.cnf,SATISFIABLE,22.90
+abcdsat,ak128modbtbg2msisc.cnf,SATISFIABLE,2233.41
+abcdsat ak128modbtsimpbaig.cnf UNSOLVED 
+abcdsat,ak128paralbg1sbisc.cnf,SATISFIABLE,19.43
+abcdsat ak128paralbg2asaig.cnf UNSOLVED 
+abcdsat ak128paralparalisc.cnf UNSOLVED 
+abcdsat ak128paralsimpbaig.cnf UNSOLVED 
+abcdsat,ak128simpbbg1sbisc.cnf,SATISFIABLE,26.30
+abcdsat,ak128simpbbg2asaig.cnf,SATISFIABLE,839.95
+abcdsat,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,100.82
+abcdsat,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,42.91
+abcdsat,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,2.81
+abcdsat,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,23.63
+abcdsat,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,4.98
+abcdsat,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,9.46
+abcdsat,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,33.94
+abcdsat,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,304.67
+abcdsat,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,17.10
+abcdsat,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,28.84
+abcdsat,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,13.99
+abcdsat,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,128.93
+abcdsat,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,88.77
+abcdsat,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,44.36
+abcdsat,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,12.11
+abcdsat,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,13.10
+abcdsat,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,123.64
+abcdsat,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,15.75
+abcdsat,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,10.86
+abcdsat,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,46.13
+abcdsat,bsat180-648.cnf,UNSATISFIABLE,9.75
+abcdsat,bsat192-689.cnf,UNSATISFIABLE,17.54
+abcdsat,bsat201-707.cnf,UNSATISFIABLE,72.94
+abcdsat,bsat210-739.cnf,UNSATISFIABLE,275.81
+abcdsat,gss-22-s100.cnf,SATISFIABLE,336.21
+abcdsat,gss-24-s100.cnf,SATISFIABLE,657.77
+abcdsat gss-26-s100.cnf UNSOLVED 
+abcdsat gss-28-s100.cnf UNSOLVED 
+abcdsat gss-30-s100.cnf UNSOLVED 
+abcdsat gss-32-s100.cnf UNSOLVED 
+abcdsat gss-34-s100.cnf UNSOLVED 
+abcdsat gss-36-s100.cnf UNSOLVED 
+abcdsat gss-38-s100.cnf UNSOLVED 
+abcdsat gss-40-s100.cnf UNSOLVED 
+abcdsat,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,1805.59
+abcdsat,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,2320.31
+abcdsat hwmcc15deep-6s161-k18.cnf UNSOLVED 
+abcdsat,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,2301.19
+abcdsat,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,2538.89
+abcdsat,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,3860.36
+abcdsat,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,264.67
+abcdsat,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,510.61
+abcdsat,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,98.90
+abcdsat,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,2829.34
+abcdsat,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,1292.51
+abcdsat hwmcc15deep-6s341r-k19.cnf UNSOLVED 
+abcdsat hwmcc15deep-6s366r-k72.cnf INCORRECT 
+abcdsat hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+abcdsat hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+abcdsat,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,2014.10
+abcdsat,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,3813.41
+abcdsat,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,319.80
+abcdsat,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,1183.00
+abcdsat,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,1614.34
+abcdsat,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,4547.89
+abcdsat hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+abcdsat hwmcc15deep-beemhanoi4b1-k32.cnf UNSOLVED 
+abcdsat hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+abcdsat,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,2671.70
+abcdsat,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,1235.78
+abcdsat hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+abcdsat hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+abcdsat hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+abcdsat hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+abcdsat hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+abcdsat hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+abcdsat hwmcc15deep-intel032-k84.cnf UNSOLVED 
+abcdsat,hwmcc15deep-intel065-k11.cnf,UNSATISFIABLE,981.47
+abcdsat,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,680.86
+abcdsat hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+abcdsat hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+abcdsat,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,2386.44
+abcdsat hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+abcdsat,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,360.88
+abcdsat hwmcc15deep-oski15a14b30s-k24.cnf UNSOLVED 
+abcdsat,klieber2017s-0300-032-t12.cnf,SATISFIABLE,297.69
+abcdsat,klieber2017s-0300-033-t12.cnf,SATISFIABLE,237.05
+abcdsat,klieber2017s-0300-034-t12.cnf,SATISFIABLE,1148.38
+abcdsat,klieber2017s-0300-035-t12.cnf,SATISFIABLE,104.86
+abcdsat,klieber2017s-0490-022-t12.cnf,SATISFIABLE,5.94
+abcdsat,klieber2017s-0490-023-t12.cnf,SATISFIABLE,11.59
+abcdsat,klieber2017s-0490-024-t12.cnf,SATISFIABLE,40.98
+abcdsat,klieber2017s-0500-022-t12.cnf,SATISFIABLE,6.50
+abcdsat,klieber2017s-0500-023-t12.cnf,SATISFIABLE,15.29
+abcdsat,klieber2017s-0500-024-t12.cnf,SATISFIABLE,8.38
+abcdsat,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,494.58
+abcdsat,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,825.86
+abcdsat,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,270.43
+abcdsat,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,590.56
+abcdsat,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,925.85
+abcdsat,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,309.93
+abcdsat,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,718.31
+abcdsat,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,1705.47
+abcdsat,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,309.91
+abcdsat,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,668.25
+abcdsat,mizh-md5-47-3.cnf,SATISFIABLE,52.61
+abcdsat,mizh-md5-47-5.cnf,SATISFIABLE,21.52
+abcdsat,mizh-md5-48-2.cnf,SATISFIABLE,122.48
+abcdsat,mizh-md5-48-5.cnf,SATISFIABLE,16.19
+abcdsat,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,341.76
+abcdsat,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,174.88
+abcdsat,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,662.58
+abcdsat,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,4660.59
+abcdsat,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,848.11
+abcdsat,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,8.04
+abcdsat,Nb5T06.cnf,UNSATISFIABLE,7.18
+abcdsat,Nb5T07.cnf,UNSATISFIABLE,1019.97
+abcdsat,Nb5T14.cnf,SATISFIABLE,14.62
+abcdsat,Nb5T15.cnf,SATISFIABLE,14.39
+abcdsat,Nb5T16.cnf,SATISFIABLE,0.52
+abcdsat,Nb6T06.cnf,UNSATISFIABLE,7.49
+abcdsat,Nb6T07.cnf,UNSATISFIABLE,932.47
+abcdsat Nb6T25.cnf UNSOLVED 
+abcdsat,Nb6T27.cnf,SATISFIABLE,3.14
+abcdsat Nb6T28.cnf UNSOLVED 
+abcdsat Nb6T29.cnf UNSOLVED 
+abcdsat Nb6T30.cnf UNSOLVED 
+abcdsat,Nb7T07.cnf,UNSATISFIABLE,872.29
+abcdsat Nb7T08.cnf UNSOLVED 
+abcdsat Nb7T42.cnf UNSOLVED 
+abcdsat Nb7T43.cnf UNSOLVED 
+abcdsat Nb7T44.cnf UNSOLVED 
+abcdsat Nb7T45.cnf UNSOLVED 
+abcdsat,Nb7T46.cnf,SATISFIABLE,11.30
+abcdsat,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,10.78
+abcdsat ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+abcdsat,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,7.67
+abcdsat,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,16.77
+abcdsat,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,16.33
+abcdsat,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,6.96
+abcdsat,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,20.31
+abcdsat,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,2487.76
+abcdsat,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,151.81
+abcdsat,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,2340.88
+abcdsat,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,2313.38
+abcdsat ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+abcdsat ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+abcdsat,qpr-bmp280-driver-14.cnf,SATISFIABLE,1.68
+abcdsat,qpr-bmp280-driver-5.cnf,SATISFIABLE,1.85
+abcdsat,rubikcube012.cnf,UNSATISFIABLE,1904.83
+abcdsat rubikcube031.cnf UNSOLVED 
+abcdsat,rubikcube101.cnf,UNSATISFIABLE,66.75
+abcdsat rubikcube120.cnf UNSOLVED 
+abcdsat,rubikcube212.cnf,UNSATISFIABLE,1092.23
+abcdsat rubikcube220.cnf UNSOLVED 
+abcdsat,rubikcube301.cnf,UNSATISFIABLE,93.34
+abcdsat,rubikcube312.cnf,UNSATISFIABLE,1292.10
+abcdsat,rubikcube401.cnf,UNSATISFIABLE,116.09
+abcdsat rubikcube420.cnf UNSOLVED 
+abcdsat,rubikcube512.cnf,UNSATISFIABLE,1199.62
+abcdsat rubikcube520.cnf UNSOLVED 
+abcdsat,rubikcube601.cnf,UNSATISFIABLE,50.64
+abcdsat,rubikcube612.cnf,SATISFIABLE,17.00
+abcdsat,rubikcube701.cnf,UNSATISFIABLE,102.42
+abcdsat rubikcube720.cnf UNSOLVED 
+abcdsat,rubikcube812.cnf,UNSATISFIABLE,1160.21
+abcdsat rubikcube820.cnf UNSOLVED 
+abcdsat,rubikcube901.cnf,UNSATISFIABLE,59.34
+abcdsat,rubikcube912.cnf,UNSATISFIABLE,958.12
+abcdsat,slp-synthesis-aes-top24.cnf,SATISFIABLE,2887.53
+abcdsat,slp-synthesis-aes-top25.cnf,SATISFIABLE,801.07
+abcdsat,slp-synthesis-aes-top26.cnf,SATISFIABLE,3570.23
+abcdsat,slp-synthesis-aes-top28.cnf,SATISFIABLE,4435.65
+abcdsat,slp-synthesis-aes-top29.cnf,SATISFIABLE,2341.19
+abcdsat,slp-synthesis-aes-top30.cnf,SATISFIABLE,1356.72
+abcdsat,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,10.09
+abcdsat,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,19.20
+abcdsat,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,9.81
+abcdsat,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,2.09
+abcdsat,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,1.66
+abcdsat,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,186.36
+abcdsat,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,204.27
+abcdsat,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,177.52
+abcdsat,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,96.73
+abcdsat,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,67.32
+abcdsat,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,705.44
+abcdsat T100.2.0.cnf UNSOLVED 
+abcdsat T101.2.0.cnf UNSOLVED 
+abcdsat T102.2.1.cnf UNSOLVED 
+abcdsat T103.2.1.cnf UNSOLVED 
+abcdsat T104.1.0.cnf UNSOLVED 
+abcdsat T105.2.1.cnf UNSOLVED 
+abcdsat T106.2.0.cnf UNSOLVED 
+abcdsat T108.2.1.cnf UNSOLVED 
+abcdsat,T109.2.0.cnf,UNSATISFIABLE,3240.03
+abcdsat,T110.2.1.cnf,UNSATISFIABLE,4811.30
+abcdsat,T112.1.0.cnf,UNSATISFIABLE,3747.45
+abcdsat T118.2.1.cnf UNSOLVED 
+abcdsat T1.2.1.cnf UNSOLVED 
+abcdsat,T122.1.0.cnf,UNSATISFIABLE,2217.60
+abcdsat,T124.2.0.cnf,UNSATISFIABLE,1180.16
+abcdsat T124.2.1.cnf UNSOLVED 
+abcdsat T133.2.1.cnf UNSOLVED 
+abcdsat,T135.1.1.cnf,UNSATISFIABLE,1320.36
+abcdsat,T141.1.0.cnf,SATISFIABLE,1629.13
+abcdsat,T154.1.0.cnf,UNSATISFIABLE,811.98
+abcdsat,T155.1.0.cnf,UNSATISFIABLE,22.92
+abcdsat T169.1.0.cnf UNSOLVED 
+abcdsat T169.2.0.cnf UNSOLVED 
+abcdsat T49.2.0.cnf UNSOLVED 
+abcdsat T50.2.0.cnf UNSOLVED 
+abcdsat,T55.2.0.cnf,UNSATISFIABLE,176.36
+abcdsat,T58.2.0.cnf,UNSATISFIABLE,282.55
+abcdsat,T65.2.0.cnf,UNSATISFIABLE,459.82
+abcdsat,T65.2.1.cnf,UNSATISFIABLE,2189.07
+abcdsat,T75.2.0.cnf,UNSATISFIABLE,371.99
+abcdsat,T81.2.1.cnf,UNSATISFIABLE,1916.98
+abcdsat,T83.2.1.cnf,UNSATISFIABLE,1985.09
+abcdsat,T85.2.1.cnf,UNSATISFIABLE,1104.45
+abcdsat,T88.2.1.cnf,UNSATISFIABLE,773.97
+abcdsat,T89.2.1.cnf,UNSATISFIABLE,1002.05
+abcdsat,T93.2.1.cnf,UNSATISFIABLE,2202.31
+abcdsat T96.1.1.cnf UNSOLVED 
+abcdsat T97.2.1.cnf UNSOLVED 
+abcdsat,T99.2.0.cnf,UNSATISFIABLE,24.04
+abcdsat T99.2.1.cnf UNSOLVED 
+abcdsat,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,290.58
+abcdsat,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,23.28
+abcdsat,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,10.34
+abcdsat,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,13.69
+abcdsat,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,8.64
+abcdsat,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.57
+abcdsat,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,5.26
+abcdsat,UCG-15-10p1.cnf,SATISFIABLE,326.80
+abcdsat,UCG-20-10p1.cnf,SATISFIABLE,636.60
+abcdsat,UCG-20-5p1.cnf,SATISFIABLE,259.44
+abcdsat,UR-20-10p1.cnf,SATISFIABLE,1963.94
+abcdsat,UR-20-5p1.cnf,SATISFIABLE,312.69
+abcdsat,UTI-20-10p1.cnf,SATISFIABLE,1515.47
+abcdsat,UTI-20-5p1.cnf,SATISFIABLE,227.15
+cbpenelope,21.0.cnf,SATISFIABLE,3.35
+cbpenelope,21.1.cnf,SATISFIABLE,3.30
+cbpenelope,21.2.cnf,SATISFIABLE,8.59
+cbpenelope,21.3.cnf,SATISFIABLE,8.25
+cbpenelope,21.4.cnf,SATISFIABLE,2.68
+cbpenelope,21.5.cnf,SATISFIABLE,22.90
+cbpenelope,21.6.cnf,SATISFIABLE,8.88
+cbpenelope,21.7.cnf,SATISFIABLE,29.65
+cbpenelope,21.8.cnf,SATISFIABLE,22.38
+cbpenelope,21.9.cnf,SATISFIABLE,16.28
+cbpenelope,22.0.cnf,SATISFIABLE,342.53
+cbpenelope,22.1.cnf,SATISFIABLE,688.08
+cbpenelope,22.2.cnf,SATISFIABLE,553.05
+cbpenelope,22.3.cnf,SATISFIABLE,1470.35
+cbpenelope,22.4.cnf,SATISFIABLE,241.15
+cbpenelope,22.5.cnf,SATISFIABLE,540.60
+cbpenelope,22.6.cnf,SATISFIABLE,324.61
+cbpenelope,22.7.cnf,SATISFIABLE,1346.50
+cbpenelope,22.8.cnf,SATISFIABLE,249.44
+cbpenelope,22.9.cnf,SATISFIABLE,49.92
+cbpenelope 23.0.cnf UNSOLVED 
+cbpenelope,23.1.cnf,SATISFIABLE,723.02
+cbpenelope 23.2.cnf UNSOLVED 
+cbpenelope 23.3.cnf UNSOLVED 
+cbpenelope 23.4.cnf UNSOLVED 
+cbpenelope 23.5.cnf UNSOLVED 
+cbpenelope 23.6.cnf UNSOLVED 
+cbpenelope 23.7.cnf UNSOLVED 
+cbpenelope,23.8.cnf,SATISFIABLE,1321.02
+cbpenelope 24.0.cnf UNSOLVED 
+cbpenelope 24.1.cnf UNSOLVED 
+cbpenelope 24.2.cnf UNSOLVED 
+cbpenelope 24.3.cnf UNSOLVED 
+cbpenelope 24.4.cnf UNSOLVED 
+cbpenelope 24.5.cnf UNSOLVED 
+cbpenelope 24.6.cnf UNSOLVED 
+cbpenelope 24.7.cnf UNSOLVED 
+cbpenelope 24.8.cnf UNSOLVED 
+cbpenelope 24.9.cnf UNSOLVED 
+cbpenelope,9_11.cnf,SATISFIABLE,0.31
+cbpenelope,9_12.cnf,SATISFIABLE,3695.03
+cbpenelope,9_14.cnf,SATISFIABLE,228.06
+cbpenelope,9_19.cnf,SATISFIABLE,1736.98
+cbpenelope,9_1.cnf,SATISFIABLE,149.74
+cbpenelope 9_21.cnf UNSOLVED 
+cbpenelope,9_22.cnf,SATISFIABLE,4382.46
+cbpenelope,9_24.cnf,SATISFIABLE,641.20
+cbpenelope,9_25.cnf,SATISFIABLE,685.48
+cbpenelope,9_27.cnf,SATISFIABLE,9.24
+cbpenelope,9_29.cnf,SATISFIABLE,63.84
+cbpenelope,9_31.cnf,SATISFIABLE,1574.33
+cbpenelope,9_34.cnf,SATISFIABLE,72.13
+cbpenelope,9_38.cnf,SATISFIABLE,23.82
+cbpenelope,9_3.cnf,SATISFIABLE,5.98
+cbpenelope,9_44.cnf,SATISFIABLE,1047.99
+cbpenelope,9_49.cnf,SATISFIABLE,166.22
+cbpenelope 9_4.cnf UNSOLVED 
+cbpenelope,9_50.cnf,SATISFIABLE,107.37
+cbpenelope,9_9.cnf,SATISFIABLE,122.67
+cbpenelope,ACG-15-10p1.cnf,SATISFIABLE,94.37
+cbpenelope,ACG-20-10p1.cnf,SATISFIABLE,236.50
+cbpenelope,ACG-20-5p1.cnf,SATISFIABLE,134.04
+cbpenelope,ak128astepbg1btisc.cnf,SATISFIABLE,0.47
+cbpenelope,ak128astepbg2asisc.cnf,SATISFIABLE,0.25
+cbpenelope,ak128astepbg2msaig.cnf,SATISFIABLE,0.25
+cbpenelope ak128astepbg2msisc.cnf UNSOLVED 
+cbpenelope ak128astepmodasaig.cnf UNSOLVED 
+cbpenelope ak128astepmodbtisc.cnf UNSOLVED 
+cbpenelope,ak128boothbg1btisc.cnf,SATISFIABLE,3.17
+cbpenelope ak128boothbg2asisc.cnf UNSOLVED 
+cbpenelope ak128boothbg2msaig.cnf UNSOLVED 
+cbpenelope,ak128boothbg2msisc.cnf,SATISFIABLE,969.78
+cbpenelope ak128boothboothisc.cnf UNSOLVED 
+cbpenelope ak128boothdiagoaig.cnf UNSOLVED 
+cbpenelope ak128boothmodasaig.cnf UNSOLVED 
+cbpenelope,ak128diagobg1btaig.cnf,SATISFIABLE,1.40
+cbpenelope,ak128diagobg2asaig.cnf,SATISFIABLE,0.21
+cbpenelope ak128diagodiagoisc.cnf UNSOLVED 
+cbpenelope,ak128modasbg1msisc.cnf,SATISFIABLE,1.06
+cbpenelope,ak128modasbg1sbisc.cnf,SATISFIABLE,0.33
+cbpenelope ak128modasmodasisc.cnf UNSOLVED 
+cbpenelope,ak128modbtbg1asaig.cnf,SATISFIABLE,0.46
+cbpenelope,ak128modbtbg1asisc.cnf,SATISFIABLE,2.15
+cbpenelope,ak128modbtbg1btaig.cnf,SATISFIABLE,0.62
+cbpenelope,ak128modbtbg2msisc.cnf,SATISFIABLE,2572.32
+cbpenelope ak128modbtsimpbaig.cnf UNSOLVED 
+cbpenelope,ak128paralbg1sbisc.cnf,SATISFIABLE,1.18
+cbpenelope,ak128paralbg2asaig.cnf,SATISFIABLE,0.22
+cbpenelope ak128paralparalisc.cnf UNSOLVED 
+cbpenelope ak128paralsimpbaig.cnf UNSOLVED 
+cbpenelope,ak128simpbbg1sbisc.cnf,SATISFIABLE,0.77
+cbpenelope,ak128simpbbg2asaig.cnf,SATISFIABLE,0.30
+cbpenelope,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,146.58
+cbpenelope,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,294.54
+cbpenelope,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,58.11
+cbpenelope,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,91.45
+cbpenelope,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,138.85
+cbpenelope,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,205.21
+cbpenelope,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,360.69
+cbpenelope,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,97.28
+cbpenelope,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,63.07
+cbpenelope,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,151.00
+cbpenelope,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,0.84
+cbpenelope,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,96.23
+cbpenelope,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,148.27
+cbpenelope,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,123.28
+cbpenelope,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,590.92
+cbpenelope,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,352.91
+cbpenelope,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,536.42
+cbpenelope,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,14.30
+cbpenelope,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,511.49
+cbpenelope,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,73.07
+cbpenelope,bsat180-648.cnf,UNSATISFIABLE,10.58
+cbpenelope,bsat192-689.cnf,UNSATISFIABLE,36.65
+cbpenelope,bsat201-707.cnf,UNSATISFIABLE,121.74
+cbpenelope,bsat210-739.cnf,UNSATISFIABLE,542.11
+cbpenelope,gss-22-s100.cnf,SATISFIABLE,779.80
+cbpenelope gss-24-s100.cnf UNSOLVED 
+cbpenelope,gss-26-s100.cnf,SATISFIABLE,854.09
+cbpenelope gss-28-s100.cnf UNSOLVED 
+cbpenelope gss-30-s100.cnf UNSOLVED 
+cbpenelope gss-32-s100.cnf UNSOLVED 
+cbpenelope gss-34-s100.cnf UNSOLVED 
+cbpenelope gss-36-s100.cnf UNSOLVED 
+cbpenelope gss-38-s100.cnf UNSOLVED 
+cbpenelope gss-40-s100.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,1729.13
+cbpenelope,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,3364.08
+cbpenelope hwmcc15deep-6s161-k18.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,523.97
+cbpenelope,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,675.36
+cbpenelope,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,1117.61
+cbpenelope,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,344.85
+cbpenelope,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,786.74
+cbpenelope,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,60.22
+cbpenelope hwmcc15deep-6s340rb63-k22.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,1411.10
+cbpenelope hwmcc15deep-6s341r-k19.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,311.29
+cbpenelope hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+cbpenelope hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,901.26
+cbpenelope,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,1629.92
+cbpenelope,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,237.05
+cbpenelope,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,689.83
+cbpenelope,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,2166.84
+cbpenelope,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,1929.02
+cbpenelope hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,822.27
+cbpenelope hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,1090.74
+cbpenelope,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,650.61
+cbpenelope hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+cbpenelope hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+cbpenelope hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+cbpenelope hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+cbpenelope hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+cbpenelope hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+cbpenelope hwmcc15deep-intel032-k84.cnf UNSOLVED 
+cbpenelope hwmcc15deep-intel065-k11.cnf UNSOLVED 
+cbpenelope hwmcc15deep-intel066-k10.cnf UNSOLVED 
+cbpenelope hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+cbpenelope hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+cbpenelope,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,1091.18
+cbpenelope,hwmcc15deep-oski15a10b10s-k22.cnf,UNSATISFIABLE,3328.72
+cbpenelope,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,93.55
+cbpenelope,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,1925.41
+cbpenelope,klieber2017s-0300-032-t12.cnf,SATISFIABLE,226.80
+cbpenelope,klieber2017s-0300-033-t12.cnf,SATISFIABLE,875.65
+cbpenelope,klieber2017s-0300-034-t12.cnf,SATISFIABLE,30.86
+cbpenelope,klieber2017s-0300-035-t12.cnf,SATISFIABLE,69.00
+cbpenelope,klieber2017s-0490-022-t12.cnf,SATISFIABLE,4.25
+cbpenelope,klieber2017s-0490-023-t12.cnf,SATISFIABLE,2.77
+cbpenelope,klieber2017s-0490-024-t12.cnf,SATISFIABLE,1.49
+cbpenelope,klieber2017s-0500-022-t12.cnf,SATISFIABLE,4.50
+cbpenelope,klieber2017s-0500-023-t12.cnf,SATISFIABLE,18.28
+cbpenelope,klieber2017s-0500-024-t12.cnf,SATISFIABLE,76.91
+cbpenelope,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,313.17
+cbpenelope,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,540.89
+cbpenelope,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,180.46
+cbpenelope,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,446.89
+cbpenelope,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,587.57
+cbpenelope,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,172.44
+cbpenelope,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,552.05
+cbpenelope,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,1002.55
+cbpenelope,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,195.13
+cbpenelope,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,519.68
+cbpenelope,mizh-md5-47-3.cnf,SATISFIABLE,25.75
+cbpenelope,mizh-md5-47-5.cnf,SATISFIABLE,31.84
+cbpenelope,mizh-md5-48-2.cnf,SATISFIABLE,130.84
+cbpenelope,mizh-md5-48-5.cnf,SATISFIABLE,88.25
+cbpenelope,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,120.57
+cbpenelope,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,934.19
+cbpenelope,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,2408.38
+cbpenelope modgen-n200-m90860q08c40-3230.cnf UNSOLVED 
+cbpenelope,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,1093.84
+cbpenelope,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,5.37
+cbpenelope,Nb5T06.cnf,UNSATISFIABLE,3.20
+cbpenelope,Nb5T07.cnf,UNSATISFIABLE,1590.02
+cbpenelope,Nb5T14.cnf,SATISFIABLE,3279.15
+cbpenelope,Nb5T15.cnf,SATISFIABLE,18.50
+cbpenelope,Nb5T16.cnf,SATISFIABLE,1.25
+cbpenelope,Nb6T06.cnf,UNSATISFIABLE,2.82
+cbpenelope,Nb6T07.cnf,UNSATISFIABLE,1738.86
+cbpenelope,Nb6T25.cnf,SATISFIABLE,1.02
+cbpenelope,Nb6T27.cnf,SATISFIABLE,5.69
+cbpenelope,Nb6T28.cnf,SATISFIABLE,0.95
+cbpenelope,Nb6T29.cnf,SATISFIABLE,0.86
+cbpenelope,Nb6T30.cnf,SATISFIABLE,2.46
+cbpenelope,Nb7T07.cnf,UNSATISFIABLE,1332.70
+cbpenelope Nb7T08.cnf UNSOLVED 
+cbpenelope,Nb7T42.cnf,SATISFIABLE,36.82
+cbpenelope,Nb7T43.cnf,SATISFIABLE,332.58
+cbpenelope,Nb7T44.cnf,SATISFIABLE,9.93
+cbpenelope,Nb7T45.cnf,SATISFIABLE,13.12
+cbpenelope,Nb7T46.cnf,SATISFIABLE,4.81
+cbpenelope,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,2.13
+cbpenelope ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,3.30
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,13.26
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,8.66
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,3.54
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,9.06
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,2874.44
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,119.99
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,2169.88
+cbpenelope,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,2306.50
+cbpenelope ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+cbpenelope ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+cbpenelope,qpr-bmp280-driver-14.cnf,SATISFIABLE,0.35
+cbpenelope,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.12
+cbpenelope,rubikcube012.cnf,UNSATISFIABLE,714.81
+cbpenelope rubikcube031.cnf UNSOLVED 
+cbpenelope,rubikcube101.cnf,UNSATISFIABLE,29.25
+cbpenelope rubikcube120.cnf UNSOLVED 
+cbpenelope,rubikcube212.cnf,UNSATISFIABLE,649.80
+cbpenelope rubikcube220.cnf UNSOLVED 
+cbpenelope,rubikcube301.cnf,UNSATISFIABLE,37.74
+cbpenelope,rubikcube312.cnf,UNSATISFIABLE,678.53
+cbpenelope,rubikcube401.cnf,UNSATISFIABLE,40.59
+cbpenelope rubikcube420.cnf UNSOLVED 
+cbpenelope,rubikcube512.cnf,UNSATISFIABLE,628.17
+cbpenelope rubikcube520.cnf UNSOLVED 
+cbpenelope,rubikcube601.cnf,UNSATISFIABLE,16.40
+cbpenelope,rubikcube612.cnf,SATISFIABLE,283.00
+cbpenelope,rubikcube701.cnf,UNSATISFIABLE,41.42
+cbpenelope rubikcube720.cnf UNSOLVED 
+cbpenelope,rubikcube812.cnf,UNSATISFIABLE,580.15
+cbpenelope rubikcube820.cnf UNSOLVED 
+cbpenelope,rubikcube901.cnf,UNSATISFIABLE,20.24
+cbpenelope,rubikcube912.cnf,UNSATISFIABLE,622.02
+cbpenelope,slp-synthesis-aes-top24.cnf,SATISFIABLE,2055.47
+cbpenelope,slp-synthesis-aes-top25.cnf,SATISFIABLE,1998.36
+cbpenelope,slp-synthesis-aes-top26.cnf,SATISFIABLE,221.04
+cbpenelope,slp-synthesis-aes-top28.cnf,SATISFIABLE,118.89
+cbpenelope,slp-synthesis-aes-top29.cnf,SATISFIABLE,73.59
+cbpenelope,slp-synthesis-aes-top30.cnf,SATISFIABLE,84.26
+cbpenelope,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,0.46
+cbpenelope,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,13.16
+cbpenelope,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,66.40
+cbpenelope,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,2.80
+cbpenelope,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,4.37
+cbpenelope,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,43.77
+cbpenelope,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,45.46
+cbpenelope,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,64.48
+cbpenelope,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,24.79
+cbpenelope,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,28.10
+cbpenelope,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,50.33
+cbpenelope T100.2.0.cnf UNSOLVED 
+cbpenelope T101.2.0.cnf UNSOLVED 
+cbpenelope T102.2.1.cnf UNSOLVED 
+cbpenelope,T103.2.1.cnf,UNSATISFIABLE,631.84
+cbpenelope T104.1.0.cnf UNSOLVED 
+cbpenelope T105.2.1.cnf UNSOLVED 
+cbpenelope T106.2.0.cnf UNSOLVED 
+cbpenelope T108.2.1.cnf UNSOLVED 
+cbpenelope,T109.2.0.cnf,UNSATISFIABLE,371.00
+cbpenelope T110.2.1.cnf UNSOLVED 
+cbpenelope,T112.1.0.cnf,UNSATISFIABLE,461.63
+cbpenelope,T118.2.1.cnf,UNSATISFIABLE,229.56
+cbpenelope T1.2.1.cnf UNSOLVED 
+cbpenelope,T122.1.0.cnf,UNSATISFIABLE,251.89
+cbpenelope,T124.2.0.cnf,UNSATISFIABLE,135.62
+cbpenelope,T124.2.1.cnf,UNSATISFIABLE,386.27
+cbpenelope T133.2.1.cnf UNSOLVED 
+cbpenelope,T135.1.1.cnf,UNSATISFIABLE,94.96
+cbpenelope T141.1.0.cnf UNSOLVED 
+cbpenelope,T154.1.0.cnf,UNSATISFIABLE,153.88
+cbpenelope,T155.1.0.cnf,UNSATISFIABLE,0.81
+cbpenelope,T169.1.0.cnf,SATISFIABLE,1933.98
+cbpenelope T169.2.0.cnf UNSOLVED 
+cbpenelope T49.2.0.cnf UNSOLVED 
+cbpenelope,T50.2.0.cnf,UNSATISFIABLE,235.08
+cbpenelope,T55.2.0.cnf,UNSATISFIABLE,18.99
+cbpenelope,T58.2.0.cnf,UNSATISFIABLE,28.67
+cbpenelope,T65.2.0.cnf,UNSATISFIABLE,54.89
+cbpenelope,T65.2.1.cnf,UNSATISFIABLE,144.45
+cbpenelope,T75.2.0.cnf,UNSATISFIABLE,41.67
+cbpenelope,T81.2.1.cnf,UNSATISFIABLE,182.02
+cbpenelope,T83.2.1.cnf,UNSATISFIABLE,160.06
+cbpenelope,T85.2.1.cnf,UNSATISFIABLE,136.36
+cbpenelope,T88.2.1.cnf,UNSATISFIABLE,114.64
+cbpenelope,T89.2.1.cnf,UNSATISFIABLE,134.03
+cbpenelope,T93.2.1.cnf,UNSATISFIABLE,207.77
+cbpenelope T96.1.1.cnf UNSOLVED 
+cbpenelope T97.2.1.cnf UNSOLVED 
+cbpenelope,T99.2.0.cnf,UNSATISFIABLE,0.48
+cbpenelope T99.2.1.cnf UNSOLVED 
+cbpenelope,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,69.02
+cbpenelope,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,19.74
+cbpenelope,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,4.25
+cbpenelope,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,4.75
+cbpenelope,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,6.24
+cbpenelope,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,2.97
+cbpenelope,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,2.50
+cbpenelope,UCG-15-10p1.cnf,SATISFIABLE,83.94
+cbpenelope,UCG-20-10p1.cnf,SATISFIABLE,121.38
+cbpenelope,UCG-20-5p1.cnf,SATISFIABLE,23.41
+cbpenelope,UR-20-10p1.cnf,SATISFIABLE,387.25
+cbpenelope,UR-20-5p1.cnf,SATISFIABLE,76.93
+cbpenelope,UTI-20-10p1.cnf,SATISFIABLE,195.71
+cbpenelope,UTI-20-5p1.cnf,SATISFIABLE,27.10
+ccspenelope,21.0.cnf,SATISFIABLE,30.34
+ccspenelope,21.1.cnf,SATISFIABLE,3.61
+ccspenelope,21.2.cnf,SATISFIABLE,10.09
+ccspenelope,21.3.cnf,SATISFIABLE,9.05
+ccspenelope,21.4.cnf,SATISFIABLE,12.57
+ccspenelope,21.5.cnf,SATISFIABLE,6.06
+ccspenelope,21.6.cnf,SATISFIABLE,25.41
+ccspenelope,21.7.cnf,SATISFIABLE,8.52
+ccspenelope,21.8.cnf,SATISFIABLE,31.50
+ccspenelope,21.9.cnf,SATISFIABLE,9.97
+ccspenelope,22.0.cnf,SATISFIABLE,691.02
+ccspenelope,22.1.cnf,SATISFIABLE,604.38
+ccspenelope,22.2.cnf,SATISFIABLE,791.59
+ccspenelope,22.3.cnf,SATISFIABLE,691.89
+ccspenelope,22.4.cnf,SATISFIABLE,310.53
+ccspenelope,22.5.cnf,SATISFIABLE,802.37
+ccspenelope,22.6.cnf,SATISFIABLE,1232.41
+ccspenelope,22.7.cnf,SATISFIABLE,988.15
+ccspenelope,22.8.cnf,SATISFIABLE,937.73
+ccspenelope,22.9.cnf,SATISFIABLE,454.41
+ccspenelope 23.0.cnf UNSOLVED 
+ccspenelope 23.1.cnf UNSOLVED 
+ccspenelope 23.2.cnf UNSOLVED 
+ccspenelope 23.3.cnf UNSOLVED 
+ccspenelope 23.4.cnf UNSOLVED 
+ccspenelope 23.5.cnf UNSOLVED 
+ccspenelope 23.6.cnf UNSOLVED 
+ccspenelope 23.7.cnf UNSOLVED 
+ccspenelope,23.8.cnf,SATISFIABLE,1009.84
+ccspenelope 24.0.cnf UNSOLVED 
+ccspenelope 24.1.cnf UNSOLVED 
+ccspenelope 24.2.cnf UNSOLVED 
+ccspenelope 24.3.cnf UNSOLVED 
+ccspenelope 24.4.cnf UNSOLVED 
+ccspenelope 24.5.cnf UNSOLVED 
+ccspenelope 24.6.cnf UNSOLVED 
+ccspenelope 24.7.cnf UNSOLVED 
+ccspenelope 24.8.cnf UNSOLVED 
+ccspenelope 24.9.cnf UNSOLVED 
+ccspenelope,9_11.cnf,SATISFIABLE,0.48
+ccspenelope,9_12.cnf,SATISFIABLE,50.51
+ccspenelope,9_14.cnf,SATISFIABLE,41.26
+ccspenelope,9_19.cnf,SATISFIABLE,657.11
+ccspenelope,9_1.cnf,SATISFIABLE,12.66
+ccspenelope 9_21.cnf UNSOLVED 
+ccspenelope,9_22.cnf,SATISFIABLE,799.86
+ccspenelope,9_24.cnf,SATISFIABLE,276.91
+ccspenelope,9_25.cnf,SATISFIABLE,733.91
+ccspenelope,9_27.cnf,SATISFIABLE,21.72
+ccspenelope,9_29.cnf,SATISFIABLE,21.78
+ccspenelope,9_31.cnf,SATISFIABLE,66.76
+ccspenelope,9_34.cnf,SATISFIABLE,263.61
+ccspenelope,9_38.cnf,SATISFIABLE,13.60
+ccspenelope,9_3.cnf,SATISFIABLE,2.29
+ccspenelope,9_44.cnf,SATISFIABLE,2.48
+ccspenelope,9_49.cnf,SATISFIABLE,39.29
+ccspenelope,9_4.cnf,SATISFIABLE,277.51
+ccspenelope,9_50.cnf,SATISFIABLE,188.23
+ccspenelope,9_9.cnf,SATISFIABLE,26.45
+ccspenelope,ACG-15-10p1.cnf,SATISFIABLE,92.75
+ccspenelope,ACG-20-10p1.cnf,SATISFIABLE,174.26
+ccspenelope,ACG-20-5p1.cnf,SATISFIABLE,37.79
+ccspenelope,ak128astepbg1btisc.cnf,SATISFIABLE,1.45
+ccspenelope,ak128astepbg2asisc.cnf,SATISFIABLE,0.27
+ccspenelope,ak128astepbg2msaig.cnf,SATISFIABLE,0.24
+ccspenelope ak128astepbg2msisc.cnf UNSOLVED 
+ccspenelope ak128astepmodasaig.cnf UNSOLVED 
+ccspenelope ak128astepmodbtisc.cnf UNSOLVED 
+ccspenelope,ak128boothbg1btisc.cnf,SATISFIABLE,3.90
+ccspenelope,ak128boothbg2asisc.cnf,SATISFIABLE,659.68
+ccspenelope,ak128boothbg2msaig.cnf,SATISFIABLE,0.35
+ccspenelope ak128boothbg2msisc.cnf UNSOLVED 
+ccspenelope ak128boothboothisc.cnf UNSOLVED 
+ccspenelope ak128boothdiagoaig.cnf UNSOLVED 
+ccspenelope ak128boothmodasaig.cnf UNSOLVED 
+ccspenelope,ak128diagobg1btaig.cnf,SATISFIABLE,0.44
+ccspenelope,ak128diagobg2asaig.cnf,SATISFIABLE,0.25
+ccspenelope ak128diagodiagoisc.cnf UNSOLVED 
+ccspenelope,ak128modasbg1msisc.cnf,SATISFIABLE,0.26
+ccspenelope,ak128modasbg1sbisc.cnf,SATISFIABLE,0.37
+ccspenelope ak128modasmodasisc.cnf UNSOLVED 
+ccspenelope,ak128modbtbg1asaig.cnf,SATISFIABLE,1.10
+ccspenelope,ak128modbtbg1asisc.cnf,SATISFIABLE,1.44
+ccspenelope,ak128modbtbg1btaig.cnf,SATISFIABLE,1.49
+ccspenelope ak128modbtbg2msisc.cnf UNSOLVED 
+ccspenelope ak128modbtsimpbaig.cnf UNSOLVED 
+ccspenelope,ak128paralbg1sbisc.cnf,SATISFIABLE,0.31
+ccspenelope,ak128paralbg2asaig.cnf,SATISFIABLE,0.24
+ccspenelope ak128paralparalisc.cnf UNSOLVED 
+ccspenelope ak128paralsimpbaig.cnf UNSOLVED 
+ccspenelope,ak128simpbbg1sbisc.cnf,SATISFIABLE,0.74
+ccspenelope,ak128simpbbg2asaig.cnf,SATISFIABLE,0.30
+ccspenelope,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,186.60
+ccspenelope,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,487.20
+ccspenelope,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,115.58
+ccspenelope,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,224.11
+ccspenelope,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,292.40
+ccspenelope,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,344.50
+ccspenelope,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,405.19
+ccspenelope,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,241.87
+ccspenelope,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,108.40
+ccspenelope,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,203.10
+ccspenelope,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,4.57
+ccspenelope,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,225.76
+ccspenelope,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,149.21
+ccspenelope,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,49.48
+ccspenelope,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,1361.89
+ccspenelope,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,834.98
+ccspenelope,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,17.37
+ccspenelope,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,69.94
+ccspenelope,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,1054.45
+ccspenelope,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,28.15
+ccspenelope,bsat180-648.cnf,UNSATISFIABLE,30.70
+ccspenelope,bsat192-689.cnf,UNSATISFIABLE,79.76
+ccspenelope,bsat201-707.cnf,UNSATISFIABLE,263.38
+ccspenelope,bsat210-739.cnf,UNSATISFIABLE,970.94
+ccspenelope,gss-22-s100.cnf,SATISFIABLE,2693.82
+ccspenelope gss-24-s100.cnf UNSOLVED 
+ccspenelope,gss-26-s100.cnf,SATISFIABLE,4100.09
+ccspenelope gss-28-s100.cnf UNSOLVED 
+ccspenelope gss-30-s100.cnf UNSOLVED 
+ccspenelope gss-32-s100.cnf UNSOLVED 
+ccspenelope gss-34-s100.cnf UNSOLVED 
+ccspenelope gss-36-s100.cnf UNSOLVED 
+ccspenelope gss-38-s100.cnf UNSOLVED 
+ccspenelope gss-40-s100.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,914.91
+ccspenelope,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,3048.56
+ccspenelope hwmcc15deep-6s161-k18.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,394.86
+ccspenelope,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,445.26
+ccspenelope,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,791.86
+ccspenelope,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,254.18
+ccspenelope,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,334.38
+ccspenelope,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,5.41
+ccspenelope,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,290.88
+ccspenelope,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,144.36
+ccspenelope,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,524.70
+ccspenelope,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,219.48
+ccspenelope hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+ccspenelope hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,555.80
+ccspenelope,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,1310.36
+ccspenelope,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,353.75
+ccspenelope,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,880.95
+ccspenelope,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,1289.97
+ccspenelope,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,1496.64
+ccspenelope hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,918.14
+ccspenelope hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,946.45
+ccspenelope,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,729.67
+ccspenelope hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+ccspenelope hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+ccspenelope hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+ccspenelope hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+ccspenelope hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+ccspenelope hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,3895.83
+ccspenelope hwmcc15deep-intel065-k11.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,3065.84
+ccspenelope hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+ccspenelope hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+ccspenelope hwmcc15deep-oski15a10b10s-k20.cnf UNSOLVED 
+ccspenelope hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+ccspenelope,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,263.88
+ccspenelope,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,775.90
+ccspenelope,klieber2017s-0300-032-t12.cnf,SATISFIABLE,203.04
+ccspenelope,klieber2017s-0300-033-t12.cnf,SATISFIABLE,71.41
+ccspenelope,klieber2017s-0300-034-t12.cnf,SATISFIABLE,207.43
+ccspenelope,klieber2017s-0300-035-t12.cnf,SATISFIABLE,60.12
+ccspenelope,klieber2017s-0490-022-t12.cnf,SATISFIABLE,4.56
+ccspenelope,klieber2017s-0490-023-t12.cnf,SATISFIABLE,0.58
+ccspenelope,klieber2017s-0490-024-t12.cnf,SATISFIABLE,0.60
+ccspenelope,klieber2017s-0500-022-t12.cnf,SATISFIABLE,0.86
+ccspenelope,klieber2017s-0500-023-t12.cnf,SATISFIABLE,7.37
+ccspenelope,klieber2017s-0500-024-t12.cnf,SATISFIABLE,12.28
+ccspenelope,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,122.41
+ccspenelope,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,77.49
+ccspenelope,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,318.91
+ccspenelope,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,548.01
+ccspenelope,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,307.14
+ccspenelope,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,329.23
+ccspenelope,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,638.00
+ccspenelope,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,1155.29
+ccspenelope,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,324.66
+ccspenelope,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,686.96
+ccspenelope,mizh-md5-47-3.cnf,SATISFIABLE,45.07
+ccspenelope,mizh-md5-47-5.cnf,SATISFIABLE,39.44
+ccspenelope,mizh-md5-48-2.cnf,SATISFIABLE,56.24
+ccspenelope,mizh-md5-48-5.cnf,SATISFIABLE,86.00
+ccspenelope,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,196.27
+ccspenelope,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,39.88
+ccspenelope,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,51.13
+ccspenelope,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,330.62
+ccspenelope,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,112.36
+ccspenelope,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,4.86
+ccspenelope,Nb5T06.cnf,UNSATISFIABLE,14.95
+ccspenelope,Nb5T07.cnf,UNSATISFIABLE,4709.92
+ccspenelope Nb5T14.cnf UNSOLVED 
+ccspenelope,Nb5T15.cnf,SATISFIABLE,119.33
+ccspenelope,Nb5T16.cnf,SATISFIABLE,222.72
+ccspenelope,Nb6T06.cnf,UNSATISFIABLE,12.80
+ccspenelope Nb6T07.cnf UNSOLVED 
+ccspenelope Nb6T25.cnf UNSOLVED 
+ccspenelope Nb6T27.cnf UNSOLVED 
+ccspenelope Nb6T28.cnf UNSOLVED 
+ccspenelope,Nb6T29.cnf,SATISFIABLE,297.81
+ccspenelope,Nb6T30.cnf,SATISFIABLE,257.17
+ccspenelope Nb7T07.cnf UNSOLVED 
+ccspenelope Nb7T08.cnf UNSOLVED 
+ccspenelope Nb7T42.cnf UNSOLVED 
+ccspenelope,Nb7T43.cnf,SATISFIABLE,1330.60
+ccspenelope Nb7T44.cnf UNSOLVED 
+ccspenelope,Nb7T45.cnf,SATISFIABLE,146.23
+ccspenelope,Nb7T46.cnf,SATISFIABLE,401.10
+ccspenelope,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,2.19
+ccspenelope ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,7.00
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,30.64
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,20.66
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,7.24
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,22.78
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,4346.46
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,247.73
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,4104.21
+ccspenelope,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,2805.79
+ccspenelope ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+ccspenelope ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+ccspenelope,qpr-bmp280-driver-14.cnf,SATISFIABLE,0.20
+ccspenelope,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.24
+ccspenelope,rubikcube012.cnf,UNSATISFIABLE,1090.36
+ccspenelope rubikcube031.cnf UNSOLVED 
+ccspenelope,rubikcube101.cnf,UNSATISFIABLE,71.84
+ccspenelope rubikcube120.cnf UNSOLVED 
+ccspenelope,rubikcube212.cnf,UNSATISFIABLE,1222.78
+ccspenelope rubikcube220.cnf UNSOLVED 
+ccspenelope,rubikcube301.cnf,UNSATISFIABLE,92.67
+ccspenelope,rubikcube312.cnf,UNSATISFIABLE,1142.70
+ccspenelope,rubikcube401.cnf,UNSATISFIABLE,86.46
+ccspenelope rubikcube420.cnf UNSOLVED 
+ccspenelope,rubikcube512.cnf,UNSATISFIABLE,1333.98
+ccspenelope rubikcube520.cnf UNSOLVED 
+ccspenelope,rubikcube601.cnf,UNSATISFIABLE,51.44
+ccspenelope,rubikcube612.cnf,SATISFIABLE,114.22
+ccspenelope,rubikcube701.cnf,UNSATISFIABLE,98.43
+ccspenelope rubikcube720.cnf UNSOLVED 
+ccspenelope,rubikcube812.cnf,UNSATISFIABLE,1063.10
+ccspenelope rubikcube820.cnf UNSOLVED 
+ccspenelope,rubikcube901.cnf,UNSATISFIABLE,50.83
+ccspenelope,rubikcube912.cnf,UNSATISFIABLE,1113.60
+ccspenelope,slp-synthesis-aes-top24.cnf,SATISFIABLE,4825.42
+ccspenelope,slp-synthesis-aes-top25.cnf,SATISFIABLE,963.72
+ccspenelope,slp-synthesis-aes-top26.cnf,SATISFIABLE,143.70
+ccspenelope,slp-synthesis-aes-top28.cnf,SATISFIABLE,93.01
+ccspenelope,slp-synthesis-aes-top29.cnf,SATISFIABLE,132.18
+ccspenelope,slp-synthesis-aes-top30.cnf,SATISFIABLE,90.56
+ccspenelope,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,11.39
+ccspenelope,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,43.74
+ccspenelope,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,17.26
+ccspenelope,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,0.34
+ccspenelope,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,8.48
+ccspenelope,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,87.62
+ccspenelope,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,76.81
+ccspenelope,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,174.66
+ccspenelope,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,59.08
+ccspenelope,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,76.93
+ccspenelope,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,610.78
+ccspenelope T100.2.0.cnf UNSOLVED 
+ccspenelope T101.2.0.cnf UNSOLVED 
+ccspenelope T102.2.1.cnf UNSOLVED 
+ccspenelope,T103.2.1.cnf,UNSATISFIABLE,649.73
+ccspenelope T104.1.0.cnf UNSOLVED 
+ccspenelope T105.2.1.cnf UNSOLVED 
+ccspenelope,T106.2.0.cnf,UNSATISFIABLE,380.38
+ccspenelope T108.2.1.cnf UNSOLVED 
+ccspenelope,T109.2.0.cnf,UNSATISFIABLE,480.21
+ccspenelope T110.2.1.cnf UNSOLVED 
+ccspenelope,T112.1.0.cnf,UNSATISFIABLE,720.05
+ccspenelope,T118.2.1.cnf,UNSATISFIABLE,339.84
+ccspenelope T1.2.1.cnf UNSOLVED 
+ccspenelope,T122.1.0.cnf,UNSATISFIABLE,481.48
+ccspenelope,T124.2.0.cnf,UNSATISFIABLE,218.42
+ccspenelope,T124.2.1.cnf,UNSATISFIABLE,410.40
+ccspenelope T133.2.1.cnf UNSOLVED 
+ccspenelope,T135.1.1.cnf,UNSATISFIABLE,153.92
+ccspenelope T141.1.0.cnf UNSOLVED 
+ccspenelope,T154.1.0.cnf,UNSATISFIABLE,323.10
+ccspenelope,T155.1.0.cnf,UNSATISFIABLE,0.85
+ccspenelope,T169.1.0.cnf,SATISFIABLE,2219.80
+ccspenelope T169.2.0.cnf UNSOLVED 
+ccspenelope T49.2.0.cnf UNSOLVED 
+ccspenelope T50.2.0.cnf UNSOLVED 
+ccspenelope,T55.2.0.cnf,UNSATISFIABLE,45.76
+ccspenelope,T58.2.0.cnf,UNSATISFIABLE,71.27
+ccspenelope,T65.2.0.cnf,UNSATISFIABLE,85.68
+ccspenelope,T65.2.1.cnf,UNSATISFIABLE,205.35
+ccspenelope,T75.2.0.cnf,UNSATISFIABLE,55.42
+ccspenelope,T81.2.1.cnf,UNSATISFIABLE,155.42
+ccspenelope,T83.2.1.cnf,UNSATISFIABLE,180.13
+ccspenelope,T85.2.1.cnf,UNSATISFIABLE,149.65
+ccspenelope,T88.2.1.cnf,UNSATISFIABLE,179.96
+ccspenelope,T89.2.1.cnf,UNSATISFIABLE,157.52
+ccspenelope,T93.2.1.cnf,UNSATISFIABLE,184.25
+ccspenelope T96.1.1.cnf UNSOLVED 
+ccspenelope T97.2.1.cnf UNSOLVED 
+ccspenelope,T99.2.0.cnf,UNSATISFIABLE,0.50
+ccspenelope T99.2.1.cnf UNSOLVED 
+ccspenelope,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,67.03
+ccspenelope,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,20.19
+ccspenelope,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,8.16
+ccspenelope,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,7.79
+ccspenelope,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,13.11
+ccspenelope,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.62
+ccspenelope,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,6.55
+ccspenelope,UCG-15-10p1.cnf,SATISFIABLE,39.52
+ccspenelope,UCG-20-10p1.cnf,SATISFIABLE,162.82
+ccspenelope,UCG-20-5p1.cnf,SATISFIABLE,20.77
+ccspenelope,UR-20-10p1.cnf,SATISFIABLE,149.38
+ccspenelope,UR-20-5p1.cnf,SATISFIABLE,69.19
+ccspenelope,UTI-20-10p1.cnf,SATISFIABLE,172.80
+ccspenelope,UTI-20-5p1.cnf,SATISFIABLE,56.99
+ddc-submit,21.0.cnf,SATISFIABLE,13.67
+ddc-submit,21.1.cnf,SATISFIABLE,18.75
+ddc-submit,21.2.cnf,SATISFIABLE,21.67
+ddc-submit,21.3.cnf,SATISFIABLE,17.08
+ddc-submit,21.4.cnf,SATISFIABLE,19.08
+ddc-submit,21.5.cnf,SATISFIABLE,15.67
+ddc-submit,21.6.cnf,SATISFIABLE,12.75
+ddc-submit,21.7.cnf,SATISFIABLE,12.50
+ddc-submit,21.8.cnf,SATISFIABLE,6.58
+ddc-submit,21.9.cnf,SATISFIABLE,15.50
+ddc-submit,22.0.cnf,SATISFIABLE,948.75
+ddc-submit 22.1.cnf UNSOLVED 
+ddc-submit,22.2.cnf,SATISFIABLE,397.58
+ddc-submit,22.3.cnf,SATISFIABLE,21.33
+ddc-submit,22.4.cnf,SATISFIABLE,423.00
+ddc-submit 22.5.cnf UNSOLVED 
+ddc-submit,22.6.cnf,SATISFIABLE,147.50
+ddc-submit 22.7.cnf UNSOLVED 
+ddc-submit 22.8.cnf UNSOLVED 
+ddc-submit 22.9.cnf UNSOLVED 
+ddc-submit 23.0.cnf UNSOLVED 
+ddc-submit 23.1.cnf UNSOLVED 
+ddc-submit 23.2.cnf UNSOLVED 
+ddc-submit 23.3.cnf UNSOLVED 
+ddc-submit 23.4.cnf UNSOLVED 
+ddc-submit 23.5.cnf UNSOLVED 
+ddc-submit 23.6.cnf UNSOLVED 
+ddc-submit 23.7.cnf UNSOLVED 
+ddc-submit 23.8.cnf UNSOLVED 
+ddc-submit 24.0.cnf UNSOLVED 
+ddc-submit 24.1.cnf UNSOLVED 
+ddc-submit 24.2.cnf UNSOLVED 
+ddc-submit 24.3.cnf UNSOLVED 
+ddc-submit 24.4.cnf UNSOLVED 
+ddc-submit 24.5.cnf UNSOLVED 
+ddc-submit 24.6.cnf UNSOLVED 
+ddc-submit 24.7.cnf UNSOLVED 
+ddc-submit 24.8.cnf UNSOLVED 
+ddc-submit 24.9.cnf UNSOLVED 
+ddc-submit,9_11.cnf,SATISFIABLE,1.83
+ddc-submit,9_12.cnf,SATISFIABLE,5.58
+ddc-submit,9_14.cnf,SATISFIABLE,313.67
+ddc-submit,9_19.cnf,SATISFIABLE,90.75
+ddc-submit,9_1.cnf,SATISFIABLE,7.33
+ddc-submit 9_21.cnf UNSOLVED 
+ddc-submit 9_22.cnf UNSOLVED 
+ddc-submit,9_24.cnf,SATISFIABLE,53.25
+ddc-submit,9_25.cnf,SATISFIABLE,12.58
+ddc-submit,9_27.cnf,SATISFIABLE,6.42
+ddc-submit,9_29.cnf,SATISFIABLE,2.67
+ddc-submit,9_31.cnf,SATISFIABLE,12.08
+ddc-submit,9_34.cnf,SATISFIABLE,6.67
+ddc-submit,9_38.cnf,SATISFIABLE,8.25
+ddc-submit,9_3.cnf,SATISFIABLE,4.58
+ddc-submit,9_44.cnf,SATISFIABLE,9.25
+ddc-submit,9_49.cnf,SATISFIABLE,7.17
+ddc-submit,9_4.cnf,SATISFIABLE,131.33
+ddc-submit,9_50.cnf,SATISFIABLE,6.75
+ddc-submit,9_9.cnf,SATISFIABLE,4.17
+ddc-submit,ACG-15-10p1.cnf,SATISFIABLE,29.42
+ddc-submit,ACG-20-10p1.cnf,SATISFIABLE,148.42
+ddc-submit,ACG-20-5p1.cnf,SATISFIABLE,26.08
+ddc-submit,ak128astepbg1btisc.cnf,SATISFIABLE,3.67
+ddc-submit ak128astepbg2asisc.cnf UNSOLVED 
+ddc-submit ak128astepbg2msaig.cnf UNSOLVED 
+ddc-submit ak128astepbg2msisc.cnf UNSOLVED 
+ddc-submit ak128astepmodasaig.cnf UNSOLVED 
+ddc-submit ak128astepmodbtisc.cnf UNSOLVED 
+ddc-submit,ak128boothbg1btisc.cnf,SATISFIABLE,5.58
+ddc-submit ak128boothbg2asisc.cnf UNSOLVED 
+ddc-submit ak128boothbg2msaig.cnf UNSOLVED 
+ddc-submit ak128boothbg2msisc.cnf UNSOLVED 
+ddc-submit ak128boothboothisc.cnf UNSOLVED 
+ddc-submit ak128boothdiagoaig.cnf UNSOLVED 
+ddc-submit ak128boothmodasaig.cnf UNSOLVED 
+ddc-submit,ak128diagobg1btaig.cnf,SATISFIABLE,4.75
+ddc-submit ak128diagobg2asaig.cnf UNSOLVED 
+ddc-submit ak128diagodiagoisc.cnf UNSOLVED 
+ddc-submit,ak128modasbg1msisc.cnf,SATISFIABLE,3.75
+ddc-submit,ak128modasbg1sbisc.cnf,SATISFIABLE,4.08
+ddc-submit ak128modasmodasisc.cnf UNSOLVED 
+ddc-submit,ak128modbtbg1asaig.cnf,SATISFIABLE,7.83
+ddc-submit,ak128modbtbg1asisc.cnf,SATISFIABLE,5.25
+ddc-submit,ak128modbtbg1btaig.cnf,SATISFIABLE,13.50
+ddc-submit ak128modbtbg2msisc.cnf UNSOLVED 
+ddc-submit ak128modbtsimpbaig.cnf UNSOLVED 
+ddc-submit,ak128paralbg1sbisc.cnf,SATISFIABLE,4.42
+ddc-submit ak128paralbg2asaig.cnf UNSOLVED 
+ddc-submit ak128paralparalisc.cnf UNSOLVED 
+ddc-submit ak128paralsimpbaig.cnf UNSOLVED 
+ddc-submit,ak128simpbbg1sbisc.cnf,SATISFIABLE,11.67
+ddc-submit ak128simpbbg2asaig.cnf UNSOLVED 
+ddc-submit,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,460.08
+ddc-submit,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,124.58
+ddc-submit,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,122.42
+ddc-submit,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,98.00
+ddc-submit,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,121.50
+ddc-submit,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,130.08
+ddc-submit,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,121.00
+ddc-submit,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,90.92
+ddc-submit,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,118.92
+ddc-submit,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,266.58
+ddc-submit,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,8.83
+ddc-submit,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,12.92
+ddc-submit blockpuzzle_9x9_s1_free8.cnf UNSOLVED 
+ddc-submit,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,18.08
+ddc-submit,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,131.17
+ddc-submit,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,72.00
+ddc-submit,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,43.67
+ddc-submit,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,11.33
+ddc-submit,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,61.33
+ddc-submit,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,12.42
+ddc-submit,bsat180-648.cnf,UNSATISFIABLE,5.33
+ddc-submit,bsat192-689.cnf,UNSATISFIABLE,7.58
+ddc-submit,bsat201-707.cnf,UNSATISFIABLE,14.92
+ddc-submit,bsat210-739.cnf,UNSATISFIABLE,15.83
+ddc-submit,gss-22-s100.cnf,SATISFIABLE,205.83
+ddc-submit,gss-24-s100.cnf,SATISFIABLE,2091.00
+ddc-submit gss-26-s100.cnf UNSOLVED 
+ddc-submit gss-28-s100.cnf UNSOLVED 
+ddc-submit gss-30-s100.cnf UNSOLVED 
+ddc-submit gss-32-s100.cnf UNSOLVED 
+ddc-submit gss-34-s100.cnf UNSOLVED 
+ddc-submit gss-36-s100.cnf UNSOLVED 
+ddc-submit gss-38-s100.cnf UNSOLVED 
+ddc-submit gss-40-s100.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s105-k35.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s161-k17.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s161-k18.cnf UNSOLVED 
+ddc-submit,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,526.75
+ddc-submit hwmcc15deep-6s188-k44.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s188-k46.cnf UNSOLVED 
+ddc-submit,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,96.42
+ddc-submit,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,112.00
+ddc-submit,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,114.58
+ddc-submit hwmcc15deep-6s340rb63-k22.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s341r-k16.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s341r-k19.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s366r-k72.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s44-k38.cnf UNSOLVED 
+ddc-submit hwmcc15deep-6s44-k40.cnf UNSOLVED 
+ddc-submit,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,511.08
+ddc-submit,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,1268.58
+ddc-submit hwmcc15deep-beembkry8b1-k45.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemcmbrdg7f2-k32.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemhanoi4b1-k32.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemlifts3b1-k29.cnf UNSOLVED 
+ddc-submit hwmcc15deep-beemloyd3b1-k31.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+ddc-submit hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+ddc-submit hwmcc15deep-intel032-k84.cnf UNSOLVED 
+ddc-submit hwmcc15deep-intel065-k11.cnf UNSOLVED 
+ddc-submit hwmcc15deep-intel066-k10.cnf UNSOLVED 
+ddc-submit hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+ddc-submit hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+ddc-submit hwmcc15deep-oski15a10b10s-k20.cnf UNSOLVED 
+ddc-submit hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+ddc-submit,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,49.83
+ddc-submit hwmcc15deep-oski15a14b30s-k24.cnf UNSOLVED 
+ddc-submit,klieber2017s-0300-032-t12.cnf,SATISFIABLE,91.08
+ddc-submit,klieber2017s-0300-033-t12.cnf,SATISFIABLE,2211.92
+ddc-submit,klieber2017s-0300-034-t12.cnf,SATISFIABLE,377.92
+ddc-submit,klieber2017s-0300-035-t12.cnf,SATISFIABLE,1414.67
+ddc-submit,klieber2017s-0490-022-t12.cnf,SATISFIABLE,4.67
+ddc-submit,klieber2017s-0490-023-t12.cnf,SATISFIABLE,39.50
+ddc-submit,klieber2017s-0490-024-t12.cnf,SATISFIABLE,39.50
+ddc-submit,klieber2017s-0500-022-t12.cnf,SATISFIABLE,4.67
+ddc-submit,klieber2017s-0500-023-t12.cnf,SATISFIABLE,29.92
+ddc-submit,klieber2017s-0500-024-t12.cnf,SATISFIABLE,66.00
+ddc-submit,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,18.58
+ddc-submit,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,32.00
+ddc-submit,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,9.25
+ddc-submit,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,18.08
+ddc-submit,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,40.25
+ddc-submit,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,44.08
+ddc-submit,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,93.08
+ddc-submit,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,206.08
+ddc-submit,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,72.58
+ddc-submit,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,131.50
+ddc-submit,mizh-md5-47-3.cnf,SATISFIABLE,38.58
+ddc-submit,mizh-md5-47-5.cnf,SATISFIABLE,29.92
+ddc-submit,mizh-md5-48-2.cnf,SATISFIABLE,29.08
+ddc-submit,mizh-md5-48-5.cnf,SATISFIABLE,15.67
+ddc-submit,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,4.92
+ddc-submit,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,14.25
+ddc-submit,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,6.58
+ddc-submit,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,103.00
+ddc-submit,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,16.83
+ddc-submit,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,10.92
+ddc-submit,Nb5T06.cnf,UNSATISFIABLE,2.17
+ddc-submit,Nb5T07.cnf,UNSATISFIABLE,540.58
+ddc-submit Nb5T14.cnf UNSOLVED 
+ddc-submit Nb5T15.cnf UNSOLVED 
+ddc-submit Nb5T16.cnf UNSOLVED 
+ddc-submit,Nb6T06.cnf,UNSATISFIABLE,2.33
+ddc-submit,Nb6T07.cnf,UNSATISFIABLE,529.25
+ddc-submit Nb6T25.cnf UNSOLVED 
+ddc-submit Nb6T27.cnf UNSOLVED 
+ddc-submit Nb6T28.cnf UNSOLVED 
+ddc-submit Nb6T29.cnf UNSOLVED 
+ddc-submit Nb6T30.cnf UNSOLVED 
+ddc-submit,Nb7T07.cnf,UNSATISFIABLE,2079.75
+ddc-submit Nb7T08.cnf UNSOLVED 
+ddc-submit Nb7T42.cnf UNSOLVED 
+ddc-submit Nb7T43.cnf UNSOLVED 
+ddc-submit Nb7T44.cnf UNSOLVED 
+ddc-submit Nb7T45.cnf UNSOLVED 
+ddc-submit Nb7T46.cnf UNSOLVED 
+ddc-submit,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,5.08
+ddc-submit ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,10.25
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,30.67
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,2.33
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,6.08
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,10.58
+ddc-submit ps_5000_21250_3_0_0.8_0_1.55_0.cnf UNSOLVED 
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,106.50
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,280.08
+ddc-submit,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,3106.17
+ddc-submit ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+ddc-submit ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+ddc-submit,qpr-bmp280-driver-14.cnf,SATISFIABLE,1.00
+ddc-submit,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.75
+ddc-submit,rubikcube012.cnf,UNSATISFIABLE,362.50
+ddc-submit rubikcube031.cnf UNSOLVED 
+ddc-submit,rubikcube101.cnf,UNSATISFIABLE,67.67
+ddc-submit,rubikcube120.cnf,UNSATISFIABLE,1960.25
+ddc-submit,rubikcube212.cnf,UNSATISFIABLE,127.00
+ddc-submit,rubikcube220.cnf,UNSATISFIABLE,3150.00
+ddc-submit,rubikcube301.cnf,UNSATISFIABLE,109.58
+ddc-submit,rubikcube312.cnf,UNSATISFIABLE,1113.08
+ddc-submit,rubikcube401.cnf,UNSATISFIABLE,39.67
+ddc-submit,rubikcube420.cnf,UNSATISFIABLE,1434.42
+ddc-submit,rubikcube512.cnf,UNSATISFIABLE,118.67
+ddc-submit,rubikcube520.cnf,UNSATISFIABLE,3780.00
+ddc-submit,rubikcube601.cnf,UNSATISFIABLE,13.42
+ddc-submit,rubikcube612.cnf,SATISFIABLE,108.33
+ddc-submit,rubikcube701.cnf,UNSATISFIABLE,82.83
+ddc-submit rubikcube720.cnf UNSOLVED 
+ddc-submit,rubikcube812.cnf,UNSATISFIABLE,967.00
+ddc-submit rubikcube820.cnf UNSOLVED 
+ddc-submit,rubikcube901.cnf,UNSATISFIABLE,38.50
+ddc-submit,rubikcube912.cnf,UNSATISFIABLE,134.58
+ddc-submit,slp-synthesis-aes-top24.cnf,SATISFIABLE,510.75
+ddc-submit,slp-synthesis-aes-top25.cnf,SATISFIABLE,1012.00
+ddc-submit slp-synthesis-aes-top26.cnf UNSOLVED 
+ddc-submit slp-synthesis-aes-top28.cnf UNSOLVED 
+ddc-submit,slp-synthesis-aes-top29.cnf,SATISFIABLE,116.42
+ddc-submit,slp-synthesis-aes-top30.cnf,SATISFIABLE,112.17
+ddc-submit,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,1.17
+ddc-submit,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,3.33
+ddc-submit,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,0.75
+ddc-submit,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,0.75
+ddc-submit,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,0.58
+ddc-submit,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,16.00
+ddc-submit,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,17.92
+ddc-submit,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,13.67
+ddc-submit,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,4.00
+ddc-submit,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,23.00
+ddc-submit,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,320.17
+ddc-submit T100.2.0.cnf UNSOLVED 
+ddc-submit T101.2.0.cnf UNSOLVED 
+ddc-submit T102.2.1.cnf UNSOLVED 
+ddc-submit T103.2.1.cnf UNSOLVED 
+ddc-submit T104.1.0.cnf UNSOLVED 
+ddc-submit T105.2.1.cnf UNSOLVED 
+ddc-submit T106.2.0.cnf UNSOLVED 
+ddc-submit T108.2.1.cnf UNSOLVED 
+ddc-submit T109.2.0.cnf UNSOLVED 
+ddc-submit T110.2.1.cnf UNSOLVED 
+ddc-submit T112.1.0.cnf UNSOLVED 
+ddc-submit T118.2.1.cnf UNSOLVED 
+ddc-submit T1.2.1.cnf UNSOLVED 
+ddc-submit T122.1.0.cnf UNSOLVED 
+ddc-submit T124.2.0.cnf UNSOLVED 
+ddc-submit T124.2.1.cnf UNSOLVED 
+ddc-submit T133.2.1.cnf UNSOLVED 
+ddc-submit T135.1.1.cnf UNSOLVED 
+ddc-submit T141.1.0.cnf UNSOLVED 
+ddc-submit T154.1.0.cnf UNSOLVED 
+ddc-submit T155.1.0.cnf UNSOLVED 
+ddc-submit T169.1.0.cnf UNSOLVED 
+ddc-submit T169.2.0.cnf UNSOLVED 
+ddc-submit T49.2.0.cnf UNSOLVED 
+ddc-submit T50.2.0.cnf UNSOLVED 
+ddc-submit,T55.2.0.cnf,UNSATISFIABLE,37.25
+ddc-submit,T58.2.0.cnf,UNSATISFIABLE,68.00
+ddc-submit T65.2.0.cnf UNSOLVED 
+ddc-submit T65.2.1.cnf UNSOLVED 
+ddc-submit T75.2.0.cnf UNSOLVED 
+ddc-submit T81.2.1.cnf UNSOLVED 
+ddc-submit T83.2.1.cnf UNSOLVED 
+ddc-submit T85.2.1.cnf UNSOLVED 
+ddc-submit,T88.2.1.cnf,UNSATISFIABLE,176.42
+ddc-submit T89.2.1.cnf UNSOLVED 
+ddc-submit T93.2.1.cnf UNSOLVED 
+ddc-submit T96.1.1.cnf UNSOLVED 
+ddc-submit T97.2.1.cnf UNSOLVED 
+ddc-submit T99.2.0.cnf UNSOLVED 
+ddc-submit T99.2.1.cnf UNSOLVED 
+ddc-submit,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,135.83
+ddc-submit,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,7.58
+ddc-submit,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,8.25
+ddc-submit,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,7.58
+ddc-submit,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,3.83
+ddc-submit,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,1.08
+ddc-submit,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,2.25
+ddc-submit,UCG-15-10p1.cnf,SATISFIABLE,48.17
+ddc-submit,UCG-20-10p1.cnf,SATISFIABLE,102.00
+ddc-submit,UCG-20-5p1.cnf,SATISFIABLE,29.50
+ddc-submit,UR-20-10p1.cnf,SATISFIABLE,154.50
+ddc-submit,UR-20-5p1.cnf,SATISFIABLE,94.92
+ddc-submit,UTI-20-10p1.cnf,SATISFIABLE,93.92
+ddc-submit,UTI-20-5p1.cnf,SATISFIABLE,29.17
+painless,21.0.cnf,SATISFIABLE,35.04
+painless,21.1.cnf,SATISFIABLE,4.84
+painless,21.2.cnf,SATISFIABLE,9.93
+painless,21.3.cnf,SATISFIABLE,54.80
+painless,21.4.cnf,SATISFIABLE,21.92
+painless,21.5.cnf,SATISFIABLE,15.88
+painless,21.6.cnf,SATISFIABLE,4.83
+painless,21.7.cnf,SATISFIABLE,22.92
+painless,21.8.cnf,SATISFIABLE,7.83
+painless,21.9.cnf,SATISFIABLE,42.82
+painless,22.0.cnf,SATISFIABLE,805.19
+painless,22.1.cnf,SATISFIABLE,1338.05
+painless,22.2.cnf,SATISFIABLE,316.91
+painless,22.3.cnf,SATISFIABLE,20.94
+painless,22.4.cnf,SATISFIABLE,816.10
+painless,22.5.cnf,SATISFIABLE,525.91
+painless,22.6.cnf,SATISFIABLE,414.96
+painless,22.7.cnf,SATISFIABLE,51.13
+painless,22.8.cnf,SATISFIABLE,784.99
+painless,22.9.cnf,SATISFIABLE,315.93
+painless 23.0.cnf UNSOLVED 
+painless 23.1.cnf UNSOLVED 
+painless 23.2.cnf UNSOLVED 
+painless 23.3.cnf UNSOLVED 
+painless 23.4.cnf UNSOLVED 
+painless 23.5.cnf UNSOLVED 
+painless,23.6.cnf,SATISFIABLE,2442.16
+painless 23.7.cnf UNSOLVED 
+painless 23.8.cnf UNSOLVED 
+painless 24.0.cnf UNSOLVED 
+painless 24.1.cnf UNSOLVED 
+painless 24.2.cnf UNSOLVED 
+painless 24.3.cnf UNSOLVED 
+painless 24.4.cnf UNSOLVED 
+painless 24.5.cnf UNSOLVED 
+painless 24.6.cnf UNSOLVED 
+painless 24.7.cnf UNSOLVED 
+painless 24.8.cnf UNSOLVED 
+painless 24.9.cnf UNSOLVED 
+painless,9_11.cnf,SATISFIABLE,4.35
+painless,9_12.cnf,SATISFIABLE,258.38
+painless,9_14.cnf,SATISFIABLE,63.38
+painless,9_19.cnf,SATISFIABLE,288.40
+painless,9_1.cnf,SATISFIABLE,44.34
+painless,9_21.cnf,SATISFIABLE,3609.03
+painless,9_22.cnf,SATISFIABLE,1343.70
+painless,9_24.cnf,SATISFIABLE,577.54
+painless,9_25.cnf,SATISFIABLE,635.90
+painless,9_27.cnf,SATISFIABLE,2.83
+painless,9_29.cnf,SATISFIABLE,22.34
+painless,9_31.cnf,SATISFIABLE,91.58
+painless,9_34.cnf,SATISFIABLE,91.64
+painless,9_38.cnf,SATISFIABLE,5.38
+painless,9_3.cnf,SATISFIABLE,5.32
+painless,9_44.cnf,SATISFIABLE,35.34
+painless,9_49.cnf,SATISFIABLE,64.39
+painless,9_4.cnf,SATISFIABLE,340.41
+painless,9_50.cnf,SATISFIABLE,75.47
+painless,9_9.cnf,SATISFIABLE,13.30
+painless,ACG-15-10p1.cnf,SATISFIABLE,154.69
+painless,ACG-20-10p1.cnf,SATISFIABLE,228.70
+painless,ACG-20-5p1.cnf,SATISFIABLE,178.00
+painless,ak128astepbg1btisc.cnf,SATISFIABLE,132.35
+painless ak128astepbg2asisc.cnf UNSOLVED 
+painless ak128astepbg2msaig.cnf UNSOLVED 
+painless,ak128astepbg2msisc.cnf,SATISFIABLE,283.83
+painless ak128astepmodasaig.cnf UNSOLVED 
+painless ak128astepmodbtisc.cnf UNSOLVED 
+painless,ak128boothbg1btisc.cnf,SATISFIABLE,164.69
+painless,ak128boothbg2asisc.cnf,SATISFIABLE,405.67
+painless ak128boothbg2msaig.cnf UNSOLVED 
+painless,ak128boothbg2msisc.cnf,SATISFIABLE,448.30
+painless ak128boothboothisc.cnf UNSOLVED 
+painless ak128boothdiagoaig.cnf UNSOLVED 
+painless ak128boothmodasaig.cnf UNSOLVED 
+painless,ak128diagobg1btaig.cnf,SATISFIABLE,179.65
+painless ak128diagobg2asaig.cnf UNSOLVED 
+painless ak128diagodiagoisc.cnf UNSOLVED 
+painless,ak128modasbg1msisc.cnf,SATISFIABLE,106.20
+painless,ak128modasbg1sbisc.cnf,SATISFIABLE,122.26
+painless ak128modasmodasisc.cnf UNSOLVED 
+painless,ak128modbtbg1asaig.cnf,SATISFIABLE,143.18
+painless,ak128modbtbg1asisc.cnf,SATISFIABLE,106.23
+painless,ak128modbtbg1btaig.cnf,SATISFIABLE,196.85
+painless,ak128modbtbg2msisc.cnf,SATISFIABLE,204.43
+painless ak128modbtsimpbaig.cnf UNSOLVED 
+painless,ak128paralbg1sbisc.cnf,SATISFIABLE,100.15
+painless ak128paralbg2asaig.cnf UNSOLVED 
+painless ak128paralparalisc.cnf UNSOLVED 
+painless ak128paralsimpbaig.cnf UNSOLVED 
+painless,ak128simpbbg1sbisc.cnf,SATISFIABLE,141.64
+painless ak128simpbbg2asaig.cnf UNSOLVED 
+painless,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,37.14
+painless,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,63.11
+painless,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,20.99
+painless,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,36.02
+painless,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,37.93
+painless,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,57.32
+painless,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,65.42
+painless,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,206.11
+painless,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,20.60
+painless,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,42.97
+painless,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,11.47
+painless,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,28.20
+painless,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,555.66
+painless,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,124.42
+painless,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,82.68
+painless,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,57.78
+painless,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,354.44
+painless,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,61.54
+painless,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,68.72
+painless,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,60.36
+painless,bsat180-648.cnf,UNSATISFIABLE,142.31
+painless,bsat192-689.cnf,UNSATISFIABLE,434.15
+painless,bsat201-707.cnf,UNSATISFIABLE,628.13
+painless,bsat210-739.cnf,UNSATISFIABLE,1239.15
+painless,gss-22-s100.cnf,SATISFIABLE,675.52
+painless,gss-24-s100.cnf,SATISFIABLE,3248.91
+painless gss-26-s100.cnf UNSOLVED 
+painless gss-28-s100.cnf UNSOLVED 
+painless gss-30-s100.cnf UNSOLVED 
+painless gss-32-s100.cnf UNSOLVED 
+painless gss-34-s100.cnf UNSOLVED 
+painless gss-36-s100.cnf UNSOLVED 
+painless gss-38-s100.cnf UNSOLVED 
+painless gss-40-s100.cnf UNSOLVED 
+painless,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,204.56
+painless,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,468.07
+painless,hwmcc15deep-6s161-k18.cnf,UNSATISFIABLE,780.50
+painless,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,159.58
+painless,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,354.89
+painless,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,496.61
+painless,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,97.46
+painless,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,135.68
+painless,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,42.79
+painless,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,138.59
+painless,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,124.35
+painless,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,192.28
+painless,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,305.48
+painless hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+painless hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+painless,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,261.89
+painless,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,362.90
+painless,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,123.17
+painless,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,277.40
+painless,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,317.37
+painless,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,346.56
+painless hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+painless,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,672.06
+painless,hwmcc15deep-beemhanoi4b1-k37.cnf,UNSATISFIABLE,2270.35
+painless,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,946.50
+painless,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,274.15
+painless,hwmcc15deep-bob12s02-k16.cnf,UNSATISFIABLE,2386.25
+painless,hwmcc15deep-bob12s02-k17.cnf,UNSATISFIABLE,2593.05
+painless,hwmcc15deep-bobpcihm-k30.cnf,UNSATISFIABLE,3107.11
+painless,hwmcc15deep-bobpcihm-k31.cnf,UNSATISFIABLE,3405.59
+painless,hwmcc15deep-bobpcihm-k32.cnf,UNSATISFIABLE,4381.19
+painless,hwmcc15deep-bobpcihm-k33.cnf,UNSATISFIABLE,3902.62
+painless,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,539.62
+painless,hwmcc15deep-intel065-k11.cnf,UNSATISFIABLE,2095.67
+painless,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,740.28
+painless,hwmcc15deep-oski15a10b06s-k24.cnf,UNSATISFIABLE,1274.30
+painless,hwmcc15deep-oski15a10b08s-k23.cnf,UNSATISFIABLE,718.29
+painless,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,529.41
+painless,hwmcc15deep-oski15a10b10s-k22.cnf,UNSATISFIABLE,1016.96
+painless,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,273.86
+painless,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,493.82
+painless,klieber2017s-0300-032-t12.cnf,SATISFIABLE,132.97
+painless,klieber2017s-0300-033-t12.cnf,SATISFIABLE,34.96
+painless,klieber2017s-0300-034-t12.cnf,SATISFIABLE,83.11
+painless,klieber2017s-0300-035-t12.cnf,SATISFIABLE,74.98
+painless,klieber2017s-0490-022-t12.cnf,SATISFIABLE,25.43
+painless,klieber2017s-0490-023-t12.cnf,SATISFIABLE,13.50
+painless,klieber2017s-0490-024-t12.cnf,SATISFIABLE,19.54
+painless,klieber2017s-0500-022-t12.cnf,SATISFIABLE,43.63
+painless,klieber2017s-0500-023-t12.cnf,SATISFIABLE,10.47
+painless,klieber2017s-0500-024-t12.cnf,SATISFIABLE,120.49
+painless,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,169.35
+painless,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,236.33
+painless,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,88.69
+painless,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,170.40
+painless,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,302.45
+painless,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,106.75
+painless,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,186.49
+painless,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,315.94
+painless,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,130.87
+painless,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,223.53
+painless,mizh-md5-47-3.cnf,SATISFIABLE,95.96
+painless,mizh-md5-47-5.cnf,SATISFIABLE,116.83
+painless,mizh-md5-48-2.cnf,SATISFIABLE,66.05
+painless,mizh-md5-48-5.cnf,SATISFIABLE,299.98
+painless,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,154.27
+painless,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,44.39
+painless,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,454.52
+painless,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,160.28
+painless,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,155.54
+painless,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,106.70
+painless,Nb5T06.cnf,UNSATISFIABLE,8.23
+painless,Nb5T07.cnf,UNSATISFIABLE,228.22
+painless Nb5T14.cnf UNSOLVED 
+painless Nb5T15.cnf UNSOLVED 
+painless,Nb5T16.cnf,SATISFIABLE,556.80
+painless,Nb6T06.cnf,UNSATISFIABLE,9.34
+painless,Nb6T07.cnf,UNSATISFIABLE,175.31
+painless Nb6T25.cnf UNSOLVED 
+painless Nb6T27.cnf UNSOLVED 
+painless Nb6T28.cnf UNSOLVED 
+painless Nb6T29.cnf UNSOLVED 
+painless Nb6T30.cnf UNSOLVED 
+painless,Nb7T07.cnf,UNSATISFIABLE,241.48
+painless Nb7T08.cnf UNSOLVED 
+painless Nb7T42.cnf UNSOLVED 
+painless Nb7T43.cnf UNSOLVED 
+painless Nb7T44.cnf UNSOLVED 
+painless Nb7T45.cnf UNSOLVED 
+painless Nb7T46.cnf UNSOLVED 
+painless,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,120.63
+painless ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+painless,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,9.52
+painless,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,18.48
+painless,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,18.52
+painless,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,10.46
+painless,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,17.49
+painless,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,649.95
+painless,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,95.77
+painless,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,573.58
+painless,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,505.49
+painless ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+painless,ps_5000_21250_3_0_0.8_0_1.60_6.cnf,UNSATISFIABLE,3431.69
+painless ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+painless ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+painless,qpr-bmp280-driver-14.cnf,SATISFIABLE,10.60
+painless,qpr-bmp280-driver-5.cnf,SATISFIABLE,10.71
+painless,rubikcube012.cnf,UNSATISFIABLE,502.91
+painless rubikcube031.cnf UNSOLVED 
+painless,rubikcube101.cnf,UNSATISFIABLE,83.78
+painless,rubikcube120.cnf,UNSATISFIABLE,4726.56
+painless,rubikcube212.cnf,UNSATISFIABLE,524.83
+painless,rubikcube220.cnf,UNSATISFIABLE,4766.29
+painless,rubikcube301.cnf,UNSATISFIABLE,114.03
+painless,rubikcube312.cnf,UNSATISFIABLE,564.86
+painless,rubikcube401.cnf,UNSATISFIABLE,97.14
+painless,rubikcube420.cnf,UNSATISFIABLE,2669.00
+painless,rubikcube512.cnf,UNSATISFIABLE,498.73
+painless rubikcube520.cnf UNSOLVED 
+painless,rubikcube601.cnf,UNSATISFIABLE,65.04
+painless,rubikcube612.cnf,SATISFIABLE,298.88
+painless,rubikcube701.cnf,UNSATISFIABLE,122.22
+painless rubikcube720.cnf UNSOLVED 
+painless,rubikcube812.cnf,UNSATISFIABLE,499.23
+painless rubikcube820.cnf UNSOLVED 
+painless,rubikcube901.cnf,UNSATISFIABLE,68.74
+painless,rubikcube912.cnf,UNSATISFIABLE,510.04
+painless,slp-synthesis-aes-top24.cnf,SATISFIABLE,918.00
+painless,slp-synthesis-aes-top25.cnf,SATISFIABLE,222.16
+painless,slp-synthesis-aes-top26.cnf,SATISFIABLE,493.98
+painless,slp-synthesis-aes-top28.cnf,SATISFIABLE,348.00
+painless,slp-synthesis-aes-top29.cnf,SATISFIABLE,425.39
+painless,slp-synthesis-aes-top30.cnf,SATISFIABLE,236.52
+painless,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,13.12
+painless,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,8.13
+painless,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,30.21
+painless,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,1.14
+painless,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,16.23
+painless,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,49.10
+painless,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,43.10
+painless,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,51.08
+painless,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,37.09
+painless,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,41.22
+painless,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,134.67
+painless T100.2.0.cnf UNSOLVED 
+painless T101.2.0.cnf UNSOLVED 
+painless T102.2.1.cnf UNSOLVED 
+painless T103.2.1.cnf UNSOLVED 
+painless T104.1.0.cnf UNSOLVED 
+painless T105.2.1.cnf UNSOLVED 
+painless T106.2.0.cnf UNSOLVED 
+painless T108.2.1.cnf UNSOLVED 
+painless T109.2.0.cnf UNSOLVED 
+painless T110.2.1.cnf UNSOLVED 
+painless T112.1.0.cnf UNSOLVED 
+painless T118.2.1.cnf UNSOLVED 
+painless T1.2.1.cnf UNSOLVED 
+painless T122.1.0.cnf UNSOLVED 
+painless T124.2.0.cnf UNSOLVED 
+painless T124.2.1.cnf UNSOLVED 
+painless T133.2.1.cnf UNSOLVED 
+painless T135.1.1.cnf UNSOLVED 
+painless T141.1.0.cnf UNSOLVED 
+painless T154.1.0.cnf UNSOLVED 
+painless T155.1.0.cnf UNSOLVED 
+painless,T169.1.0.cnf,SATISFIABLE,821.94
+painless T169.2.0.cnf UNSOLVED 
+painless T49.2.0.cnf UNSOLVED 
+painless T50.2.0.cnf UNSOLVED 
+painless,T55.2.0.cnf,UNSATISFIABLE,538.14
+painless,T58.2.0.cnf,UNSATISFIABLE,593.49
+painless,T65.2.0.cnf,UNSATISFIABLE,527.57
+painless T65.2.1.cnf UNSOLVED 
+painless,T75.2.0.cnf,UNSATISFIABLE,520.55
+painless T81.2.1.cnf UNSOLVED 
+painless T83.2.1.cnf UNSOLVED 
+painless T85.2.1.cnf UNSOLVED 
+painless T88.2.1.cnf UNSOLVED 
+painless T89.2.1.cnf UNSOLVED 
+painless T93.2.1.cnf UNSOLVED 
+painless T96.1.1.cnf UNSOLVED 
+painless T97.2.1.cnf UNSOLVED 
+painless T99.2.0.cnf UNSOLVED 
+painless T99.2.1.cnf UNSOLVED 
+painless,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,129.51
+painless,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,96.85
+painless,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,9.08
+painless,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,9.08
+painless,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,10.18
+painless,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,5.10
+painless,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,6.09
+painless,UCG-15-10p1.cnf,SATISFIABLE,99.85
+painless,UCG-20-10p1.cnf,SATISFIABLE,158.30
+painless,UCG-20-5p1.cnf,SATISFIABLE,100.72
+painless,UR-20-10p1.cnf,SATISFIABLE,253.15
+painless,UR-20-5p1.cnf,SATISFIABLE,133.74
+painless,UTI-20-10p1.cnf,SATISFIABLE,199.12
+painless,UTI-20-5p1.cnf,SATISFIABLE,94.69
+plingeling,21.0.cnf,SATISFIABLE,209.60
+plingeling,21.1.cnf,SATISFIABLE,287.30
+plingeling,21.2.cnf,SATISFIABLE,432.30
+plingeling,21.3.cnf,SATISFIABLE,224.50
+plingeling,21.4.cnf,SATISFIABLE,98.20
+plingeling,21.5.cnf,SATISFIABLE,148.70
+plingeling,21.6.cnf,SATISFIABLE,52.10
+plingeling,21.7.cnf,SATISFIABLE,69.70
+plingeling,21.8.cnf,SATISFIABLE,141.10
+plingeling,21.9.cnf,SATISFIABLE,147.70
+plingeling 22.0.cnf UNSOLVED 
+plingeling 22.1.cnf UNSOLVED 
+plingeling,22.2.cnf,SATISFIABLE,2518.20
+plingeling,22.3.cnf,SATISFIABLE,4314.60
+plingeling 22.4.cnf UNSOLVED 
+plingeling 22.5.cnf UNSOLVED 
+plingeling,22.6.cnf,SATISFIABLE,4294.70
+plingeling,22.7.cnf,SATISFIABLE,808.50
+plingeling,22.8.cnf,SATISFIABLE,643.50
+plingeling,22.9.cnf,SATISFIABLE,632.60
+plingeling 23.0.cnf UNSOLVED 
+plingeling 23.1.cnf UNSOLVED 
+plingeling 23.2.cnf UNSOLVED 
+plingeling 23.3.cnf UNSOLVED 
+plingeling 23.4.cnf UNSOLVED 
+plingeling 23.5.cnf UNSOLVED 
+plingeling 23.6.cnf UNSOLVED 
+plingeling 23.7.cnf UNSOLVED 
+plingeling 23.8.cnf UNSOLVED 
+plingeling 24.0.cnf UNSOLVED 
+plingeling 24.1.cnf UNSOLVED 
+plingeling 24.2.cnf UNSOLVED 
+plingeling 24.3.cnf UNSOLVED 
+plingeling 24.4.cnf UNSOLVED 
+plingeling 24.5.cnf UNSOLVED 
+plingeling 24.6.cnf UNSOLVED 
+plingeling 24.7.cnf UNSOLVED 
+plingeling 24.8.cnf UNSOLVED 
+plingeling 24.9.cnf UNSOLVED 
+plingeling,9_11.cnf,SATISFIABLE,0.70
+plingeling,9_12.cnf,SATISFIABLE,47.40
+plingeling,9_14.cnf,SATISFIABLE,168.60
+plingeling,9_19.cnf,SATISFIABLE,489.50
+plingeling,9_1.cnf,SATISFIABLE,39.70
+plingeling 9_21.cnf UNSOLVED 
+plingeling 9_22.cnf UNSOLVED 
+plingeling,9_24.cnf,SATISFIABLE,43.90
+plingeling,9_25.cnf,SATISFIABLE,851.30
+plingeling,9_27.cnf,SATISFIABLE,26.40
+plingeling,9_29.cnf,SATISFIABLE,85.00
+plingeling,9_31.cnf,SATISFIABLE,103.60
+plingeling,9_34.cnf,SATISFIABLE,109.80
+plingeling,9_38.cnf,SATISFIABLE,29.60
+plingeling,9_3.cnf,SATISFIABLE,2.60
+plingeling,9_44.cnf,SATISFIABLE,65.50
+plingeling,9_49.cnf,SATISFIABLE,21.70
+plingeling,9_4.cnf,SATISFIABLE,709.70
+plingeling,9_50.cnf,SATISFIABLE,112.80
+plingeling,9_9.cnf,SATISFIABLE,84.20
+plingeling,ACG-15-10p1.cnf,SATISFIABLE,45.10
+plingeling,ACG-20-10p1.cnf,SATISFIABLE,170.60
+plingeling,ACG-20-5p1.cnf,SATISFIABLE,49.20
+plingeling,ak128astepbg1btisc.cnf,SATISFIABLE,2.80
+plingeling,ak128astepbg2asisc.cnf,SATISFIABLE,9.40
+plingeling,ak128astepbg2msaig.cnf,SATISFIABLE,3.00
+plingeling,ak128astepbg2msisc.cnf,SATISFIABLE,5.10
+plingeling ak128astepmodasaig.cnf UNSOLVED 
+plingeling ak128astepmodbtisc.cnf UNSOLVED 
+plingeling,ak128boothbg1btisc.cnf,SATISFIABLE,7.20
+plingeling,ak128boothbg2asisc.cnf,SATISFIABLE,6.50
+plingeling,ak128boothbg2msaig.cnf,SATISFIABLE,4.20
+plingeling,ak128boothbg2msisc.cnf,SATISFIABLE,6.00
+plingeling ak128boothboothisc.cnf UNSOLVED 
+plingeling ak128boothdiagoaig.cnf UNSOLVED 
+plingeling ak128boothmodasaig.cnf UNSOLVED 
+plingeling,ak128diagobg1btaig.cnf,SATISFIABLE,4.00
+plingeling,ak128diagobg2asaig.cnf,SATISFIABLE,2.50
+plingeling,ak128diagodiagoisc.cnf,UNSATISFIABLE,2267.40
+plingeling,ak128modasbg1msisc.cnf,SATISFIABLE,2.40
+plingeling,ak128modasbg1sbisc.cnf,SATISFIABLE,2.70
+plingeling ak128modasmodasisc.cnf UNSOLVED 
+plingeling,ak128modbtbg1asaig.cnf,SATISFIABLE,3.40
+plingeling,ak128modbtbg1asisc.cnf,SATISFIABLE,2.10
+plingeling,ak128modbtbg1btaig.cnf,SATISFIABLE,9.20
+plingeling ak128modbtbg2msisc.cnf UNSOLVED 
+plingeling ak128modbtsimpbaig.cnf UNSOLVED 
+plingeling,ak128paralbg1sbisc.cnf,SATISFIABLE,2.80
+plingeling,ak128paralbg2asaig.cnf,SATISFIABLE,2.60
+plingeling,ak128paralparalisc.cnf,UNSATISFIABLE,304.90
+plingeling ak128paralsimpbaig.cnf UNSOLVED 
+plingeling,ak128simpbbg1sbisc.cnf,SATISFIABLE,2.80
+plingeling,ak128simpbbg2asaig.cnf,SATISFIABLE,3.60
+plingeling,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,182.80
+plingeling,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,244.20
+plingeling,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,40.20
+plingeling,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,114.40
+plingeling,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,91.50
+plingeling,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,115.20
+plingeling,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,171.40
+plingeling,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,711.80
+plingeling,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,81.90
+plingeling,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,180.50
+plingeling,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,29.30
+plingeling,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,51.00
+plingeling,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,430.20
+plingeling,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,135.10
+plingeling,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,24.70
+plingeling,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,16.30
+plingeling,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,73.60
+plingeling,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,6.30
+plingeling,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,15.20
+plingeling,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,773.90
+plingeling,bsat180-648.cnf,UNSATISFIABLE,66.80
+plingeling,bsat192-689.cnf,UNSATISFIABLE,304.90
+plingeling,bsat201-707.cnf,UNSATISFIABLE,1387.60
+plingeling bsat210-739.cnf UNSOLVED 
+plingeling,gss-22-s100.cnf,SATISFIABLE,1081.40
+plingeling,gss-24-s100.cnf,SATISFIABLE,2048.80
+plingeling,gss-26-s100.cnf,SATISFIABLE,3435.50
+plingeling gss-28-s100.cnf UNSOLVED 
+plingeling gss-30-s100.cnf UNSOLVED 
+plingeling gss-32-s100.cnf UNSOLVED 
+plingeling gss-34-s100.cnf UNSOLVED 
+plingeling gss-36-s100.cnf UNSOLVED 
+plingeling gss-38-s100.cnf UNSOLVED 
+plingeling gss-40-s100.cnf UNSOLVED 
+plingeling,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,608.50
+plingeling,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,456.70
+plingeling,hwmcc15deep-6s161-k18.cnf,UNSATISFIABLE,1067.30
+plingeling,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,710.50
+plingeling,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,342.30
+plingeling,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,556.60
+plingeling,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,115.00
+plingeling,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,171.40
+plingeling,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,14.20
+plingeling,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,178.70
+plingeling,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,60.70
+plingeling,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,124.50
+plingeling,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,370.90
+plingeling hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+plingeling hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+plingeling,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,160.60
+plingeling,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,264.50
+plingeling,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,379.70
+plingeling,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,696.10
+plingeling,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,1186.00
+plingeling,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,444.40
+plingeling,hwmcc15deep-beemfwt4b1-k48.cnf,UNSATISFIABLE,2991.90
+plingeling,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,786.20
+plingeling hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+plingeling,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,876.10
+plingeling,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,261.10
+plingeling,hwmcc15deep-bob12s02-k16.cnf,UNSATISFIABLE,3964.30
+plingeling,hwmcc15deep-bob12s02-k17.cnf,UNSATISFIABLE,4474.70
+plingeling,hwmcc15deep-bobpcihm-k30.cnf,UNSATISFIABLE,333.00
+plingeling,hwmcc15deep-bobpcihm-k31.cnf,UNSATISFIABLE,388.30
+plingeling,hwmcc15deep-bobpcihm-k32.cnf,UNSATISFIABLE,426.20
+plingeling,hwmcc15deep-bobpcihm-k33.cnf,UNSATISFIABLE,477.30
+plingeling,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,490.90
+plingeling,hwmcc15deep-intel065-k11.cnf,UNSATISFIABLE,1366.20
+plingeling,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,792.40
+plingeling,hwmcc15deep-oski15a10b06s-k24.cnf,UNSATISFIABLE,2548.90
+plingeling,hwmcc15deep-oski15a10b08s-k23.cnf,UNSATISFIABLE,988.10
+plingeling,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,969.70
+plingeling,hwmcc15deep-oski15a10b10s-k22.cnf,UNSATISFIABLE,2423.30
+plingeling,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,120.00
+plingeling,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,514.50
+plingeling,klieber2017s-0300-032-t12.cnf,SATISFIABLE,10.10
+plingeling,klieber2017s-0300-033-t12.cnf,SATISFIABLE,12.90
+plingeling,klieber2017s-0300-034-t12.cnf,SATISFIABLE,39.60
+plingeling,klieber2017s-0300-035-t12.cnf,SATISFIABLE,15.10
+plingeling,klieber2017s-0490-022-t12.cnf,SATISFIABLE,14.80
+plingeling,klieber2017s-0490-023-t12.cnf,SATISFIABLE,15.30
+plingeling,klieber2017s-0490-024-t12.cnf,SATISFIABLE,12.70
+plingeling,klieber2017s-0500-022-t12.cnf,SATISFIABLE,14.60
+plingeling,klieber2017s-0500-023-t12.cnf,SATISFIABLE,11.50
+plingeling,klieber2017s-0500-024-t12.cnf,SATISFIABLE,29.10
+plingeling,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,49.30
+plingeling,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,29.60
+plingeling,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,52.20
+plingeling,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,78.10
+plingeling,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,10.80
+plingeling,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,104.20
+plingeling,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,70.80
+plingeling,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,67.90
+plingeling,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,82.90
+plingeling,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,99.30
+plingeling,mizh-md5-47-3.cnf,SATISFIABLE,18.50
+plingeling,mizh-md5-47-5.cnf,SATISFIABLE,121.00
+plingeling,mizh-md5-48-2.cnf,SATISFIABLE,60.60
+plingeling,mizh-md5-48-5.cnf,SATISFIABLE,321.60
+plingeling,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,252.80
+plingeling,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,257.40
+plingeling modgen-n200-m90860q08c40-29667.cnf UNSOLVED 
+plingeling modgen-n200-m90860q08c40-3230.cnf UNSOLVED 
+plingeling,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,4020.70
+plingeling,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,17.10
+plingeling,Nb5T06.cnf,UNSATISFIABLE,16.60
+plingeling,Nb5T07.cnf,UNSATISFIABLE,838.30
+plingeling Nb5T14.cnf UNSOLVED 
+plingeling Nb5T15.cnf UNSOLVED 
+plingeling Nb5T16.cnf UNSOLVED 
+plingeling,Nb6T06.cnf,UNSATISFIABLE,21.00
+plingeling,Nb6T07.cnf,UNSATISFIABLE,1024.90
+plingeling Nb6T25.cnf UNSOLVED 
+plingeling Nb6T27.cnf UNSOLVED 
+plingeling Nb6T28.cnf UNSOLVED 
+plingeling Nb6T29.cnf UNSOLVED 
+plingeling Nb6T30.cnf UNSOLVED 
+plingeling,Nb7T07.cnf,UNSATISFIABLE,849.00
+plingeling Nb7T08.cnf UNSOLVED 
+plingeling Nb7T42.cnf UNSOLVED 
+plingeling Nb7T43.cnf UNSOLVED 
+plingeling Nb7T44.cnf UNSOLVED 
+plingeling Nb7T45.cnf UNSOLVED 
+plingeling Nb7T46.cnf UNSOLVED 
+plingeling,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,9.60
+plingeling ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+plingeling,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,12.20
+plingeling,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,36.90
+plingeling,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,33.20
+plingeling,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,10.60
+plingeling,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,24.90
+plingeling,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,3397.80
+plingeling,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,369.60
+plingeling,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,2979.10
+plingeling,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,1775.20
+plingeling ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+plingeling ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+plingeling,qpr-bmp280-driver-14.cnf,SATISFIABLE,2.40
+plingeling,qpr-bmp280-driver-5.cnf,SATISFIABLE,4.40
+plingeling,rubikcube012.cnf,UNSATISFIABLE,3689.30
+plingeling rubikcube031.cnf UNSOLVED 
+plingeling,rubikcube101.cnf,UNSATISFIABLE,178.10
+plingeling rubikcube120.cnf UNSOLVED 
+plingeling,rubikcube212.cnf,UNSATISFIABLE,1544.30
+plingeling rubikcube220.cnf UNSOLVED 
+plingeling,rubikcube301.cnf,UNSATISFIABLE,195.10
+plingeling,rubikcube312.cnf,UNSATISFIABLE,1954.80
+plingeling,rubikcube401.cnf,UNSATISFIABLE,462.10
+plingeling rubikcube420.cnf UNSOLVED 
+plingeling,rubikcube512.cnf,UNSATISFIABLE,1652.70
+plingeling rubikcube520.cnf UNSOLVED 
+plingeling,rubikcube601.cnf,UNSATISFIABLE,158.40
+plingeling,rubikcube612.cnf,SATISFIABLE,596.00
+plingeling,rubikcube701.cnf,UNSATISFIABLE,286.10
+plingeling rubikcube720.cnf UNSOLVED 
+plingeling,rubikcube812.cnf,UNSATISFIABLE,1557.80
+plingeling rubikcube820.cnf UNSOLVED 
+plingeling,rubikcube901.cnf,UNSATISFIABLE,157.00
+plingeling,rubikcube912.cnf,UNSATISFIABLE,1320.20
+plingeling,slp-synthesis-aes-top24.cnf,SATISFIABLE,1974.80
+plingeling,slp-synthesis-aes-top25.cnf,SATISFIABLE,255.20
+plingeling,slp-synthesis-aes-top26.cnf,SATISFIABLE,382.60
+plingeling,slp-synthesis-aes-top28.cnf,SATISFIABLE,680.60
+plingeling,slp-synthesis-aes-top29.cnf,SATISFIABLE,537.40
+plingeling,slp-synthesis-aes-top30.cnf,SATISFIABLE,539.00
+plingeling,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,102.90
+plingeling,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,72.70
+plingeling,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,16.00
+plingeling,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,31.90
+plingeling,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,33.30
+plingeling,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,388.80
+plingeling,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,554.30
+plingeling,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,249.30
+plingeling,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,111.90
+plingeling,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,205.20
+plingeling Sz512_15128_1.smt2-cvc4.cnf UNSOLVED 
+plingeling T100.2.0.cnf UNSOLVED 
+plingeling T101.2.0.cnf UNSOLVED 
+plingeling,T102.2.1.cnf,UNSATISFIABLE,4205.80
+plingeling,T103.2.1.cnf,UNSATISFIABLE,2290.60
+plingeling T104.1.0.cnf UNSOLVED 
+plingeling,T105.2.1.cnf,UNSATISFIABLE,4630.60
+plingeling T106.2.0.cnf UNSOLVED 
+plingeling T108.2.1.cnf UNSOLVED 
+plingeling,T109.2.0.cnf,UNSATISFIABLE,2502.00
+plingeling,T110.2.1.cnf,UNSATISFIABLE,3762.60
+plingeling,T112.1.0.cnf,UNSATISFIABLE,3109.40
+plingeling,T118.2.1.cnf,UNSATISFIABLE,1470.40
+plingeling T1.2.1.cnf UNSOLVED 
+plingeling,T122.1.0.cnf,UNSATISFIABLE,2342.60
+plingeling,T124.2.0.cnf,UNSATISFIABLE,1094.00
+plingeling,T124.2.1.cnf,UNSATISFIABLE,2186.90
+plingeling T133.2.1.cnf UNSOLVED 
+plingeling,T135.1.1.cnf,UNSATISFIABLE,1639.90
+plingeling,T141.1.0.cnf,SATISFIABLE,2027.00
+plingeling,T154.1.0.cnf,UNSATISFIABLE,2191.00
+plingeling,T155.1.0.cnf,UNSATISFIABLE,36.00
+plingeling,T169.1.0.cnf,SATISFIABLE,804.30
+plingeling,T169.2.0.cnf,UNSATISFIABLE,3864.30
+plingeling T49.2.0.cnf UNSOLVED 
+plingeling T50.2.0.cnf UNSOLVED 
+plingeling,T55.2.0.cnf,UNSATISFIABLE,83.00
+plingeling,T58.2.0.cnf,UNSATISFIABLE,147.10
+plingeling,T65.2.0.cnf,UNSATISFIABLE,598.80
+plingeling,T65.2.1.cnf,UNSATISFIABLE,1506.60
+plingeling,T75.2.0.cnf,UNSATISFIABLE,463.80
+plingeling,T81.2.1.cnf,UNSATISFIABLE,1068.00
+plingeling,T83.2.1.cnf,UNSATISFIABLE,1260.70
+plingeling,T85.2.1.cnf,UNSATISFIABLE,1089.00
+plingeling,T88.2.1.cnf,UNSATISFIABLE,1057.10
+plingeling,T89.2.1.cnf,UNSATISFIABLE,938.50
+plingeling,T93.2.1.cnf,UNSATISFIABLE,1141.90
+plingeling T96.1.1.cnf UNSOLVED 
+plingeling,T97.2.1.cnf,UNSATISFIABLE,4312.90
+plingeling,T99.2.0.cnf,UNSATISFIABLE,85.90
+plingeling T99.2.1.cnf UNSOLVED 
+plingeling,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,211.50
+plingeling,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,115.70
+plingeling,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,55.20
+plingeling,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,65.30
+plingeling,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,33.30
+plingeling,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,23.30
+plingeling,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,18.00
+plingeling,UCG-15-10p1.cnf,SATISFIABLE,32.70
+plingeling,UCG-20-10p1.cnf,SATISFIABLE,100.70
+plingeling,UCG-20-5p1.cnf,SATISFIABLE,25.70
+plingeling,UR-20-10p1.cnf,SATISFIABLE,283.30
+plingeling,UR-20-5p1.cnf,SATISFIABLE,83.90
+plingeling,UTI-20-10p1.cnf,SATISFIABLE,103.00
+plingeling,UTI-20-5p1.cnf,SATISFIABLE,66.20
+scalope36,21.0.cnf,SATISFIABLE,9.20
+scalope36,21.1.cnf,SATISFIABLE,11.99
+scalope36,21.2.cnf,SATISFIABLE,3.51
+scalope36,21.3.cnf,SATISFIABLE,12.56
+scalope36,21.4.cnf,SATISFIABLE,4.88
+scalope36,21.5.cnf,SATISFIABLE,19.17
+scalope36,21.6.cnf,SATISFIABLE,14.91
+scalope36,21.7.cnf,SATISFIABLE,9.68
+scalope36,21.8.cnf,SATISFIABLE,2.94
+scalope36,21.9.cnf,SATISFIABLE,1.38
+scalope36,22.0.cnf,SATISFIABLE,92.01
+scalope36,22.1.cnf,SATISFIABLE,1008.01
+scalope36,22.2.cnf,SATISFIABLE,39.44
+scalope36,22.3.cnf,SATISFIABLE,2150.14
+scalope36,22.4.cnf,SATISFIABLE,238.58
+scalope36,22.5.cnf,SATISFIABLE,3427.92
+scalope36,22.6.cnf,SATISFIABLE,494.47
+scalope36 22.7.cnf UNSOLVED 
+scalope36,22.8.cnf,SATISFIABLE,925.35
+scalope36,22.9.cnf,SATISFIABLE,1192.01
+scalope36 23.0.cnf UNSOLVED 
+scalope36 23.1.cnf UNSOLVED 
+scalope36 23.2.cnf UNSOLVED 
+scalope36 23.3.cnf UNSOLVED 
+scalope36 23.4.cnf UNSOLVED 
+scalope36 23.5.cnf UNSOLVED 
+scalope36 23.6.cnf UNSOLVED 
+scalope36 23.7.cnf UNSOLVED 
+scalope36 23.8.cnf UNSOLVED 
+scalope36 24.0.cnf UNSOLVED 
+scalope36 24.1.cnf UNSOLVED 
+scalope36 24.2.cnf UNSOLVED 
+scalope36 24.3.cnf UNSOLVED 
+scalope36 24.4.cnf UNSOLVED 
+scalope36 24.5.cnf UNSOLVED 
+scalope36 24.6.cnf UNSOLVED 
+scalope36 24.7.cnf UNSOLVED 
+scalope36 24.8.cnf UNSOLVED 
+scalope36 24.9.cnf UNSOLVED 
+scalope36,9_11.cnf,SATISFIABLE,0.09
+scalope36,9_12.cnf,SATISFIABLE,813.89
+scalope36,9_14.cnf,SATISFIABLE,709.77
+scalope36,9_19.cnf,SATISFIABLE,2856.89
+scalope36,9_1.cnf,SATISFIABLE,31.75
+scalope36 9_21.cnf UNSOLVED 
+scalope36,9_22.cnf,SATISFIABLE,1957.94
+scalope36,9_24.cnf,SATISFIABLE,652.35
+scalope36 9_25.cnf UNSOLVED 
+scalope36,9_27.cnf,SATISFIABLE,1.35
+scalope36,9_29.cnf,SATISFIABLE,45.70
+scalope36,9_31.cnf,SATISFIABLE,4966.17
+scalope36,9_34.cnf,SATISFIABLE,1183.35
+scalope36,9_38.cnf,SATISFIABLE,7.90
+scalope36,9_3.cnf,SATISFIABLE,0.45
+scalope36,9_44.cnf,SATISFIABLE,669.56
+scalope36,9_49.cnf,SATISFIABLE,23.96
+scalope36,9_4.cnf,SATISFIABLE,612.56
+scalope36,9_50.cnf,SATISFIABLE,121.41
+scalope36,9_9.cnf,SATISFIABLE,59.96
+scalope36,ACG-15-10p1.cnf,SATISFIABLE,116.57
+scalope36,ACG-20-10p1.cnf,SATISFIABLE,336.14
+scalope36,ACG-20-5p1.cnf,SATISFIABLE,92.98
+scalope36,ak128astepbg1btisc.cnf,SATISFIABLE,0.50
+scalope36,ak128astepbg2asisc.cnf,SATISFIABLE,0.38
+scalope36,ak128astepbg2msaig.cnf,SATISFIABLE,0.22
+scalope36,ak128astepbg2msisc.cnf,SATISFIABLE,1196.92
+scalope36 ak128astepmodasaig.cnf UNSOLVED 
+scalope36 ak128astepmodbtisc.cnf UNSOLVED 
+scalope36,ak128boothbg1btisc.cnf,SATISFIABLE,0.47
+scalope36,ak128boothbg2asisc.cnf,SATISFIABLE,184.56
+scalope36,ak128boothbg2msaig.cnf,SATISFIABLE,0.32
+scalope36,ak128boothbg2msisc.cnf,SATISFIABLE,670.08
+scalope36 ak128boothboothisc.cnf UNSOLVED 
+scalope36 ak128boothdiagoaig.cnf UNSOLVED 
+scalope36 ak128boothmodasaig.cnf UNSOLVED 
+scalope36,ak128diagobg1btaig.cnf,SATISFIABLE,0.39
+scalope36,ak128diagobg2asaig.cnf,SATISFIABLE,0.21
+scalope36 ak128diagodiagoisc.cnf UNSOLVED 
+scalope36,ak128modasbg1msisc.cnf,SATISFIABLE,0.63
+scalope36,ak128modasbg1sbisc.cnf,SATISFIABLE,0.29
+scalope36 ak128modasmodasisc.cnf UNSOLVED 
+scalope36,ak128modbtbg1asaig.cnf,SATISFIABLE,0.76
+scalope36,ak128modbtbg1asisc.cnf,SATISFIABLE,0.90
+scalope36,ak128modbtbg1btaig.cnf,SATISFIABLE,1.05
+scalope36,ak128modbtbg2msisc.cnf,SATISFIABLE,807.79
+scalope36 ak128modbtsimpbaig.cnf UNSOLVED 
+scalope36,ak128paralbg1sbisc.cnf,SATISFIABLE,2.13
+scalope36,ak128paralbg2asaig.cnf,SATISFIABLE,0.21
+scalope36 ak128paralparalisc.cnf UNSOLVED 
+scalope36 ak128paralsimpbaig.cnf UNSOLVED 
+scalope36,ak128simpbbg1sbisc.cnf,SATISFIABLE,0.88
+scalope36,ak128simpbbg2asaig.cnf,SATISFIABLE,0.26
+scalope36,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,272.42
+scalope36,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,603.49
+scalope36,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,89.67
+scalope36,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,159.87
+scalope36,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,292.42
+scalope36,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,395.69
+scalope36,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,480.73
+scalope36,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,431.94
+scalope36,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,94.48
+scalope36,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,269.30
+scalope36,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,10.88
+scalope36,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,55.25
+scalope36,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,60.89
+scalope36,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,3.57
+scalope36,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,872.97
+scalope36,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,749.24
+scalope36,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,171.38
+scalope36,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,7.67
+scalope36,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,750.34
+scalope36,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,217.93
+scalope36,bsat180-648.cnf,UNSATISFIABLE,45.53
+scalope36,bsat192-689.cnf,UNSATISFIABLE,127.97
+scalope36,bsat201-707.cnf,UNSATISFIABLE,401.63
+scalope36,bsat210-739.cnf,UNSATISFIABLE,1720.09
+scalope36,gss-22-s100.cnf,SATISFIABLE,2570.28
+scalope36,gss-24-s100.cnf,SATISFIABLE,3113.67
+scalope36,gss-26-s100.cnf,SATISFIABLE,934.98
+scalope36 gss-28-s100.cnf UNSOLVED 
+scalope36 gss-30-s100.cnf UNSOLVED 
+scalope36 gss-32-s100.cnf UNSOLVED 
+scalope36 gss-34-s100.cnf UNSOLVED 
+scalope36 gss-36-s100.cnf UNSOLVED 
+scalope36 gss-38-s100.cnf UNSOLVED 
+scalope36 gss-40-s100.cnf UNSOLVED 
+scalope36,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,1856.62
+scalope36,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,4629.72
+scalope36 hwmcc15deep-6s161-k18.cnf UNSOLVED 
+scalope36,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,636.82
+scalope36,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,809.79
+scalope36,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,1432.36
+scalope36,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,489.38
+scalope36,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,793.01
+scalope36,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,56.05
+scalope36 hwmcc15deep-6s340rb63-k22.cnf UNSOLVED 
+scalope36,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,1730.43
+scalope36 hwmcc15deep-6s341r-k19.cnf UNSOLVED 
+scalope36,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,335.01
+scalope36 hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+scalope36 hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+scalope36,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,871.97
+scalope36,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,2040.89
+scalope36,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,632.85
+scalope36,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,1390.90
+scalope36,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,3057.64
+scalope36,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,2000.25
+scalope36 hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+scalope36,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,1092.88
+scalope36 hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+scalope36,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,1368.37
+scalope36,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,530.30
+scalope36 hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+scalope36 hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+scalope36 hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+scalope36 hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+scalope36 hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+scalope36 hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+scalope36 hwmcc15deep-intel032-k84.cnf UNSOLVED 
+scalope36 hwmcc15deep-intel065-k11.cnf UNSOLVED 
+scalope36 hwmcc15deep-intel066-k10.cnf UNSOLVED 
+scalope36 hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+scalope36 hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+scalope36,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,2939.11
+scalope36 hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+scalope36,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,139.40
+scalope36,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,2237.52
+scalope36,klieber2017s-0300-032-t12.cnf,SATISFIABLE,684.27
+scalope36,klieber2017s-0300-033-t12.cnf,SATISFIABLE,360.44
+scalope36,klieber2017s-0300-034-t12.cnf,SATISFIABLE,92.09
+scalope36,klieber2017s-0300-035-t12.cnf,SATISFIABLE,98.42
+scalope36,klieber2017s-0490-022-t12.cnf,SATISFIABLE,1.50
+scalope36,klieber2017s-0490-023-t12.cnf,SATISFIABLE,27.41
+scalope36,klieber2017s-0490-024-t12.cnf,SATISFIABLE,15.25
+scalope36,klieber2017s-0500-022-t12.cnf,SATISFIABLE,18.16
+scalope36,klieber2017s-0500-023-t12.cnf,SATISFIABLE,1.30
+scalope36,klieber2017s-0500-024-t12.cnf,SATISFIABLE,17.64
+scalope36,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,994.27
+scalope36,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,1694.92
+scalope36,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,402.57
+scalope36,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,1130.11
+scalope36,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,2034.82
+scalope36,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,434.85
+scalope36,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,1322.33
+scalope36,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,3345.00
+scalope36,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,446.80
+scalope36,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,1455.60
+scalope36,mizh-md5-47-3.cnf,SATISFIABLE,41.93
+scalope36,mizh-md5-47-5.cnf,SATISFIABLE,32.98
+scalope36,mizh-md5-48-2.cnf,SATISFIABLE,71.92
+scalope36,mizh-md5-48-5.cnf,SATISFIABLE,36.78
+scalope36,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,312.20
+scalope36,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,99.65
+scalope36,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,208.77
+scalope36,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,564.78
+scalope36,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,78.97
+scalope36,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,1.29
+scalope36,Nb5T06.cnf,UNSATISFIABLE,6.35
+scalope36 Nb5T07.cnf UNSOLVED 
+scalope36,Nb5T14.cnf,SATISFIABLE,275.73
+scalope36,Nb5T15.cnf,SATISFIABLE,114.44
+scalope36,Nb5T16.cnf,SATISFIABLE,147.24
+scalope36,Nb6T06.cnf,UNSATISFIABLE,5.40
+scalope36 Nb6T07.cnf UNSOLVED 
+scalope36 Nb6T25.cnf UNSOLVED 
+scalope36,Nb6T27.cnf,SATISFIABLE,2160.12
+scalope36,Nb6T28.cnf,SATISFIABLE,4213.19
+scalope36,Nb6T29.cnf,SATISFIABLE,941.11
+scalope36,Nb6T30.cnf,SATISFIABLE,55.03
+scalope36 Nb7T07.cnf UNSOLVED 
+scalope36 Nb7T08.cnf UNSOLVED 
+scalope36,Nb7T42.cnf,SATISFIABLE,82.55
+scalope36,Nb7T43.cnf,SATISFIABLE,1361.32
+scalope36,Nb7T44.cnf,SATISFIABLE,1800.39
+scalope36,Nb7T45.cnf,SATISFIABLE,67.31
+scalope36,Nb7T46.cnf,SATISFIABLE,703.51
+scalope36,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,1.94
+scalope36 ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+scalope36,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,7.35
+scalope36,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,22.28
+scalope36,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,20.27
+scalope36,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,7.13
+scalope36,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,23.41
+scalope36 ps_5000_21250_3_0_0.8_0_1.55_0.cnf UNSOLVED 
+scalope36,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,285.21
+scalope36 ps_5000_21250_3_0_0.8_0_1.55_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.55_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+scalope36 ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+scalope36,qpr-bmp280-driver-14.cnf,SATISFIABLE,0.19
+scalope36,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.43
+scalope36,rubikcube012.cnf,UNSATISFIABLE,2172.94
+scalope36 rubikcube031.cnf UNSOLVED 
+scalope36,rubikcube101.cnf,UNSATISFIABLE,87.32
+scalope36 rubikcube120.cnf UNSOLVED 
+scalope36,rubikcube212.cnf,UNSATISFIABLE,2655.85
+scalope36 rubikcube220.cnf UNSOLVED 
+scalope36,rubikcube301.cnf,UNSATISFIABLE,95.71
+scalope36,rubikcube312.cnf,UNSATISFIABLE,2252.90
+scalope36,rubikcube401.cnf,UNSATISFIABLE,103.35
+scalope36 rubikcube420.cnf UNSOLVED 
+scalope36,rubikcube512.cnf,UNSATISFIABLE,3436.69
+scalope36 rubikcube520.cnf UNSOLVED 
+scalope36,rubikcube601.cnf,UNSATISFIABLE,42.01
+scalope36,rubikcube612.cnf,SATISFIABLE,428.89
+scalope36,rubikcube701.cnf,UNSATISFIABLE,118.48
+scalope36 rubikcube720.cnf UNSOLVED 
+scalope36,rubikcube812.cnf,UNSATISFIABLE,2916.19
+scalope36 rubikcube820.cnf UNSOLVED 
+scalope36,rubikcube901.cnf,UNSATISFIABLE,50.93
+scalope36,rubikcube912.cnf,UNSATISFIABLE,2939.00
+scalope36,slp-synthesis-aes-top24.cnf,SATISFIABLE,2640.27
+scalope36,slp-synthesis-aes-top25.cnf,SATISFIABLE,707.87
+scalope36,slp-synthesis-aes-top26.cnf,SATISFIABLE,363.99
+scalope36,slp-synthesis-aes-top28.cnf,SATISFIABLE,103.62
+scalope36,slp-synthesis-aes-top29.cnf,SATISFIABLE,133.37
+scalope36,slp-synthesis-aes-top30.cnf,SATISFIABLE,17.68
+scalope36,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,35.63
+scalope36,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,0.13
+scalope36,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,1.45
+scalope36,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,4.98
+scalope36,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,4.58
+scalope36,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,131.37
+scalope36,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,108.30
+scalope36,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,148.28
+scalope36,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,98.66
+scalope36,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,97.29
+scalope36,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,200.38
+scalope36 T100.2.0.cnf UNSOLVED 
+scalope36 T101.2.0.cnf UNSOLVED 
+scalope36 T102.2.1.cnf UNSOLVED 
+scalope36,T103.2.1.cnf,UNSATISFIABLE,2832.25
+scalope36 T104.1.0.cnf UNSOLVED 
+scalope36 T105.2.1.cnf UNSOLVED 
+scalope36 T106.2.0.cnf UNSOLVED 
+scalope36 T108.2.1.cnf UNSOLVED 
+scalope36,T109.2.0.cnf,UNSATISFIABLE,1192.43
+scalope36 T110.2.1.cnf UNSOLVED 
+scalope36,T112.1.0.cnf,UNSATISFIABLE,1405.06
+scalope36,T118.2.1.cnf,UNSATISFIABLE,1066.94
+scalope36 T1.2.1.cnf UNSOLVED 
+scalope36,T122.1.0.cnf,UNSATISFIABLE,561.77
+scalope36,T124.2.0.cnf,UNSATISFIABLE,449.02
+scalope36,T124.2.1.cnf,UNSATISFIABLE,1659.93
+scalope36 T133.2.1.cnf UNSOLVED 
+scalope36,T135.1.1.cnf,UNSATISFIABLE,426.82
+scalope36 T141.1.0.cnf UNSOLVED 
+scalope36,T154.1.0.cnf,UNSATISFIABLE,49.88
+scalope36,T155.1.0.cnf,UNSATISFIABLE,1.57
+scalope36 T169.1.0.cnf UNSOLVED 
+scalope36 T169.2.0.cnf UNSOLVED 
+scalope36 T49.2.0.cnf UNSOLVED 
+scalope36 T50.2.0.cnf UNSOLVED 
+scalope36,T55.2.0.cnf,UNSATISFIABLE,64.52
+scalope36,T58.2.0.cnf,UNSATISFIABLE,104.79
+scalope36,T65.2.0.cnf,UNSATISFIABLE,169.10
+scalope36,T65.2.1.cnf,UNSATISFIABLE,812.93
+scalope36,T75.2.0.cnf,UNSATISFIABLE,101.39
+scalope36,T81.2.1.cnf,UNSATISFIABLE,729.00
+scalope36,T83.2.1.cnf,UNSATISFIABLE,1026.35
+scalope36,T85.2.1.cnf,UNSATISFIABLE,750.99
+scalope36,T88.2.1.cnf,UNSATISFIABLE,589.59
+scalope36,T89.2.1.cnf,UNSATISFIABLE,742.91
+scalope36,T93.2.1.cnf,UNSATISFIABLE,941.92
+scalope36 T96.1.1.cnf UNSOLVED 
+scalope36 T97.2.1.cnf UNSOLVED 
+scalope36,T99.2.0.cnf,UNSATISFIABLE,2.36
+scalope36 T99.2.1.cnf UNSOLVED 
+scalope36,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,94.95
+scalope36,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,15.58
+scalope36,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,6.90
+scalope36,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,7.33
+scalope36,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,9.00
+scalope36,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.01
+scalope36,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,4.19
+scalope36,UCG-15-10p1.cnf,SATISFIABLE,70.00
+scalope36,UCG-20-10p1.cnf,SATISFIABLE,170.59
+scalope36,UCG-20-5p1.cnf,SATISFIABLE,27.71
+scalope36,UR-20-10p1.cnf,SATISFIABLE,453.36
+scalope36,UR-20-5p1.cnf,SATISFIABLE,49.58
+scalope36,UTI-20-10p1.cnf,SATISFIABLE,185.03
+scalope36,UTI-20-5p1.cnf,SATISFIABLE,50.04
+scalope48,21.0.cnf,SATISFIABLE,20.53
+scalope48,21.1.cnf,SATISFIABLE,16.96
+scalope48,21.2.cnf,SATISFIABLE,2.30
+scalope48,21.3.cnf,SATISFIABLE,9.52
+scalope48,21.4.cnf,SATISFIABLE,14.17
+scalope48,21.5.cnf,SATISFIABLE,40.56
+scalope48,21.6.cnf,SATISFIABLE,7.54
+scalope48,21.7.cnf,SATISFIABLE,3.47
+scalope48,21.8.cnf,SATISFIABLE,19.99
+scalope48,21.9.cnf,SATISFIABLE,31.37
+scalope48,22.0.cnf,SATISFIABLE,1559.86
+scalope48,22.1.cnf,SATISFIABLE,3116.35
+scalope48,22.2.cnf,SATISFIABLE,530.77
+scalope48,22.3.cnf,SATISFIABLE,1550.44
+scalope48,22.4.cnf,SATISFIABLE,857.86
+scalope48,22.5.cnf,SATISFIABLE,246.82
+scalope48,22.6.cnf,SATISFIABLE,1069.58
+scalope48,22.7.cnf,SATISFIABLE,859.51
+scalope48,22.8.cnf,SATISFIABLE,442.49
+scalope48,22.9.cnf,SATISFIABLE,1149.50
+scalope48 23.0.cnf UNSOLVED 
+scalope48 23.1.cnf UNSOLVED 
+scalope48 23.2.cnf UNSOLVED 
+scalope48 23.3.cnf UNSOLVED 
+scalope48 23.4.cnf UNSOLVED 
+scalope48 23.5.cnf UNSOLVED 
+scalope48 23.6.cnf UNSOLVED 
+scalope48 23.7.cnf UNSOLVED 
+scalope48 23.8.cnf UNSOLVED 
+scalope48 24.0.cnf UNSOLVED 
+scalope48 24.1.cnf UNSOLVED 
+scalope48 24.2.cnf UNSOLVED 
+scalope48 24.3.cnf UNSOLVED 
+scalope48 24.4.cnf UNSOLVED 
+scalope48 24.5.cnf UNSOLVED 
+scalope48 24.6.cnf UNSOLVED 
+scalope48 24.7.cnf UNSOLVED 
+scalope48 24.8.cnf UNSOLVED 
+scalope48 24.9.cnf UNSOLVED 
+scalope48,9_11.cnf,SATISFIABLE,0.09
+scalope48,9_12.cnf,SATISFIABLE,342.52
+scalope48,9_14.cnf,SATISFIABLE,745.56
+scalope48,9_19.cnf,SATISFIABLE,1656.72
+scalope48,9_1.cnf,SATISFIABLE,236.43
+scalope48 9_21.cnf UNSOLVED 
+scalope48,9_22.cnf,SATISFIABLE,1226.99
+scalope48,9_24.cnf,SATISFIABLE,1238.68
+scalope48 9_25.cnf UNSOLVED 
+scalope48,9_27.cnf,SATISFIABLE,12.85
+scalope48,9_29.cnf,SATISFIABLE,59.74
+scalope48,9_31.cnf,SATISFIABLE,2674.42
+scalope48,9_34.cnf,SATISFIABLE,788.62
+scalope48,9_38.cnf,SATISFIABLE,25.14
+scalope48,9_3.cnf,SATISFIABLE,1.61
+scalope48,9_44.cnf,SATISFIABLE,829.61
+scalope48,9_49.cnf,SATISFIABLE,19.93
+scalope48,9_4.cnf,SATISFIABLE,370.39
+scalope48,9_50.cnf,SATISFIABLE,51.62
+scalope48,9_9.cnf,SATISFIABLE,524.45
+scalope48,ACG-15-10p1.cnf,SATISFIABLE,118.15
+scalope48,ACG-20-10p1.cnf,SATISFIABLE,359.05
+scalope48,ACG-20-5p1.cnf,SATISFIABLE,100.07
+scalope48,ak128astepbg1btisc.cnf,SATISFIABLE,0.41
+scalope48,ak128astepbg2asisc.cnf,SATISFIABLE,0.34
+scalope48,ak128astepbg2msaig.cnf,SATISFIABLE,0.24
+scalope48,ak128astepbg2msisc.cnf,SATISFIABLE,1925.12
+scalope48 ak128astepmodasaig.cnf UNSOLVED 
+scalope48 ak128astepmodbtisc.cnf UNSOLVED 
+scalope48,ak128boothbg1btisc.cnf,SATISFIABLE,0.64
+scalope48,ak128boothbg2asisc.cnf,SATISFIABLE,2069.62
+scalope48,ak128boothbg2msaig.cnf,SATISFIABLE,0.44
+scalope48,ak128boothbg2msisc.cnf,SATISFIABLE,337.88
+scalope48 ak128boothboothisc.cnf UNSOLVED 
+scalope48 ak128boothdiagoaig.cnf UNSOLVED 
+scalope48 ak128boothmodasaig.cnf UNSOLVED 
+scalope48,ak128diagobg1btaig.cnf,SATISFIABLE,0.38
+scalope48,ak128diagobg2asaig.cnf,SATISFIABLE,0.23
+scalope48 ak128diagodiagoisc.cnf UNSOLVED 
+scalope48,ak128modasbg1msisc.cnf,SATISFIABLE,1.15
+scalope48,ak128modasbg1sbisc.cnf,SATISFIABLE,0.27
+scalope48 ak128modasmodasisc.cnf UNSOLVED 
+scalope48,ak128modbtbg1asaig.cnf,SATISFIABLE,0.71
+scalope48,ak128modbtbg1asisc.cnf,SATISFIABLE,0.40
+scalope48,ak128modbtbg1btaig.cnf,SATISFIABLE,0.69
+scalope48 ak128modbtbg2msisc.cnf UNSOLVED 
+scalope48 ak128modbtsimpbaig.cnf UNSOLVED 
+scalope48,ak128paralbg1sbisc.cnf,SATISFIABLE,0.67
+scalope48,ak128paralbg2asaig.cnf,SATISFIABLE,0.22
+scalope48 ak128paralparalisc.cnf UNSOLVED 
+scalope48 ak128paralsimpbaig.cnf UNSOLVED 
+scalope48,ak128simpbbg1sbisc.cnf,SATISFIABLE,0.67
+scalope48,ak128simpbbg2asaig.cnf,SATISFIABLE,0.29
+scalope48,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,314.84
+scalope48,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,973.16
+scalope48,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,135.26
+scalope48,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,284.15
+scalope48,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,345.08
+scalope48,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,669.53
+scalope48,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,693.63
+scalope48,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,101.07
+scalope48,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,152.14
+scalope48,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,275.02
+scalope48,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,22.79
+scalope48,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,31.64
+scalope48,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,659.04
+scalope48,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,3.68
+scalope48,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,1297.42
+scalope48,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,899.81
+scalope48,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,508.03
+scalope48,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,83.40
+scalope48,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,1126.88
+scalope48,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,28.67
+scalope48,bsat180-648.cnf,UNSATISFIABLE,56.81
+scalope48,bsat192-689.cnf,UNSATISFIABLE,197.69
+scalope48,bsat201-707.cnf,UNSATISFIABLE,545.98
+scalope48,bsat210-739.cnf,UNSATISFIABLE,2513.56
+scalope48,gss-22-s100.cnf,SATISFIABLE,352.93
+scalope48,gss-24-s100.cnf,SATISFIABLE,1024.01
+scalope48,gss-26-s100.cnf,SATISFIABLE,1209.10
+scalope48 gss-28-s100.cnf UNSOLVED 
+scalope48 gss-30-s100.cnf UNSOLVED 
+scalope48 gss-32-s100.cnf UNSOLVED 
+scalope48 gss-34-s100.cnf UNSOLVED 
+scalope48 gss-36-s100.cnf UNSOLVED 
+scalope48 gss-38-s100.cnf UNSOLVED 
+scalope48 gss-40-s100.cnf UNSOLVED 
+scalope48,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,2427.29
+scalope48 hwmcc15deep-6s161-k17.cnf UNSOLVED 
+scalope48 hwmcc15deep-6s161-k18.cnf UNSOLVED 
+scalope48,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,788.34
+scalope48,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,869.18
+scalope48,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,1653.62
+scalope48,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,600.75
+scalope48,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,935.13
+scalope48,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,62.98
+scalope48 hwmcc15deep-6s340rb63-k22.cnf UNSOLVED 
+scalope48,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,1888.79
+scalope48 hwmcc15deep-6s341r-k19.cnf UNSOLVED 
+scalope48,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,416.76
+scalope48 hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+scalope48 hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+scalope48,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,1115.87
+scalope48,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,2369.02
+scalope48,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,757.28
+scalope48,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,1701.33
+scalope48,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,3273.88
+scalope48,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,2627.21
+scalope48 hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+scalope48,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,1315.44
+scalope48 hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+scalope48,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,1823.33
+scalope48,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,981.95
+scalope48 hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+scalope48 hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+scalope48 hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+scalope48 hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+scalope48 hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+scalope48 hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+scalope48 hwmcc15deep-intel032-k84.cnf UNSOLVED 
+scalope48 hwmcc15deep-intel065-k11.cnf UNSOLVED 
+scalope48 hwmcc15deep-intel066-k10.cnf UNSOLVED 
+scalope48 hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+scalope48 hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+scalope48,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,2801.08
+scalope48 hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+scalope48,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,206.53
+scalope48,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,3666.44
+scalope48,klieber2017s-0300-032-t12.cnf,SATISFIABLE,21.90
+scalope48,klieber2017s-0300-033-t12.cnf,SATISFIABLE,33.46
+scalope48,klieber2017s-0300-034-t12.cnf,SATISFIABLE,67.35
+scalope48,klieber2017s-0300-035-t12.cnf,SATISFIABLE,75.19
+scalope48,klieber2017s-0490-022-t12.cnf,SATISFIABLE,9.22
+scalope48,klieber2017s-0490-023-t12.cnf,SATISFIABLE,3.40
+scalope48,klieber2017s-0490-024-t12.cnf,SATISFIABLE,18.11
+scalope48,klieber2017s-0500-022-t12.cnf,SATISFIABLE,12.31
+scalope48,klieber2017s-0500-023-t12.cnf,SATISFIABLE,2.52
+scalope48,klieber2017s-0500-024-t12.cnf,SATISFIABLE,12.57
+scalope48,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,1387.31
+scalope48,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,1701.40
+scalope48,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,668.83
+scalope48,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,1646.42
+scalope48,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,2831.62
+scalope48,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,626.34
+scalope48,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,2005.77
+scalope48,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,4371.85
+scalope48,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,682.41
+scalope48,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,2156.06
+scalope48,mizh-md5-47-3.cnf,SATISFIABLE,28.54
+scalope48,mizh-md5-47-5.cnf,SATISFIABLE,15.02
+scalope48,mizh-md5-48-2.cnf,SATISFIABLE,32.62
+scalope48,mizh-md5-48-5.cnf,SATISFIABLE,38.37
+scalope48,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,289.85
+scalope48,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,32.36
+scalope48,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,54.54
+scalope48 modgen-n200-m90860q08c40-3230.cnf UNSOLVED 
+scalope48,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,1016.47
+scalope48,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,6.53
+scalope48,Nb5T06.cnf,UNSATISFIABLE,5.85
+scalope48 Nb5T07.cnf UNSOLVED 
+scalope48,Nb5T14.cnf,SATISFIABLE,1186.68
+scalope48,Nb5T15.cnf,SATISFIABLE,1250.30
+scalope48,Nb5T16.cnf,SATISFIABLE,207.29
+scalope48,Nb6T06.cnf,UNSATISFIABLE,6.16
+scalope48 Nb6T07.cnf UNSOLVED 
+scalope48 Nb6T25.cnf UNSOLVED 
+scalope48,Nb6T27.cnf,SATISFIABLE,105.54
+scalope48,Nb6T28.cnf,SATISFIABLE,0.85
+scalope48,Nb6T29.cnf,SATISFIABLE,412.00
+scalope48,Nb6T30.cnf,SATISFIABLE,53.19
+scalope48 Nb7T07.cnf UNSOLVED 
+scalope48 Nb7T08.cnf UNSOLVED 
+scalope48 Nb7T42.cnf UNSOLVED 
+scalope48,Nb7T43.cnf,SATISFIABLE,5.15
+scalope48,Nb7T44.cnf,SATISFIABLE,1510.57
+scalope48,Nb7T45.cnf,SATISFIABLE,146.48
+scalope48,Nb7T46.cnf,SATISFIABLE,45.82
+scalope48,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,1.72
+scalope48 ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+scalope48,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,11.15
+scalope48,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,33.70
+scalope48,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,31.85
+scalope48,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,11.34
+scalope48,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,28.47
+scalope48 ps_5000_21250_3_0_0.8_0_1.55_0.cnf UNSOLVED 
+scalope48,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,541.81
+scalope48 ps_5000_21250_3_0_0.8_0_1.55_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.55_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+scalope48 ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+scalope48,qpr-bmp280-driver-14.cnf,SATISFIABLE,0.31
+scalope48,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.10
+scalope48,rubikcube012.cnf,UNSATISFIABLE,2893.54
+scalope48 rubikcube031.cnf UNSOLVED 
+scalope48,rubikcube101.cnf,UNSATISFIABLE,104.95
+scalope48 rubikcube120.cnf UNSOLVED 
+scalope48,rubikcube212.cnf,UNSATISFIABLE,3016.31
+scalope48 rubikcube220.cnf UNSOLVED 
+scalope48,rubikcube301.cnf,UNSATISFIABLE,144.38
+scalope48,rubikcube312.cnf,UNSATISFIABLE,2822.15
+scalope48,rubikcube401.cnf,UNSATISFIABLE,175.49
+scalope48 rubikcube420.cnf UNSOLVED 
+scalope48,rubikcube512.cnf,UNSATISFIABLE,4393.00
+scalope48 rubikcube520.cnf UNSOLVED 
+scalope48,rubikcube601.cnf,UNSATISFIABLE,68.15
+scalope48,rubikcube612.cnf,SATISFIABLE,1679.23
+scalope48,rubikcube701.cnf,UNSATISFIABLE,157.69
+scalope48 rubikcube720.cnf UNSOLVED 
+scalope48,rubikcube812.cnf,UNSATISFIABLE,3153.58
+scalope48 rubikcube820.cnf UNSOLVED 
+scalope48,rubikcube901.cnf,UNSATISFIABLE,75.69
+scalope48,rubikcube912.cnf,UNSATISFIABLE,3785.62
+scalope48,slp-synthesis-aes-top24.cnf,SATISFIABLE,545.88
+scalope48,slp-synthesis-aes-top25.cnf,SATISFIABLE,1551.97
+scalope48,slp-synthesis-aes-top26.cnf,SATISFIABLE,55.25
+scalope48,slp-synthesis-aes-top28.cnf,SATISFIABLE,182.78
+scalope48,slp-synthesis-aes-top29.cnf,SATISFIABLE,138.43
+scalope48,slp-synthesis-aes-top30.cnf,SATISFIABLE,106.13
+scalope48,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,11.05
+scalope48,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,11.28
+scalope48,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,0.90
+scalope48,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,0.99
+scalope48,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,5.88
+scalope48,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,153.12
+scalope48,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,152.67
+scalope48,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,219.06
+scalope48,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,162.50
+scalope48,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,144.24
+scalope48,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,465.99
+scalope48 T100.2.0.cnf UNSOLVED 
+scalope48 T101.2.0.cnf UNSOLVED 
+scalope48 T102.2.1.cnf UNSOLVED 
+scalope48 T103.2.1.cnf UNSOLVED 
+scalope48 T104.1.0.cnf UNSOLVED 
+scalope48 T105.2.1.cnf UNSOLVED 
+scalope48 T106.2.0.cnf UNSOLVED 
+scalope48 T108.2.1.cnf UNSOLVED 
+scalope48 T109.2.0.cnf UNSOLVED 
+scalope48 T110.2.1.cnf UNSOLVED 
+scalope48,T112.1.0.cnf,UNSATISFIABLE,1473.46
+scalope48,T118.2.1.cnf,UNSATISFIABLE,865.76
+scalope48 T1.2.1.cnf UNSOLVED 
+scalope48,T122.1.0.cnf,UNSATISFIABLE,986.84
+scalope48,T124.2.0.cnf,UNSATISFIABLE,511.12
+scalope48,T124.2.1.cnf,UNSATISFIABLE,1933.97
+scalope48 T133.2.1.cnf UNSOLVED 
+scalope48,T135.1.1.cnf,UNSATISFIABLE,452.10
+scalope48 T141.1.0.cnf UNSOLVED 
+scalope48,T154.1.0.cnf,UNSATISFIABLE,38.01
+scalope48,T155.1.0.cnf,UNSATISFIABLE,1.81
+scalope48 T169.1.0.cnf UNSOLVED 
+scalope48 T169.2.0.cnf UNSOLVED 
+scalope48 T49.2.0.cnf UNSOLVED 
+scalope48,T50.2.0.cnf,UNSATISFIABLE,185.95
+scalope48,T55.2.0.cnf,UNSATISFIABLE,76.41
+scalope48,T58.2.0.cnf,UNSATISFIABLE,130.00
+scalope48,T65.2.0.cnf,UNSATISFIABLE,218.00
+scalope48 T65.2.1.cnf UNSOLVED 
+scalope48,T75.2.0.cnf,UNSATISFIABLE,144.02
+scalope48 T81.2.1.cnf UNSOLVED 
+scalope48 T83.2.1.cnf UNSOLVED 
+scalope48 T85.2.1.cnf UNSOLVED 
+scalope48 T88.2.1.cnf UNSOLVED 
+scalope48 T89.2.1.cnf UNSOLVED 
+scalope48 T93.2.1.cnf UNSOLVED 
+scalope48 T96.1.1.cnf UNSOLVED 
+scalope48 T97.2.1.cnf UNSOLVED 
+scalope48 T99.2.0.cnf UNSOLVED 
+scalope48 T99.2.1.cnf UNSOLVED 
+scalope48,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,113.50
+scalope48,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,12.52
+scalope48,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,11.76
+scalope48,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,11.78
+scalope48,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,13.51
+scalope48,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.98
+scalope48,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,5.06
+scalope48,UCG-15-10p1.cnf,SATISFIABLE,23.46
+scalope48,UCG-20-10p1.cnf,SATISFIABLE,182.76
+scalope48,UCG-20-5p1.cnf,SATISFIABLE,47.10
+scalope48,UR-20-10p1.cnf,SATISFIABLE,527.28
+scalope48,UR-20-5p1.cnf,SATISFIABLE,78.63
+scalope48,UTI-20-10p1.cnf,SATISFIABLE,199.40
+scalope48,UTI-20-5p1.cnf,SATISFIABLE,36.58
+syrup24,21.0.cnf,SATISFIABLE,12.77
+syrup24,21.1.cnf,SATISFIABLE,9.15
+syrup24,21.2.cnf,SATISFIABLE,9.57
+syrup24,21.3.cnf,SATISFIABLE,14.71
+syrup24,21.4.cnf,SATISFIABLE,8.93
+syrup24,21.5.cnf,SATISFIABLE,11.85
+syrup24,21.6.cnf,SATISFIABLE,13.33
+syrup24,21.7.cnf,SATISFIABLE,11.37
+syrup24,21.8.cnf,SATISFIABLE,12.94
+syrup24,21.9.cnf,SATISFIABLE,7.53
+syrup24,22.0.cnf,SATISFIABLE,57.27
+syrup24,22.1.cnf,SATISFIABLE,1024.18
+syrup24,22.2.cnf,SATISFIABLE,3941.91
+syrup24,22.3.cnf,SATISFIABLE,455.13
+syrup24,22.4.cnf,SATISFIABLE,215.96
+syrup24,22.5.cnf,SATISFIABLE,74.88
+syrup24,22.6.cnf,SATISFIABLE,872.74
+syrup24,22.7.cnf,SATISFIABLE,80.39
+syrup24,22.8.cnf,SATISFIABLE,26.61
+syrup24,22.9.cnf,SATISFIABLE,100.72
+syrup24 23.0.cnf UNSOLVED 
+syrup24 23.1.cnf UNSOLVED 
+syrup24 23.2.cnf UNSOLVED 
+syrup24 23.3.cnf UNSOLVED 
+syrup24 23.4.cnf UNSOLVED 
+syrup24,23.5.cnf,SATISFIABLE,1124.08
+syrup24 23.6.cnf UNSOLVED 
+syrup24 23.7.cnf UNSOLVED 
+syrup24 23.8.cnf UNSOLVED 
+syrup24 24.0.cnf UNSOLVED 
+syrup24 24.1.cnf UNSOLVED 
+syrup24 24.2.cnf UNSOLVED 
+syrup24 24.3.cnf UNSOLVED 
+syrup24 24.4.cnf UNSOLVED 
+syrup24 24.5.cnf UNSOLVED 
+syrup24 24.6.cnf UNSOLVED 
+syrup24 24.7.cnf UNSOLVED 
+syrup24 24.8.cnf UNSOLVED 
+syrup24 24.9.cnf UNSOLVED 
+syrup24,9_11.cnf,SATISFIABLE,0.45
+syrup24,9_12.cnf,SATISFIABLE,44.71
+syrup24,9_14.cnf,SATISFIABLE,43.87
+syrup24,9_19.cnf,SATISFIABLE,270.69
+syrup24,9_1.cnf,SATISFIABLE,30.58
+syrup24 9_21.cnf UNSOLVED 
+syrup24,9_22.cnf,SATISFIABLE,1801.29
+syrup24,9_24.cnf,SATISFIABLE,628.74
+syrup24,9_25.cnf,SATISFIABLE,3799.93
+syrup24,9_27.cnf,SATISFIABLE,12.66
+syrup24,9_29.cnf,SATISFIABLE,5.87
+syrup24,9_31.cnf,SATISFIABLE,131.92
+syrup24,9_34.cnf,SATISFIABLE,179.32
+syrup24,9_38.cnf,SATISFIABLE,6.38
+syrup24,9_3.cnf,SATISFIABLE,2.39
+syrup24,9_44.cnf,SATISFIABLE,328.84
+syrup24,9_49.cnf,SATISFIABLE,10.19
+syrup24,9_4.cnf,SATISFIABLE,285.62
+syrup24,9_50.cnf,SATISFIABLE,37.74
+syrup24,9_9.cnf,SATISFIABLE,18.10
+syrup24,ACG-15-10p1.cnf,SATISFIABLE,34.30
+syrup24,ACG-20-10p1.cnf,SATISFIABLE,174.43
+syrup24,ACG-20-5p1.cnf,SATISFIABLE,44.49
+syrup24,ak128astepbg1btisc.cnf,SATISFIABLE,6.60
+syrup24,ak128astepbg2asisc.cnf,SATISFIABLE,12.31
+syrup24 ak128astepbg2msaig.cnf UNSOLVED 
+syrup24,ak128astepbg2msisc.cnf,SATISFIABLE,1682.41
+syrup24 ak128astepmodasaig.cnf UNSOLVED 
+syrup24 ak128astepmodbtisc.cnf UNSOLVED 
+syrup24,ak128boothbg1btisc.cnf,SATISFIABLE,8.01
+syrup24,ak128boothbg2asisc.cnf,SATISFIABLE,219.95
+syrup24 ak128boothbg2msaig.cnf UNSOLVED 
+syrup24,ak128boothbg2msisc.cnf,SATISFIABLE,2612.80
+syrup24 ak128boothboothisc.cnf UNSOLVED 
+syrup24 ak128boothdiagoaig.cnf UNSOLVED 
+syrup24 ak128boothmodasaig.cnf UNSOLVED 
+syrup24,ak128diagobg1btaig.cnf,SATISFIABLE,9.52
+syrup24 ak128diagobg2asaig.cnf UNSOLVED 
+syrup24 ak128diagodiagoisc.cnf UNSOLVED 
+syrup24,ak128modasbg1msisc.cnf,SATISFIABLE,5.52
+syrup24,ak128modasbg1sbisc.cnf,SATISFIABLE,5.81
+syrup24 ak128modasmodasisc.cnf UNSOLVED 
+syrup24,ak128modbtbg1asaig.cnf,SATISFIABLE,7.97
+syrup24,ak128modbtbg1asisc.cnf,SATISFIABLE,4.55
+syrup24,ak128modbtbg1btaig.cnf,SATISFIABLE,10.85
+syrup24,ak128modbtbg2msisc.cnf,SATISFIABLE,986.90
+syrup24 ak128modbtsimpbaig.cnf UNSOLVED 
+syrup24,ak128paralbg1sbisc.cnf,SATISFIABLE,5.39
+syrup24 ak128paralbg2asaig.cnf UNSOLVED 
+syrup24,ak128paralparalisc.cnf,UNSATISFIABLE,1434.86
+syrup24 ak128paralsimpbaig.cnf UNSOLVED 
+syrup24,ak128simpbbg1sbisc.cnf,SATISFIABLE,6.40
+syrup24 ak128simpbbg2asaig.cnf UNSOLVED 
+syrup24,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,21.79
+syrup24,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,34.08
+syrup24,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,16.79
+syrup24,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,22.89
+syrup24,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,27.40
+syrup24,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,26.27
+syrup24,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,28.94
+syrup24,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,24.37
+syrup24,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,9.56
+syrup24,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,25.03
+syrup24,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,3.31
+syrup24,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,45.38
+syrup24,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,6.96
+syrup24,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,53.12
+syrup24,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,29.36
+syrup24,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,18.41
+syrup24,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,25.19
+syrup24,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,18.32
+syrup24,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,23.09
+syrup24,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,95.00
+syrup24,bsat180-648.cnf,UNSATISFIABLE,13.80
+syrup24,bsat192-689.cnf,UNSATISFIABLE,23.69
+syrup24,bsat201-707.cnf,UNSATISFIABLE,59.65
+syrup24,bsat210-739.cnf,UNSATISFIABLE,429.65
+syrup24,gss-22-s100.cnf,SATISFIABLE,450.88
+syrup24,gss-24-s100.cnf,SATISFIABLE,1150.09
+syrup24 gss-26-s100.cnf UNSOLVED 
+syrup24 gss-28-s100.cnf UNSOLVED 
+syrup24 gss-30-s100.cnf UNSOLVED 
+syrup24 gss-32-s100.cnf UNSOLVED 
+syrup24 gss-34-s100.cnf UNSOLVED 
+syrup24 gss-36-s100.cnf UNSOLVED 
+syrup24 gss-38-s100.cnf UNSOLVED 
+syrup24 gss-40-s100.cnf UNSOLVED 
+syrup24,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,216.45
+syrup24,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,356.98
+syrup24,hwmcc15deep-6s161-k18.cnf,UNSATISFIABLE,586.62
+syrup24,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,111.55
+syrup24,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,660.03
+syrup24,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,870.14
+syrup24,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,56.90
+syrup24,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,86.32
+syrup24,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,5.58
+syrup24,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,141.30
+syrup24,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,27.03
+syrup24,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,62.66
+syrup24,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,135.92
+syrup24 hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+syrup24 hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+syrup24,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,140.69
+syrup24,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,203.92
+syrup24,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,261.74
+syrup24,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,666.03
+syrup24,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,305.26
+syrup24,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,171.25
+syrup24 hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+syrup24,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,1468.31
+syrup24 hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+syrup24,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,696.76
+syrup24,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,221.31
+syrup24,hwmcc15deep-bob12s02-k16.cnf,UNSATISFIABLE,1218.55
+syrup24,hwmcc15deep-bob12s02-k17.cnf,UNSATISFIABLE,1614.52
+syrup24,hwmcc15deep-bobpcihm-k30.cnf,UNSATISFIABLE,1106.29
+syrup24,hwmcc15deep-bobpcihm-k31.cnf,UNSATISFIABLE,1206.02
+syrup24,hwmcc15deep-bobpcihm-k32.cnf,UNSATISFIABLE,1346.00
+syrup24,hwmcc15deep-bobpcihm-k33.cnf,UNSATISFIABLE,1568.23
+syrup24,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,215.10
+syrup24,hwmcc15deep-intel065-k11.cnf,UNSATISFIABLE,131.66
+syrup24,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,70.48
+syrup24,hwmcc15deep-oski15a10b06s-k24.cnf,UNSATISFIABLE,927.80
+syrup24,hwmcc15deep-oski15a10b08s-k23.cnf,UNSATISFIABLE,590.45
+syrup24,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,297.82
+syrup24,hwmcc15deep-oski15a10b10s-k22.cnf,UNSATISFIABLE,589.48
+syrup24,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,94.56
+syrup24,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,471.25
+syrup24,klieber2017s-0300-032-t12.cnf,SATISFIABLE,427.89
+syrup24,klieber2017s-0300-033-t12.cnf,SATISFIABLE,43.75
+syrup24,klieber2017s-0300-034-t12.cnf,SATISFIABLE,96.43
+syrup24,klieber2017s-0300-035-t12.cnf,SATISFIABLE,57.97
+syrup24,klieber2017s-0490-022-t12.cnf,SATISFIABLE,2.45
+syrup24,klieber2017s-0490-023-t12.cnf,SATISFIABLE,13.98
+syrup24,klieber2017s-0490-024-t12.cnf,SATISFIABLE,11.12
+syrup24,klieber2017s-0500-022-t12.cnf,SATISFIABLE,8.89
+syrup24,klieber2017s-0500-023-t12.cnf,SATISFIABLE,6.27
+syrup24,klieber2017s-0500-024-t12.cnf,SATISFIABLE,36.44
+syrup24,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,301.73
+syrup24,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,306.79
+syrup24,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,152.71
+syrup24,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,423.46
+syrup24,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,420.86
+syrup24,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,256.06
+syrup24,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,527.09
+syrup24,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,797.73
+syrup24,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,260.46
+syrup24,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,722.28
+syrup24,mizh-md5-47-3.cnf,SATISFIABLE,22.42
+syrup24,mizh-md5-47-5.cnf,SATISFIABLE,72.03
+syrup24,mizh-md5-48-2.cnf,SATISFIABLE,241.15
+syrup24,mizh-md5-48-5.cnf,SATISFIABLE,227.93
+syrup24,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,188.61
+syrup24,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,467.59
+syrup24,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,3888.55
+syrup24,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,1728.03
+syrup24,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,377.30
+syrup24,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,12.53
+syrup24,Nb5T06.cnf,UNSATISFIABLE,3.91
+syrup24,Nb5T07.cnf,UNSATISFIABLE,325.48
+syrup24 Nb5T14.cnf UNSOLVED 
+syrup24 Nb5T15.cnf UNSOLVED 
+syrup24,Nb5T16.cnf,SATISFIABLE,13.44
+syrup24,Nb6T06.cnf,UNSATISFIABLE,8.12
+syrup24,Nb6T07.cnf,UNSATISFIABLE,405.15
+syrup24 Nb6T25.cnf UNSOLVED 
+syrup24 Nb6T27.cnf UNSOLVED 
+syrup24,Nb6T28.cnf,SATISFIABLE,153.24
+syrup24 Nb6T29.cnf UNSOLVED 
+syrup24,Nb6T30.cnf,SATISFIABLE,7.34
+syrup24,Nb7T07.cnf,UNSATISFIABLE,502.00
+syrup24 Nb7T08.cnf UNSOLVED 
+syrup24 Nb7T42.cnf UNSOLVED 
+syrup24 Nb7T43.cnf UNSOLVED 
+syrup24 Nb7T44.cnf UNSOLVED 
+syrup24 Nb7T45.cnf UNSOLVED 
+syrup24 Nb7T46.cnf UNSOLVED 
+syrup24,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,7.72
+syrup24 ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+syrup24,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,10.07
+syrup24,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,24.34
+syrup24,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,17.01
+syrup24,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,11.22
+syrup24,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,16.18
+syrup24,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,4587.07
+syrup24,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,145.08
+syrup24,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,3478.88
+syrup24,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,2992.74
+syrup24 ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+syrup24 ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+syrup24,qpr-bmp280-driver-14.cnf,SATISFIABLE,0.59
+syrup24,qpr-bmp280-driver-5.cnf,SATISFIABLE,0.64
+syrup24,rubikcube012.cnf,UNSATISFIABLE,624.08
+syrup24 rubikcube031.cnf UNSOLVED 
+syrup24,rubikcube101.cnf,UNSATISFIABLE,44.66
+syrup24 rubikcube120.cnf UNSOLVED 
+syrup24,rubikcube212.cnf,UNSATISFIABLE,534.56
+syrup24 rubikcube220.cnf UNSOLVED 
+syrup24,rubikcube301.cnf,UNSATISFIABLE,52.20
+syrup24,rubikcube312.cnf,UNSATISFIABLE,701.94
+syrup24,rubikcube401.cnf,UNSATISFIABLE,47.36
+syrup24 rubikcube420.cnf UNSOLVED 
+syrup24,rubikcube512.cnf,UNSATISFIABLE,825.40
+syrup24 rubikcube520.cnf UNSOLVED 
+syrup24,rubikcube601.cnf,UNSATISFIABLE,31.00
+syrup24,rubikcube612.cnf,SATISFIABLE,303.71
+syrup24,rubikcube701.cnf,UNSATISFIABLE,54.22
+syrup24 rubikcube720.cnf UNSOLVED 
+syrup24,rubikcube812.cnf,UNSATISFIABLE,696.38
+syrup24 rubikcube820.cnf UNSOLVED 
+syrup24,rubikcube901.cnf,UNSATISFIABLE,32.20
+syrup24,rubikcube912.cnf,UNSATISFIABLE,629.32
+syrup24 slp-synthesis-aes-top24.cnf UNSOLVED 
+syrup24,slp-synthesis-aes-top25.cnf,SATISFIABLE,685.97
+syrup24 slp-synthesis-aes-top26.cnf UNSOLVED 
+syrup24,slp-synthesis-aes-top28.cnf,SATISFIABLE,812.29
+syrup24,slp-synthesis-aes-top29.cnf,SATISFIABLE,207.84
+syrup24,slp-synthesis-aes-top30.cnf,SATISFIABLE,1058.76
+syrup24,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,8.53
+syrup24,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,9.29
+syrup24,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,2.77
+syrup24,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,2.68
+syrup24,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,7.47
+syrup24,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,51.68
+syrup24,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,37.65
+syrup24,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,59.45
+syrup24,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,22.95
+syrup24,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,22.94
+syrup24,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,148.67
+syrup24 T100.2.0.cnf UNSOLVED 
+syrup24 T101.2.0.cnf UNSOLVED 
+syrup24 T102.2.1.cnf UNSOLVED 
+syrup24,T103.2.1.cnf,UNSATISFIABLE,2835.02
+syrup24 T104.1.0.cnf UNSOLVED 
+syrup24 T105.2.1.cnf UNSOLVED 
+syrup24 T106.2.0.cnf UNSOLVED 
+syrup24 T108.2.1.cnf UNSOLVED 
+syrup24,T109.2.0.cnf,UNSATISFIABLE,1882.46
+syrup24,T110.2.1.cnf,UNSATISFIABLE,4638.44
+syrup24,T112.1.0.cnf,UNSATISFIABLE,508.66
+syrup24,T118.2.1.cnf,UNSATISFIABLE,1645.16
+syrup24 T1.2.1.cnf UNSOLVED 
+syrup24,T122.1.0.cnf,UNSATISFIABLE,407.45
+syrup24,T124.2.0.cnf,UNSATISFIABLE,644.80
+syrup24,T124.2.1.cnf,UNSATISFIABLE,2031.83
+syrup24 T133.2.1.cnf UNSOLVED 
+syrup24,T135.1.1.cnf,UNSATISFIABLE,250.31
+syrup24 T141.1.0.cnf UNSOLVED 
+syrup24,T154.1.0.cnf,UNSATISFIABLE,110.51
+syrup24,T155.1.0.cnf,UNSATISFIABLE,26.97
+syrup24 T169.1.0.cnf UNSOLVED 
+syrup24 T169.2.0.cnf UNSOLVED 
+syrup24 T49.2.0.cnf UNSOLVED 
+syrup24 T50.2.0.cnf UNSOLVED 
+syrup24,T55.2.0.cnf,UNSATISFIABLE,71.19
+syrup24,T58.2.0.cnf,UNSATISFIABLE,111.75
+syrup24,T65.2.0.cnf,UNSATISFIABLE,210.22
+syrup24,T65.2.1.cnf,UNSATISFIABLE,648.70
+syrup24,T75.2.0.cnf,UNSATISFIABLE,122.07
+syrup24,T81.2.1.cnf,UNSATISFIABLE,1088.57
+syrup24,T83.2.1.cnf,UNSATISFIABLE,1014.81
+syrup24,T85.2.1.cnf,UNSATISFIABLE,767.55
+syrup24,T88.2.1.cnf,UNSATISFIABLE,645.93
+syrup24,T89.2.1.cnf,UNSATISFIABLE,738.91
+syrup24,T93.2.1.cnf,UNSATISFIABLE,891.15
+syrup24 T96.1.1.cnf UNSOLVED 
+syrup24 T97.2.1.cnf UNSOLVED 
+syrup24,T99.2.0.cnf,UNSATISFIABLE,35.47
+syrup24 T99.2.1.cnf UNSOLVED 
+syrup24,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,79.98
+syrup24,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,15.08
+syrup24,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,4.83
+syrup24,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,4.73
+syrup24,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,6.41
+syrup24,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,2.30
+syrup24,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,2.35
+syrup24,UCG-15-10p1.cnf,SATISFIABLE,34.42
+syrup24,UCG-20-10p1.cnf,SATISFIABLE,80.91
+syrup24,UCG-20-5p1.cnf,SATISFIABLE,23.17
+syrup24,UR-20-10p1.cnf,SATISFIABLE,338.97
+syrup24,UR-20-5p1.cnf,SATISFIABLE,72.23
+syrup24,UTI-20-10p1.cnf,SATISFIABLE,124.15
+syrup24,UTI-20-5p1.cnf,SATISFIABLE,70.75
+syrup48,21.0.cnf,SATISFIABLE,25.52
+syrup48,21.1.cnf,SATISFIABLE,32.58
+syrup48,21.2.cnf,SATISFIABLE,30.42
+syrup48,21.3.cnf,SATISFIABLE,28.75
+syrup48,21.4.cnf,SATISFIABLE,34.04
+syrup48,21.5.cnf,SATISFIABLE,27.01
+syrup48,21.6.cnf,SATISFIABLE,29.36
+syrup48,21.7.cnf,SATISFIABLE,27.72
+syrup48,21.8.cnf,SATISFIABLE,32.00
+syrup48,21.9.cnf,SATISFIABLE,36.31
+syrup48,22.0.cnf,SATISFIABLE,1297.57
+syrup48,22.1.cnf,SATISFIABLE,506.30
+syrup48,22.2.cnf,SATISFIABLE,81.55
+syrup48,22.3.cnf,SATISFIABLE,1347.80
+syrup48,22.4.cnf,SATISFIABLE,44.20
+syrup48,22.5.cnf,SATISFIABLE,1628.60
+syrup48,22.6.cnf,SATISFIABLE,3129.85
+syrup48,22.7.cnf,SATISFIABLE,40.91
+syrup48,22.8.cnf,SATISFIABLE,346.65
+syrup48,22.9.cnf,SATISFIABLE,272.38
+syrup48 23.0.cnf UNSOLVED 
+syrup48 23.1.cnf UNSOLVED 
+syrup48 23.2.cnf UNSOLVED 
+syrup48 23.3.cnf UNSOLVED 
+syrup48 23.4.cnf UNSOLVED 
+syrup48 23.5.cnf UNSOLVED 
+syrup48 23.6.cnf UNSOLVED 
+syrup48 23.7.cnf UNSOLVED 
+syrup48 23.8.cnf UNSOLVED 
+syrup48 24.0.cnf UNSOLVED 
+syrup48 24.1.cnf UNSOLVED 
+syrup48 24.2.cnf UNSOLVED 
+syrup48 24.3.cnf UNSOLVED 
+syrup48 24.4.cnf UNSOLVED 
+syrup48 24.5.cnf UNSOLVED 
+syrup48 24.6.cnf UNSOLVED 
+syrup48 24.7.cnf UNSOLVED 
+syrup48 24.8.cnf UNSOLVED 
+syrup48 24.9.cnf UNSOLVED 
+syrup48,9_11.cnf,SATISFIABLE,1.66
+syrup48,9_12.cnf,SATISFIABLE,137.61
+syrup48,9_14.cnf,SATISFIABLE,69.81
+syrup48,9_19.cnf,SATISFIABLE,103.93
+syrup48,9_1.cnf,SATISFIABLE,58.12
+syrup48 9_21.cnf UNSOLVED 
+syrup48,9_22.cnf,SATISFIABLE,55.01
+syrup48,9_24.cnf,SATISFIABLE,23.67
+syrup48,9_25.cnf,SATISFIABLE,2285.73
+syrup48,9_27.cnf,SATISFIABLE,12.96
+syrup48,9_29.cnf,SATISFIABLE,37.08
+syrup48,9_31.cnf,SATISFIABLE,293.18
+syrup48,9_34.cnf,SATISFIABLE,203.76
+syrup48,9_38.cnf,SATISFIABLE,12.12
+syrup48,9_3.cnf,SATISFIABLE,13.52
+syrup48,9_44.cnf,SATISFIABLE,169.45
+syrup48,9_49.cnf,SATISFIABLE,18.77
+syrup48,9_4.cnf,SATISFIABLE,2514.89
+syrup48,9_50.cnf,SATISFIABLE,28.89
+syrup48,9_9.cnf,SATISFIABLE,50.11
+syrup48,ACG-15-10p1.cnf,SATISFIABLE,57.50
+syrup48,ACG-20-10p1.cnf,SATISFIABLE,174.61
+syrup48,ACG-20-5p1.cnf,SATISFIABLE,37.98
+syrup48,ak128astepbg1btisc.cnf,SATISFIABLE,10.95
+syrup48,ak128astepbg2asisc.cnf,SATISFIABLE,2096.77
+syrup48 ak128astepbg2msaig.cnf UNSOLVED 
+syrup48,ak128astepbg2msisc.cnf,SATISFIABLE,1279.21
+syrup48 ak128astepmodasaig.cnf UNSOLVED 
+syrup48 ak128astepmodbtisc.cnf UNSOLVED 
+syrup48,ak128boothbg1btisc.cnf,SATISFIABLE,13.45
+syrup48,ak128boothbg2asisc.cnf,SATISFIABLE,375.79
+syrup48,ak128boothbg2msaig.cnf,SATISFIABLE,4848.43
+syrup48,ak128boothbg2msisc.cnf,SATISFIABLE,2903.88
+syrup48 ak128boothboothisc.cnf UNSOLVED 
+syrup48 ak128boothdiagoaig.cnf UNSOLVED 
+syrup48 ak128boothmodasaig.cnf UNSOLVED 
+syrup48,ak128diagobg1btaig.cnf,SATISFIABLE,16.09
+syrup48 ak128diagobg2asaig.cnf UNSOLVED 
+syrup48 ak128diagodiagoisc.cnf UNSOLVED 
+syrup48,ak128modasbg1msisc.cnf,SATISFIABLE,8.73
+syrup48,ak128modasbg1sbisc.cnf,SATISFIABLE,9.62
+syrup48 ak128modasmodasisc.cnf UNSOLVED 
+syrup48,ak128modbtbg1asaig.cnf,SATISFIABLE,12.56
+syrup48,ak128modbtbg1asisc.cnf,SATISFIABLE,7.72
+syrup48,ak128modbtbg1btaig.cnf,SATISFIABLE,18.06
+syrup48,ak128modbtbg2msisc.cnf,SATISFIABLE,4992.80
+syrup48 ak128modbtsimpbaig.cnf UNSOLVED 
+syrup48,ak128paralbg1sbisc.cnf,SATISFIABLE,9.10
+syrup48 ak128paralbg2asaig.cnf UNSOLVED 
+syrup48,ak128paralparalisc.cnf,UNSATISFIABLE,1378.89
+syrup48 ak128paralsimpbaig.cnf UNSOLVED 
+syrup48,ak128simpbbg1sbisc.cnf,SATISFIABLE,10.82
+syrup48 ak128simpbbg2asaig.cnf UNSOLVED 
+syrup48,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,32.04
+syrup48,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,46.59
+syrup48,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,20.86
+syrup48,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,31.98
+syrup48,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,39.41
+syrup48,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,32.10
+syrup48,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,33.03
+syrup48,blockpuzzle_7x10_s7_free8.cnf,SATISFIABLE,53.72
+syrup48,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,16.45
+syrup48,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,28.67
+syrup48,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,6.21
+syrup48,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,21.23
+syrup48,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,37.07
+syrup48,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,60.52
+syrup48,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,35.48
+syrup48,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,26.61
+syrup48,blockpuzzle_9x9_s7_free8.cnf,SATISFIABLE,30.38
+syrup48,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,9.56
+syrup48,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,29.82
+syrup48,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,18.75
+syrup48,bsat180-648.cnf,UNSATISFIABLE,24.13
+syrup48,bsat192-689.cnf,UNSATISFIABLE,41.84
+syrup48,bsat201-707.cnf,UNSATISFIABLE,129.50
+syrup48,bsat210-739.cnf,UNSATISFIABLE,316.24
+syrup48,gss-22-s100.cnf,SATISFIABLE,372.16
+syrup48 gss-24-s100.cnf UNSOLVED 
+syrup48 gss-26-s100.cnf UNSOLVED 
+syrup48 gss-28-s100.cnf UNSOLVED 
+syrup48 gss-30-s100.cnf UNSOLVED 
+syrup48 gss-32-s100.cnf UNSOLVED 
+syrup48 gss-34-s100.cnf UNSOLVED 
+syrup48 gss-36-s100.cnf UNSOLVED 
+syrup48 gss-38-s100.cnf UNSOLVED 
+syrup48 gss-40-s100.cnf UNSOLVED 
+syrup48,hwmcc15deep-6s105-k35.cnf,UNSATISFIABLE,237.06
+syrup48,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,328.60
+syrup48,hwmcc15deep-6s161-k18.cnf,UNSATISFIABLE,590.79
+syrup48,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,94.36
+syrup48,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,661.93
+syrup48,hwmcc15deep-6s188-k46.cnf,UNSATISFIABLE,905.87
+syrup48,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,56.46
+syrup48,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,92.46
+syrup48,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,8.25
+syrup48,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,164.75
+syrup48,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,36.05
+syrup48,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,74.77
+syrup48,hwmcc15deep-6s366r-k72.cnf,UNSATISFIABLE,165.76
+syrup48 hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+syrup48 hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+syrup48,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,166.14
+syrup48,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,234.36
+syrup48,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,494.46
+syrup48,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,1368.31
+syrup48,hwmcc15deep-beembkry8b1-k45.cnf,UNSATISFIABLE,345.70
+syrup48,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,201.62
+syrup48,hwmcc15deep-beemfwt4b1-k48.cnf,UNSATISFIABLE,3713.84
+syrup48,hwmcc15deep-beemhanoi4b1-k32.cnf,UNSATISFIABLE,1427.26
+syrup48 hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+syrup48,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,633.65
+syrup48,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,183.13
+syrup48,hwmcc15deep-bob12s02-k16.cnf,UNSATISFIABLE,2133.55
+syrup48,hwmcc15deep-bob12s02-k17.cnf,UNSATISFIABLE,2081.95
+syrup48,hwmcc15deep-bobpcihm-k30.cnf,UNSATISFIABLE,964.93
+syrup48,hwmcc15deep-bobpcihm-k31.cnf,UNSATISFIABLE,1094.33
+syrup48,hwmcc15deep-bobpcihm-k32.cnf,UNSATISFIABLE,1338.93
+syrup48,hwmcc15deep-bobpcihm-k33.cnf,UNSATISFIABLE,1503.22
+syrup48,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,214.90
+syrup48,hwmcc15deep-intel065-k11.cnf,UNSATISFIABLE,156.21
+syrup48,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,109.54
+syrup48,hwmcc15deep-oski15a10b06s-k24.cnf,UNSATISFIABLE,1039.64
+syrup48,hwmcc15deep-oski15a10b08s-k23.cnf,UNSATISFIABLE,669.59
+syrup48,hwmcc15deep-oski15a10b10s-k20.cnf,UNSATISFIABLE,387.79
+syrup48,hwmcc15deep-oski15a10b10s-k22.cnf,UNSATISFIABLE,728.34
+syrup48,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,103.07
+syrup48,hwmcc15deep-oski15a14b30s-k24.cnf,UNSATISFIABLE,569.10
+syrup48,klieber2017s-0300-032-t12.cnf,SATISFIABLE,299.36
+syrup48,klieber2017s-0300-033-t12.cnf,SATISFIABLE,34.93
+syrup48,klieber2017s-0300-034-t12.cnf,SATISFIABLE,78.88
+syrup48,klieber2017s-0300-035-t12.cnf,SATISFIABLE,67.12
+syrup48,klieber2017s-0490-022-t12.cnf,SATISFIABLE,39.28
+syrup48,klieber2017s-0490-023-t12.cnf,SATISFIABLE,5.23
+syrup48,klieber2017s-0490-024-t12.cnf,SATISFIABLE,38.54
+syrup48,klieber2017s-0500-022-t12.cnf,SATISFIABLE,34.95
+syrup48,klieber2017s-0500-023-t12.cnf,SATISFIABLE,49.54
+syrup48,klieber2017s-0500-024-t12.cnf,SATISFIABLE,29.99
+syrup48,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,266.68
+syrup48,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,407.77
+syrup48,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,277.26
+syrup48,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,577.51
+syrup48,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,736.50
+syrup48,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,258.14
+syrup48,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,840.88
+syrup48,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,931.43
+syrup48,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,353.02
+syrup48,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,1129.19
+syrup48,mizh-md5-47-3.cnf,SATISFIABLE,80.26
+syrup48,mizh-md5-47-5.cnf,SATISFIABLE,70.96
+syrup48,mizh-md5-48-2.cnf,SATISFIABLE,20.26
+syrup48,mizh-md5-48-5.cnf,SATISFIABLE,79.65
+syrup48,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,135.64
+syrup48,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,148.46
+syrup48,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,137.72
+syrup48,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,257.06
+syrup48,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,86.45
+syrup48,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,14.83
+syrup48,Nb5T06.cnf,UNSATISFIABLE,10.25
+syrup48,Nb5T07.cnf,UNSATISFIABLE,262.68
+syrup48,Nb5T14.cnf,SATISFIABLE,17.49
+syrup48 Nb5T15.cnf UNSOLVED 
+syrup48 Nb5T16.cnf UNSOLVED 
+syrup48,Nb6T06.cnf,UNSATISFIABLE,13.16
+syrup48,Nb6T07.cnf,UNSATISFIABLE,288.17
+syrup48 Nb6T25.cnf UNSOLVED 
+syrup48 Nb6T27.cnf UNSOLVED 
+syrup48 Nb6T28.cnf UNSOLVED 
+syrup48,Nb6T29.cnf,SATISFIABLE,31.24
+syrup48 Nb6T30.cnf UNSOLVED 
+syrup48,Nb7T07.cnf,UNSATISFIABLE,441.63
+syrup48 Nb7T08.cnf UNSOLVED 
+syrup48 Nb7T42.cnf UNSOLVED 
+syrup48 Nb7T43.cnf UNSOLVED 
+syrup48 Nb7T44.cnf UNSOLVED 
+syrup48 Nb7T45.cnf UNSOLVED 
+syrup48 Nb7T46.cnf UNSOLVED 
+syrup48,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,12.10
+syrup48 ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+syrup48,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,20.00
+syrup48,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,39.07
+syrup48,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,31.45
+syrup48,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,20.31
+syrup48,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,26.20
+syrup48,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,3999.87
+syrup48,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,218.71
+syrup48,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,4266.33
+syrup48,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,3194.31
+syrup48 ps_5000_21250_3_0_0.8_0_1.55_8.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.60_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+syrup48 ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+syrup48,qpr-bmp280-driver-14.cnf,SATISFIABLE,1.07
+syrup48,qpr-bmp280-driver-5.cnf,SATISFIABLE,1.30
+syrup48,rubikcube012.cnf,UNSATISFIABLE,579.99
+syrup48 rubikcube031.cnf UNSOLVED 
+syrup48,rubikcube101.cnf,UNSATISFIABLE,58.20
+syrup48 rubikcube120.cnf UNSOLVED 
+syrup48,rubikcube212.cnf,UNSATISFIABLE,612.44
+syrup48 rubikcube220.cnf UNSOLVED 
+syrup48,rubikcube301.cnf,UNSATISFIABLE,67.90
+syrup48,rubikcube312.cnf,UNSATISFIABLE,731.61
+syrup48,rubikcube401.cnf,UNSATISFIABLE,64.35
+syrup48 rubikcube420.cnf UNSOLVED 
+syrup48,rubikcube512.cnf,UNSATISFIABLE,723.11
+syrup48 rubikcube520.cnf UNSOLVED 
+syrup48,rubikcube601.cnf,UNSATISFIABLE,44.07
+syrup48,rubikcube612.cnf,SATISFIABLE,231.87
+syrup48,rubikcube701.cnf,UNSATISFIABLE,70.27
+syrup48 rubikcube720.cnf UNSOLVED 
+syrup48,rubikcube812.cnf,UNSATISFIABLE,710.28
+syrup48 rubikcube820.cnf UNSOLVED 
+syrup48,rubikcube901.cnf,UNSATISFIABLE,46.34
+syrup48,rubikcube912.cnf,UNSATISFIABLE,639.08
+syrup48,slp-synthesis-aes-top24.cnf,SATISFIABLE,3182.94
+syrup48 slp-synthesis-aes-top25.cnf UNSOLVED 
+syrup48,slp-synthesis-aes-top26.cnf,SATISFIABLE,4750.02
+syrup48,slp-synthesis-aes-top28.cnf,SATISFIABLE,390.31
+syrup48,slp-synthesis-aes-top29.cnf,SATISFIABLE,428.13
+syrup48,slp-synthesis-aes-top30.cnf,SATISFIABLE,750.10
+syrup48,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,6.22
+syrup48,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,9.21
+syrup48,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,2.58
+syrup48,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,7.14
+syrup48,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,2.19
+syrup48,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,57.74
+syrup48,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,49.28
+syrup48,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,82.24
+syrup48,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,30.00
+syrup48,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,33.73
+syrup48,Sz512_15128_1.smt2-cvc4.cnf,SATISFIABLE,118.40
+syrup48 T100.2.0.cnf UNSOLVED 
+syrup48 T101.2.0.cnf UNSOLVED 
+syrup48 T102.2.1.cnf UNSOLVED 
+syrup48,T103.2.1.cnf,UNSATISFIABLE,2199.34
+syrup48 T104.1.0.cnf UNSOLVED 
+syrup48 T105.2.1.cnf UNSOLVED 
+syrup48 T106.2.0.cnf UNSOLVED 
+syrup48 T108.2.1.cnf UNSOLVED 
+syrup48 T109.2.0.cnf UNSOLVED 
+syrup48 T110.2.1.cnf UNSOLVED 
+syrup48,T112.1.0.cnf,UNSATISFIABLE,605.17
+syrup48,T118.2.1.cnf,UNSATISFIABLE,1458.95
+syrup48 T1.2.1.cnf UNSOLVED 
+syrup48,T122.1.0.cnf,UNSATISFIABLE,448.72
+syrup48,T124.2.0.cnf,UNSATISFIABLE,807.14
+syrup48,T124.2.1.cnf,UNSATISFIABLE,1749.55
+syrup48 T133.2.1.cnf UNSOLVED 
+syrup48,T135.1.1.cnf,UNSATISFIABLE,336.12
+syrup48 T141.1.0.cnf UNSOLVED 
+syrup48,T154.1.0.cnf,UNSATISFIABLE,142.51
+syrup48,T155.1.0.cnf,UNSATISFIABLE,50.01
+syrup48 T169.1.0.cnf UNSOLVED 
+syrup48 T169.2.0.cnf UNSOLVED 
+syrup48 T49.2.0.cnf UNSOLVED 
+syrup48 T50.2.0.cnf UNSOLVED 
+syrup48,T55.2.0.cnf,UNSATISFIABLE,87.08
+syrup48,T58.2.0.cnf,UNSATISFIABLE,190.56
+syrup48,T65.2.0.cnf,UNSATISFIABLE,252.58
+syrup48 T65.2.1.cnf UNSOLVED 
+syrup48,T75.2.0.cnf,UNSATISFIABLE,196.44
+syrup48 T81.2.1.cnf UNSOLVED 
+syrup48 T83.2.1.cnf UNSOLVED 
+syrup48 T85.2.1.cnf UNSOLVED 
+syrup48 T88.2.1.cnf UNSOLVED 
+syrup48 T89.2.1.cnf UNSOLVED 
+syrup48 T93.2.1.cnf UNSOLVED 
+syrup48 T96.1.1.cnf UNSOLVED 
+syrup48 T97.2.1.cnf UNSOLVED 
+syrup48 T99.2.0.cnf UNSOLVED 
+syrup48 T99.2.1.cnf UNSOLVED 
+syrup48,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,98.02
+syrup48,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,24.72
+syrup48,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,9.80
+syrup48,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,8.84
+syrup48,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,11.81
+syrup48,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.09
+syrup48,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,4.99
+syrup48,UCG-15-10p1.cnf,SATISFIABLE,44.82
+syrup48,UCG-20-10p1.cnf,SATISFIABLE,114.06
+syrup48,UCG-20-5p1.cnf,SATISFIABLE,27.75
+syrup48,UR-20-10p1.cnf,SATISFIABLE,139.49
+syrup48,UR-20-5p1.cnf,SATISFIABLE,79.67
+syrup48,UTI-20-10p1.cnf,SATISFIABLE,75.36
+syrup48,UTI-20-5p1.cnf,SATISFIABLE,73.05
+treengeling,21.0.cnf,SATISFIABLE,1243.59
+treengeling,21.1.cnf,SATISFIABLE,1331.04
+treengeling,21.2.cnf,SATISFIABLE,1563.59
+treengeling,21.3.cnf,SATISFIABLE,969.16
+treengeling,21.4.cnf,SATISFIABLE,464.21
+treengeling,21.5.cnf,SATISFIABLE,514.93
+treengeling,21.6.cnf,SATISFIABLE,1565.22
+treengeling,21.7.cnf,SATISFIABLE,1787.68
+treengeling,21.8.cnf,SATISFIABLE,887.32
+treengeling,21.9.cnf,SATISFIABLE,1433.41
+treengeling 22.0.cnf UNSOLVED 
+treengeling 22.1.cnf UNSOLVED 
+treengeling 22.2.cnf UNSOLVED 
+treengeling 22.3.cnf UNSOLVED 
+treengeling 22.4.cnf UNSOLVED 
+treengeling 22.5.cnf UNSOLVED 
+treengeling 22.6.cnf UNSOLVED 
+treengeling 22.7.cnf UNSOLVED 
+treengeling 22.8.cnf UNSOLVED 
+treengeling 22.9.cnf UNSOLVED 
+treengeling 23.0.cnf UNSOLVED 
+treengeling 23.1.cnf UNSOLVED 
+treengeling 23.2.cnf UNSOLVED 
+treengeling 23.3.cnf UNSOLVED 
+treengeling 23.4.cnf UNSOLVED 
+treengeling 23.5.cnf UNSOLVED 
+treengeling 23.6.cnf UNSOLVED 
+treengeling 23.7.cnf UNSOLVED 
+treengeling 23.8.cnf UNSOLVED 
+treengeling 24.0.cnf UNSOLVED 
+treengeling 24.1.cnf UNSOLVED 
+treengeling 24.2.cnf UNSOLVED 
+treengeling 24.3.cnf UNSOLVED 
+treengeling 24.4.cnf UNSOLVED 
+treengeling 24.5.cnf UNSOLVED 
+treengeling 24.6.cnf UNSOLVED 
+treengeling 24.7.cnf UNSOLVED 
+treengeling 24.8.cnf UNSOLVED 
+treengeling 24.9.cnf UNSOLVED 
+treengeling,9_11.cnf,SATISFIABLE,4.34
+treengeling,9_12.cnf,SATISFIABLE,878.11
+treengeling,9_14.cnf,SATISFIABLE,412.03
+treengeling,9_19.cnf,SATISFIABLE,183.78
+treengeling,9_1.cnf,SATISFIABLE,68.55
+treengeling 9_21.cnf UNSOLVED 
+treengeling 9_22.cnf UNSOLVED 
+treengeling 9_24.cnf UNSOLVED 
+treengeling 9_25.cnf UNSOLVED 
+treengeling,9_27.cnf,SATISFIABLE,16.69
+treengeling,9_29.cnf,SATISFIABLE,113.37
+treengeling,9_31.cnf,SATISFIABLE,60.71
+treengeling,9_34.cnf,SATISFIABLE,73.69
+treengeling,9_38.cnf,SATISFIABLE,62.77
+treengeling,9_3.cnf,SATISFIABLE,3.22
+treengeling,9_44.cnf,SATISFIABLE,4296.49
+treengeling,9_49.cnf,SATISFIABLE,47.54
+treengeling,9_4.cnf,SATISFIABLE,3704.13
+treengeling,9_50.cnf,SATISFIABLE,619.34
+treengeling,9_9.cnf,SATISFIABLE,44.01
+treengeling,ACG-15-10p1.cnf,SATISFIABLE,443.79
+treengeling,ACG-20-10p1.cnf,SATISFIABLE,1053.95
+treengeling,ACG-20-5p1.cnf,SATISFIABLE,399.79
+treengeling,ak128astepbg1btisc.cnf,SATISFIABLE,6.02
+treengeling,ak128astepbg2asisc.cnf,SATISFIABLE,49.11
+treengeling,ak128astepbg2msaig.cnf,SATISFIABLE,47.31
+treengeling,ak128astepbg2msisc.cnf,SATISFIABLE,56.97
+treengeling ak128astepmodasaig.cnf UNSOLVED 
+treengeling ak128astepmodbtisc.cnf UNSOLVED 
+treengeling,ak128boothbg1btisc.cnf,SATISFIABLE,6.72
+treengeling,ak128boothbg2asisc.cnf,SATISFIABLE,59.79
+treengeling,ak128boothbg2msaig.cnf,SATISFIABLE,7.15
+treengeling,ak128boothbg2msisc.cnf,SATISFIABLE,91.37
+treengeling ak128boothboothisc.cnf UNSOLVED 
+treengeling ak128boothdiagoaig.cnf UNSOLVED 
+treengeling ak128boothmodasaig.cnf UNSOLVED 
+treengeling,ak128diagobg1btaig.cnf,SATISFIABLE,8.09
+treengeling,ak128diagobg2asaig.cnf,SATISFIABLE,70.16
+treengeling ak128diagodiagoisc.cnf UNSOLVED 
+treengeling,ak128modasbg1msisc.cnf,SATISFIABLE,4.41
+treengeling,ak128modasbg1sbisc.cnf,SATISFIABLE,4.90
+treengeling ak128modasmodasisc.cnf UNSOLVED 
+treengeling,ak128modbtbg1asaig.cnf,SATISFIABLE,7.81
+treengeling,ak128modbtbg1asisc.cnf,SATISFIABLE,5.29
+treengeling,ak128modbtbg1btaig.cnf,SATISFIABLE,8.59
+treengeling ak128modbtbg2msisc.cnf UNSOLVED 
+treengeling ak128modbtsimpbaig.cnf UNSOLVED 
+treengeling ak128paralbg1sbisc.cnf UNSOLVED 
+treengeling,ak128paralbg2asaig.cnf,SATISFIABLE,53.91
+treengeling ak128paralparalisc.cnf UNSOLVED 
+treengeling ak128paralsimpbaig.cnf UNSOLVED 
+treengeling,ak128simpbbg1sbisc.cnf,SATISFIABLE,5.62
+treengeling,ak128simpbbg2asaig.cnf,SATISFIABLE,51.51
+treengeling,blockpuzzle_5x10_s2_free5.cnf,UNSATISFIABLE,288.37
+treengeling,blockpuzzle_5x10_s3_free4.cnf,UNSATISFIABLE,256.27
+treengeling,blockpuzzle_5x10_s5_free3.cnf,UNSATISFIABLE,51.32
+treengeling,blockpuzzle_5x10_s7_free4.cnf,UNSATISFIABLE,123.81
+treengeling,blockpuzzle_5x10_s8_free3.cnf,UNSATISFIABLE,88.32
+treengeling,blockpuzzle_5x12_s6_free3.cnf,UNSATISFIABLE,197.75
+treengeling,blockpuzzle_7x10_s10_free4.cnf,UNSATISFIABLE,286.45
+treengeling blockpuzzle_7x10_s7_free8.cnf UNSOLVED 
+treengeling,blockpuzzle_7x10_s9_free6.cnf,UNSATISFIABLE,621.30
+treengeling,blockpuzzle_8x8_s1_free4.cnf,UNSATISFIABLE,204.22
+treengeling,blockpuzzle_9x9_s1_free10.cnf,SATISFIABLE,3.26
+treengeling,blockpuzzle_9x9_s1_free7.cnf,SATISFIABLE,5.66
+treengeling,blockpuzzle_9x9_s1_free8.cnf,SATISFIABLE,2.39
+treengeling,blockpuzzle_9x9_s1_free9.cnf,SATISFIABLE,3.38
+treengeling,blockpuzzle_9x9_s4_free3.cnf,UNSATISFIABLE,569.61
+treengeling,blockpuzzle_9x9_s5_free3.cnf,UNSATISFIABLE,415.51
+treengeling blockpuzzle_9x9_s7_free8.cnf UNSOLVED 
+treengeling,blockpuzzle_9x9_s7_free9.cnf,SATISFIABLE,2.17
+treengeling,blockpuzzle_9x9_s8_free3.cnf,UNSATISFIABLE,615.64
+treengeling,blockpuzzle_9x9_s8_free7.cnf,SATISFIABLE,2.50
+treengeling,bsat180-648.cnf,UNSATISFIABLE,1.30
+treengeling,bsat192-689.cnf,UNSATISFIABLE,1.82
+treengeling,bsat201-707.cnf,UNSATISFIABLE,3.24
+treengeling,bsat210-739.cnf,UNSATISFIABLE,4.59
+treengeling,gss-22-s100.cnf,SATISFIABLE,89.34
+treengeling,gss-24-s100.cnf,SATISFIABLE,17.40
+treengeling,gss-26-s100.cnf,SATISFIABLE,23.87
+treengeling gss-28-s100.cnf UNSOLVED 
+treengeling gss-30-s100.cnf UNSOLVED 
+treengeling gss-32-s100.cnf UNSOLVED 
+treengeling gss-34-s100.cnf UNSOLVED 
+treengeling gss-36-s100.cnf UNSOLVED 
+treengeling gss-38-s100.cnf UNSOLVED 
+treengeling gss-40-s100.cnf UNSOLVED 
+treengeling hwmcc15deep-6s105-k35.cnf UNSOLVED 
+treengeling,hwmcc15deep-6s161-k17.cnf,UNSATISFIABLE,1382.57
+treengeling,hwmcc15deep-6s161-k18.cnf,UNSATISFIABLE,2387.51
+treengeling,hwmcc15deep-6s179-k17.cnf,UNSATISFIABLE,422.37
+treengeling,hwmcc15deep-6s188-k44.cnf,UNSATISFIABLE,3753.05
+treengeling hwmcc15deep-6s188-k46.cnf UNSOLVED 
+treengeling,hwmcc15deep-6s33-k33.cnf,UNSATISFIABLE,118.39
+treengeling,hwmcc15deep-6s33-k34.cnf,UNSATISFIABLE,199.49
+treengeling,hwmcc15deep-6s340rb63-k16.cnf,UNSATISFIABLE,73.60
+treengeling,hwmcc15deep-6s340rb63-k22.cnf,UNSATISFIABLE,4611.06
+treengeling,hwmcc15deep-6s341r-k16.cnf,UNSATISFIABLE,280.83
+treengeling,hwmcc15deep-6s341r-k19.cnf,UNSATISFIABLE,610.37
+treengeling hwmcc15deep-6s366r-k72.cnf UNSOLVED 
+treengeling hwmcc15deep-6s399b02-k02.cnf UNSOLVED 
+treengeling hwmcc15deep-6s399b03-k02.cnf UNSOLVED 
+treengeling,hwmcc15deep-6s44-k38.cnf,UNSATISFIABLE,1893.09
+treengeling,hwmcc15deep-6s44-k40.cnf,UNSATISFIABLE,3851.01
+treengeling,hwmcc15deep-6s516r-k17.cnf,UNSATISFIABLE,269.33
+treengeling,hwmcc15deep-6s516r-k18.cnf,UNSATISFIABLE,469.18
+treengeling hwmcc15deep-beembkry8b1-k45.cnf UNSOLVED 
+treengeling,hwmcc15deep-beemcmbrdg7f2-k32.cnf,UNSATISFIABLE,4053.24
+treengeling hwmcc15deep-beemfwt4b1-k48.cnf UNSOLVED 
+treengeling hwmcc15deep-beemhanoi4b1-k32.cnf UNSOLVED 
+treengeling hwmcc15deep-beemhanoi4b1-k37.cnf UNSOLVED 
+treengeling,hwmcc15deep-beemlifts3b1-k29.cnf,UNSATISFIABLE,1158.16
+treengeling,hwmcc15deep-beemloyd3b1-k31.cnf,UNSATISFIABLE,384.80
+treengeling hwmcc15deep-bob12s02-k16.cnf UNSOLVED 
+treengeling hwmcc15deep-bob12s02-k17.cnf UNSOLVED 
+treengeling hwmcc15deep-bobpcihm-k30.cnf UNSOLVED 
+treengeling hwmcc15deep-bobpcihm-k31.cnf UNSOLVED 
+treengeling hwmcc15deep-bobpcihm-k32.cnf UNSOLVED 
+treengeling hwmcc15deep-bobpcihm-k33.cnf UNSOLVED 
+treengeling,hwmcc15deep-intel032-k84.cnf,UNSATISFIABLE,4860.36
+treengeling hwmcc15deep-intel065-k11.cnf UNSOLVED 
+treengeling,hwmcc15deep-intel066-k10.cnf,UNSATISFIABLE,4821.30
+treengeling hwmcc15deep-oski15a10b06s-k24.cnf UNSOLVED 
+treengeling hwmcc15deep-oski15a10b08s-k23.cnf UNSOLVED 
+treengeling hwmcc15deep-oski15a10b10s-k20.cnf UNSOLVED 
+treengeling hwmcc15deep-oski15a10b10s-k22.cnf UNSOLVED 
+treengeling,hwmcc15deep-oski15a14b04s-k16.cnf,UNSATISFIABLE,663.21
+treengeling hwmcc15deep-oski15a14b30s-k24.cnf UNSOLVED 
+treengeling,klieber2017s-0300-032-t12.cnf,SATISFIABLE,124.48
+treengeling,klieber2017s-0300-033-t12.cnf,SATISFIABLE,144.85
+treengeling,klieber2017s-0300-034-t12.cnf,SATISFIABLE,222.06
+treengeling,klieber2017s-0300-035-t12.cnf,SATISFIABLE,160.09
+treengeling,klieber2017s-0490-022-t12.cnf,SATISFIABLE,18.34
+treengeling,klieber2017s-0490-023-t12.cnf,SATISFIABLE,26.68
+treengeling,klieber2017s-0490-024-t12.cnf,SATISFIABLE,26.55
+treengeling,klieber2017s-0500-022-t12.cnf,SATISFIABLE,24.72
+treengeling,klieber2017s-0500-023-t12.cnf,SATISFIABLE,25.35
+treengeling,klieber2017s-0500-024-t12.cnf,SATISFIABLE,15.30
+treengeling,klieber2017s-1000-023-eq.cnf,UNSATISFIABLE,71.21
+treengeling,klieber2017s-1000-024-eq.cnf,UNSATISFIABLE,106.96
+treengeling,klieber2017s-1200-022-eq.cnf,UNSATISFIABLE,38.21
+treengeling,klieber2017s-1200-023-eq.cnf,UNSATISFIABLE,75.29
+treengeling,klieber2017s-1200-024-eq.cnf,UNSATISFIABLE,121.41
+treengeling,klieber2017s-1600-022-eq.cnf,UNSATISFIABLE,46.38
+treengeling,klieber2017s-1600-023-eq.cnf,UNSATISFIABLE,91.07
+treengeling,klieber2017s-1600-024-eq.cnf,UNSATISFIABLE,157.00
+treengeling,klieber2017s-2000-022-eq.cnf,UNSATISFIABLE,62.39
+treengeling,klieber2017s-2000-023-eq.cnf,UNSATISFIABLE,103.00
+treengeling,mizh-md5-47-3.cnf,SATISFIABLE,508.37
+treengeling,mizh-md5-47-5.cnf,SATISFIABLE,1020.69
+treengeling,mizh-md5-48-2.cnf,SATISFIABLE,4836.36
+treengeling,mizh-md5-48-5.cnf,SATISFIABLE,1787.06
+treengeling,modgen-n200-m90860q08c40-13698.cnf,SATISFIABLE,64.87
+treengeling,modgen-n200-m90860q08c40-16823.cnf,SATISFIABLE,89.97
+treengeling,modgen-n200-m90860q08c40-29667.cnf,SATISFIABLE,64.83
+treengeling,modgen-n200-m90860q08c40-3230.cnf,SATISFIABLE,120.98
+treengeling,modgen-n200-m90860q08c40-6967.cnf,SATISFIABLE,142.47
+treengeling,mult1.c.50.smt2-cvc4.cnf,SATISFIABLE,107.09
+treengeling,Nb5T06.cnf,UNSATISFIABLE,22.50
+treengeling,Nb5T07.cnf,UNSATISFIABLE,577.38
+treengeling,Nb5T14.cnf,SATISFIABLE,294.03
+treengeling,Nb5T15.cnf,SATISFIABLE,380.60
+treengeling,Nb5T16.cnf,SATISFIABLE,436.45
+treengeling,Nb6T06.cnf,UNSATISFIABLE,41.21
+treengeling,Nb6T07.cnf,UNSATISFIABLE,857.42
+treengeling Nb6T25.cnf UNSOLVED 
+treengeling Nb6T27.cnf UNSOLVED 
+treengeling Nb6T28.cnf UNSOLVED 
+treengeling Nb6T29.cnf UNSOLVED 
+treengeling Nb6T30.cnf UNSOLVED 
+treengeling,Nb7T07.cnf,UNSATISFIABLE,1470.34
+treengeling Nb7T08.cnf UNSOLVED 
+treengeling Nb7T42.cnf UNSOLVED 
+treengeling Nb7T43.cnf UNSOLVED 
+treengeling Nb7T44.cnf UNSOLVED 
+treengeling Nb7T45.cnf UNSOLVED 
+treengeling Nb7T46.cnf UNSOLVED 
+treengeling,newton.8.3.i.smt2-cvc4.cnf,SATISFIABLE,547.06
+treengeling ps_5000_21250_3_0_0.6_0_1.45_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.45_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.45_4.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.45_6.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.45_8.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.50_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.50_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.50_4.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.50_6.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.6_0_1.50_8.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.45_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.45_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.45_4.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.45_6.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.45_8.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.50_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.50_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.50_4.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.50_6.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.7_0_1.50_8.cnf UNSOLVED 
+treengeling,ps_5000_21250_3_0_0.8_0_1.50_0.cnf,UNSATISFIABLE,7.89
+treengeling,ps_5000_21250_3_0_0.8_0_1.50_2.cnf,UNSATISFIABLE,13.22
+treengeling,ps_5000_21250_3_0_0.8_0_1.50_4.cnf,UNSATISFIABLE,12.91
+treengeling,ps_5000_21250_3_0_0.8_0_1.50_6.cnf,UNSATISFIABLE,8.34
+treengeling,ps_5000_21250_3_0_0.8_0_1.50_8.cnf,UNSATISFIABLE,14.20
+treengeling,ps_5000_21250_3_0_0.8_0_1.55_0.cnf,UNSATISFIABLE,374.70
+treengeling,ps_5000_21250_3_0_0.8_0_1.55_2.cnf,UNSATISFIABLE,55.61
+treengeling,ps_5000_21250_3_0_0.8_0_1.55_4.cnf,UNSATISFIABLE,304.54
+treengeling,ps_5000_21250_3_0_0.8_0_1.55_6.cnf,UNSATISFIABLE,277.39
+treengeling,ps_5000_21250_3_0_0.8_0_1.55_8.cnf,UNSATISFIABLE,3599.60
+treengeling ps_5000_21250_3_0_0.8_0_1.60_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.60_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.60_4.cnf UNSOLVED 
+treengeling,ps_5000_21250_3_0_0.8_0_1.60_6.cnf,UNSATISFIABLE,1910.82
+treengeling ps_5000_21250_3_0_0.8_0_1.60_8.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.70_0.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.70_2.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.70_4.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.70_6.cnf UNSOLVED 
+treengeling ps_5000_21250_3_0_0.8_0_1.70_8.cnf UNSOLVED 
+treengeling,qpr-bmp280-driver-14.cnf,SATISFIABLE,8.49
+treengeling,qpr-bmp280-driver-5.cnf,SATISFIABLE,11.31
+treengeling,rubikcube012.cnf,UNSATISFIABLE,133.49
+treengeling,rubikcube031.cnf,UNSATISFIABLE,3100.08
+treengeling,rubikcube101.cnf,UNSATISFIABLE,41.72
+treengeling,rubikcube120.cnf,UNSATISFIABLE,873.73
+treengeling,rubikcube212.cnf,UNSATISFIABLE,141.63
+treengeling,rubikcube220.cnf,UNSATISFIABLE,867.78
+treengeling,rubikcube301.cnf,UNSATISFIABLE,40.85
+treengeling,rubikcube312.cnf,UNSATISFIABLE,139.38
+treengeling,rubikcube401.cnf,UNSATISFIABLE,54.07
+treengeling,rubikcube420.cnf,UNSATISFIABLE,644.90
+treengeling,rubikcube512.cnf,UNSATISFIABLE,126.62
+treengeling,rubikcube520.cnf,UNSATISFIABLE,978.93
+treengeling,rubikcube601.cnf,UNSATISFIABLE,29.05
+treengeling,rubikcube612.cnf,SATISFIABLE,50.50
+treengeling,rubikcube701.cnf,UNSATISFIABLE,40.43
+treengeling,rubikcube720.cnf,UNSATISFIABLE,955.85
+treengeling,rubikcube812.cnf,UNSATISFIABLE,142.54
+treengeling,rubikcube820.cnf,UNSATISFIABLE,1075.85
+treengeling,rubikcube901.cnf,UNSATISFIABLE,35.49
+treengeling,rubikcube912.cnf,UNSATISFIABLE,110.67
+treengeling slp-synthesis-aes-top24.cnf UNSOLVED 
+treengeling slp-synthesis-aes-top25.cnf UNSOLVED 
+treengeling,slp-synthesis-aes-top26.cnf,SATISFIABLE,1486.85
+treengeling slp-synthesis-aes-top28.cnf UNSOLVED 
+treengeling slp-synthesis-aes-top29.cnf UNSOLVED 
+treengeling slp-synthesis-aes-top30.cnf UNSOLVED 
+treengeling,squ_ali_s10x10_c39_abio_SAT.cnf,SATISFIABLE,3.64
+treengeling,squ_ali_s10x10_c39_abix_SAT.cnf,SATISFIABLE,1.34
+treengeling,squ_ali_s10x10_c39_bail_SAT.cnf,SATISFIABLE,0.14
+treengeling,squ_ali_s10x10_c39_sinx_SAT.cnf,SATISFIABLE,2.08
+treengeling,squ_ali_s10x10_c39_sinz_SAT.cnf,SATISFIABLE,1.19
+treengeling,squ_any_s09x07_c27_abio_UNS.cnf,UNSATISFIABLE,34.23
+treengeling,squ_any_s09x07_c27_abix_UNS.cnf,UNSATISFIABLE,36.56
+treengeling,squ_any_s09x07_c27_bail_UNS.cnf,UNSATISFIABLE,20.71
+treengeling,squ_any_s09x07_c27_sinx_UNS.cnf,UNSATISFIABLE,14.34
+treengeling,squ_any_s09x07_c27_sinz_UNS.cnf,UNSATISFIABLE,12.44
+treengeling Sz512_15128_1.smt2-cvc4.cnf UNSOLVED 
+treengeling T100.2.0.cnf UNSOLVED 
+treengeling T101.2.0.cnf UNSOLVED 
+treengeling T102.2.1.cnf UNSOLVED 
+treengeling T103.2.1.cnf UNSOLVED 
+treengeling T104.1.0.cnf UNSOLVED 
+treengeling T105.2.1.cnf UNSOLVED 
+treengeling T106.2.0.cnf UNSOLVED 
+treengeling T108.2.1.cnf UNSOLVED 
+treengeling,T109.2.0.cnf,UNSATISFIABLE,4840.42
+treengeling T110.2.1.cnf UNSOLVED 
+treengeling,T112.1.0.cnf,UNSATISFIABLE,4230.52
+treengeling,T118.2.1.cnf,UNSATISFIABLE,2701.44
+treengeling T1.2.1.cnf UNSOLVED 
+treengeling,T122.1.0.cnf,UNSATISFIABLE,4175.90
+treengeling,T124.2.0.cnf,UNSATISFIABLE,1375.79
+treengeling,T124.2.1.cnf,UNSATISFIABLE,4888.53
+treengeling T133.2.1.cnf UNSOLVED 
+treengeling,T135.1.1.cnf,UNSATISFIABLE,4484.70
+treengeling,T141.1.0.cnf,SATISFIABLE,1846.31
+treengeling,T154.1.0.cnf,UNSATISFIABLE,4023.68
+treengeling T155.1.0.cnf UNSOLVED 
+treengeling,T169.1.0.cnf,SATISFIABLE,1975.95
+treengeling T169.2.0.cnf UNSOLVED 
+treengeling T49.2.0.cnf UNSOLVED 
+treengeling T50.2.0.cnf UNSOLVED 
+treengeling,T55.2.0.cnf,UNSATISFIABLE,222.68
+treengeling,T58.2.0.cnf,UNSATISFIABLE,586.15
+treengeling,T65.2.0.cnf,UNSATISFIABLE,375.76
+treengeling,T65.2.1.cnf,UNSATISFIABLE,2258.01
+treengeling,T75.2.0.cnf,UNSATISFIABLE,318.82
+treengeling,T81.2.1.cnf,UNSATISFIABLE,2276.07
+treengeling,T83.2.1.cnf,UNSATISFIABLE,2434.03
+treengeling,T85.2.1.cnf,UNSATISFIABLE,2104.05
+treengeling,T88.2.1.cnf,UNSATISFIABLE,1870.35
+treengeling T89.2.1.cnf UNSOLVED 
+treengeling,T93.2.1.cnf,UNSATISFIABLE,2723.03
+treengeling T96.1.1.cnf UNSOLVED 
+treengeling T97.2.1.cnf UNSOLVED 
+treengeling,T99.2.0.cnf,UNSATISFIABLE,368.84
+treengeling T99.2.1.cnf UNSOLVED 
+treengeling,test_v5_r10_vr10_c1_s21502.smt2-cvc4.cnf,UNSATISFIABLE,1257.47
+treengeling,test_v7_r7_vr5_c1_s14675.smt2-cvc4.cnf,SATISFIABLE,623.49
+treengeling,tri_ali_s11_c35_abio_UNS.cnf,UNSATISFIABLE,6.84
+treengeling,tri_ali_s11_c35_abix_UNS.cnf,UNSATISFIABLE,8.36
+treengeling,tri_ali_s11_c35_bail_UNS.cnf,UNSATISFIABLE,7.93
+treengeling,tri_ali_s11_c35_sinx_UNS.cnf,UNSATISFIABLE,4.41
+treengeling,tri_ali_s11_c35_sinz_UNS.cnf,UNSATISFIABLE,6.90
+treengeling,UCG-15-10p1.cnf,SATISFIABLE,377.35
+treengeling,UCG-20-10p1.cnf,SATISFIABLE,772.48
+treengeling UCG-20-5p1.cnf UNSOLVED 
+treengeling,UR-20-10p1.cnf,SATISFIABLE,1499.71
+treengeling,UR-20-5p1.cnf,SATISFIABLE,478.10
+treengeling,UTI-20-10p1.cnf,SATISFIABLE,1026.06
+treengeling,UTI-20-5p1.cnf,SATISFIABLE,452.27
